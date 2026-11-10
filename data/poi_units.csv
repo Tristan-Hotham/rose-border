@@ -1,0 +1,2934 @@
+zone,hist,modern,cell5,cell10,block20,bh,bm,band,poi_bus,poi_all
+CC,Cheshire,Cheshire,65_75,32_37,16_18,999,999,999,121,253
+CC,Cheshire,Cheshire,65_76,32_38,16_19,999,999,999,1,2
+CC,Cheshire,Cheshire,66_72,33_36,16_18,999,999,999,0,2
+CC,Cheshire,Cheshire,66_74,33_37,16_18,999,999,999,11,40
+CC,Cheshire,Cheshire,66_75,33_37,16_18,999,999,999,13,91
+CC,Cheshire,Cheshire,67_71,33_35,16_17,999,999,999,2,11
+CC,Cheshire,Cheshire,67_72,33_36,16_18,999,999,999,22,119
+CC,Cheshire,Cheshire,67_73,33_36,16_18,999,999,999,125,309
+CC,Cheshire,Cheshire,67_74,33_37,16_18,999,999,999,31,165
+CC,Cheshire,Cheshire,67_75,33_37,16_18,999,999,999,80,325
+CC,Cheshire,Cheshire,68_69,34_34,17_17,999,999,999,0,6
+CC,Cheshire,Cheshire,68_70,34_35,17_17,999,999,999,5,31
+CC,Cheshire,Cheshire,68_71,34_35,17_17,999,999,999,4,18
+CC,Cheshire,Cheshire,68_72,34_36,17_18,999,999,999,16,88
+CC,Cheshire,Cheshire,68_73,34_36,17_18,999,999,999,1012,1619
+CC,Cheshire,Cheshire,68_74,34_37,17_18,999,999,999,266,371
+CC,Cheshire,Cheshire,68_75,34_37,17_18,999,999,999,43,114
+CC,Cheshire,Cheshire,69_68,34_34,17_17,999,999,999,0,2
+CC,Cheshire,Cheshire,69_69,34_34,17_17,999,999,999,25,75
+CC,Cheshire,Cheshire,69_70,34_35,17_17,999,999,999,66,96
+CC,Cheshire,Cheshire,69_71,34_35,17_17,999,999,999,20,68
+CC,Cheshire,Cheshire,69_72,34_36,17_18,999,999,999,16,56
+CC,Cheshire,Cheshire,69_73,34_36,17_18,999,999,999,24,81
+CC,Cheshire,Cheshire,69_74,34_37,17_18,999,999,999,30,86
+CC,Cheshire,Cheshire,69_75,34_37,17_18,999,999,999,90,148
+CC,Cheshire,Cheshire,69_76,34_38,17_19,999,999,999,5,7
+CC,Cheshire,Cheshire,70_68,35_34,17_17,999,999,999,2,5
+CC,Cheshire,Cheshire,70_69,35_34,17_17,999,999,999,6,26
+CC,Cheshire,Cheshire,70_70,35_35,17_17,999,999,999,6,40
+CC,Cheshire,Cheshire,70_71,35_35,17_17,999,999,999,17,49
+CC,Cheshire,Cheshire,70_72,35_36,17_18,999,999,999,4,39
+CC,Cheshire,Cheshire,70_73,35_36,17_18,999,999,999,21,65
+CC,Cheshire,Cheshire,70_74,35_37,17_18,999,999,999,19,76
+CC,Cheshire,Cheshire,70_75,35_37,17_18,999,999,999,188,326
+CC,Cheshire,Cheshire,70_76,35_38,17_19,999,999,999,316,624
+CC,Cheshire,Cheshire,71_68,35_34,17_17,999,999,999,1,4
+CC,Cheshire,Cheshire,71_69,35_34,17_17,999,999,999,9,40
+CC,Cheshire,Cheshire,71_70,35_35,17_17,999,999,999,3,24
+CC,Cheshire,Cheshire,71_71,35_35,17_17,999,999,999,18,79
+CC,Cheshire,Cheshire,71_72,35_36,17_18,999,999,999,51,107
+CC,Cheshire,Cheshire,71_73,35_36,17_18,999,999,999,27,91
+CC,Cheshire,Cheshire,71_74,35_37,17_18,999,999,999,36,126
+CC,Cheshire,Cheshire,71_75,35_37,17_18,999,999,999,7,40
+CC,Cheshire,Cheshire,71_76,35_38,17_19,999,999,999,60,167
+CC,Cheshire,Cheshire,71_77,35_38,17_19,999,999,40,0,1
+CC,Cheshire,Cheshire,71_77,35_38,17_19,999,999,999,5,11
+CC,Cheshire,Cheshire,72_68,36_34,18_17,999,999,999,1,20
+CC,Cheshire,Cheshire,72_69,36_34,18_17,999,999,999,4,38
+CC,Cheshire,Cheshire,72_70,36_35,18_17,999,999,999,40,128
+CC,Cheshire,Cheshire,72_71,36_35,18_17,999,999,999,3,36
+CC,Cheshire,Cheshire,72_72,36_36,18_18,999,999,999,4,51
+CC,Cheshire,Cheshire,72_73,36_36,18_18,999,999,999,118,280
+CC,Cheshire,Cheshire,72_74,36_37,18_18,999,999,999,113,323
+CC,Cheshire,Cheshire,72_75,36_37,18_18,999,999,40,1,7
+CC,Cheshire,Cheshire,72_75,36_37,18_18,999,999,999,31,133
+CC,Cheshire,Cheshire,72_76,36_38,18_19,999,999,40,17,78
+CC,Cheshire,Cheshire,72_76,36_38,18_19,999,999,999,15,42
+CC,Cheshire,Cheshire,72_77,36_38,18_19,999,999,40,241,500
+CC,Cheshire,Cheshire,72_77,36_38,18_19,999,999,999,2,5
+CC,Cheshire,Cheshire,73_68,36_34,18_17,999,999,999,12,47
+CC,Cheshire,Cheshire,73_69,36_34,18_17,999,999,999,5,43
+CC,Cheshire,Cheshire,73_70,36_35,18_17,999,999,999,245,539
+CC,Cheshire,Cheshire,73_71,36_35,18_17,999,999,999,66,275
+CC,Cheshire,Cheshire,73_72,36_36,18_18,999,999,999,5,43
+CC,Cheshire,Cheshire,73_73,36_36,18_18,999,999,999,116,304
+CC,Cheshire,Cheshire,73_74,36_37,18_18,999,999,40,9,29
+CC,Cheshire,Cheshire,73_74,36_37,18_18,999,999,999,356,592
+CC,Cheshire,Cheshire,73_75,36_37,18_18,999,999,40,22,73
+CC,Cheshire,Cheshire,73_75,36_37,18_18,999,999,999,5,19
+CC,Cheshire,Cheshire,73_76,36_38,18_19,999,999,40,17,39
+CC,Cheshire,Cheshire,73_77,36_38,18_19,999,999,40,84,183
+CC,Cheshire,Cheshire,74_68,37_34,18_17,999,999,999,5,9
+CC,Cheshire,Cheshire,74_69,37_34,18_17,999,999,999,0,24
+CC,Cheshire,Cheshire,74_70,37_35,18_17,999,999,999,176,358
+CC,Cheshire,Cheshire,74_71,37_35,18_17,999,999,999,246,490
+CC,Cheshire,Cheshire,74_72,37_36,18_18,999,999,999,25,118
+CC,Cheshire,Cheshire,74_73,37_36,18_18,999,999,40,2,4
+CC,Cheshire,Cheshire,74_73,37_36,18_18,999,999,999,94,194
+CC,Cheshire,Cheshire,74_74,37_37,18_18,999,999,40,12,32
+CC,Cheshire,Cheshire,74_74,37_37,18_18,999,999,999,1,6
+CC,Cheshire,Cheshire,74_75,37_37,18_18,999,999,40,31,89
+CC,Cheshire,Cheshire,74_76,37_38,18_19,999,999,40,19,66
+CC,Cheshire,Cheshire,74_77,37_38,18_19,999,999,40,12,39
+CC,Cheshire,Cheshire,75_70,37_35,18_17,999,999,999,8,33
+CC,Cheshire,Cheshire,75_71,37_35,18_17,999,999,999,114,237
+CC,Cheshire,Cheshire,75_72,37_36,18_18,999,999,999,186,308
+CC,Cheshire,Cheshire,75_73,37_36,18_18,999,999,40,7,23
+CC,Cheshire,Cheshire,75_73,37_36,18_18,999,999,999,65,116
+CC,Cheshire,Cheshire,75_74,37_37,18_18,999,999,40,25,59
+CC,Cheshire,Cheshire,75_75,37_37,18_18,999,999,40,170,278
+CC,Cheshire,Cheshire,75_76,37_38,18_19,999,999,40,9,37
+CC,Cheshire,Cheshire,75_77,37_38,18_19,999,999,40,1,1
+CC,Cheshire,Cheshire,76_70,38_35,19_17,999,999,999,2,16
+CC,Cheshire,Cheshire,76_71,38_35,19_17,999,999,999,28,158
+CC,Cheshire,Cheshire,76_72,38_36,19_18,999,999,999,34,153
+CC,Cheshire,Cheshire,76_73,38_36,19_18,999,999,40,5,20
+CC,Cheshire,Cheshire,76_73,38_36,19_18,999,999,999,1,4
+CC,Cheshire,Cheshire,76_74,38_37,19_18,999,999,40,14,56
+CC,Cheshire,Cheshire,76_75,38_37,19_18,999,999,40,98,220
+CC,Cheshire,Cheshire,76_76,38_38,19_19,999,999,25,238,341
+CC,Cheshire,Cheshire,76_76,38_38,19_19,999,999,40,56,96
+CC,Cheshire,Cheshire,77_71,38_35,19_17,999,999,999,1,8
+CC,Cheshire,Cheshire,77_72,38_36,19_18,999,999,40,12,41
+CC,Cheshire,Cheshire,77_72,38_36,19_18,999,999,999,298,469
+CC,Cheshire,Cheshire,77_73,38_36,19_18,999,999,40,6,39
+CC,Cheshire,Cheshire,77_74,38_37,19_18,999,999,40,37,155
+CC,Cheshire,Cheshire,77_75,38_37,19_18,999,999,25,2,2
+CC,Cheshire,Cheshire,77_75,38_37,19_18,999,999,40,22,58
+CC,Cheshire,Cheshire,77_76,38_38,19_19,999,999,25,60,142
+CC,Cheshire,Cheshire,78_72,39_36,19_18,999,999,40,1,7
+CC,Cheshire,Cheshire,78_73,39_36,19_18,999,999,40,3,32
+CC,Cheshire,Cheshire,78_74,39_37,19_18,999,999,40,406,706
+CC,Cheshire,Cheshire,78_75,39_37,19_18,999,999,25,29,58
+CC,Cheshire,Cheshire,78_75,39_37,19_18,999,999,40,41,153
+CC,Cheshire,Cheshire,78_76,39_38,19_19,999,999,25,138,288
+CC,Cheshire,Cheshire,78_77,39_38,19_19,999,999,25,2,5
+CC,Cheshire,Cheshire,79_73,39_36,19_18,999,999,40,6,12
+CC,Cheshire,Cheshire,79_74,39_37,19_18,999,999,40,5,16
+CC,Cheshire,Cheshire,79_75,39_37,19_18,999,999,25,3,10
+CC,Cheshire,Cheshire,79_75,39_37,19_18,999,999,40,1,19
+CC,Cheshire,Cheshire,79_76,39_38,19_19,999,999,25,53,117
+CC,Cheshire,Cheshire,79_77,39_38,19_19,999,999,25,1,5
+CC,Cheshire,Cheshire,80_73,40_36,20_18,999,999,40,1,2
+CC,Cheshire,Cheshire,80_74,40_37,20_18,999,999,40,0,3
+C_GM,Cheshire,Greater Manchester,73_77,36_38,18_19,999,-40,40,0,2
+C_GM,Cheshire,Greater Manchester,74_77,37_38,18_19,999,-40,40,15,52
+C_GM,Cheshire,Greater Manchester,74_77,37_38,18_19,999,-35,40,2,4
+C_GM,Cheshire,Greater Manchester,74_78,37_39,18_19,999,-40,40,0,22
+C_GM,Cheshire,Greater Manchester,74_78,37_39,18_19,999,-35,25,2,9
+C_GM,Cheshire,Greater Manchester,74_78,37_39,18_19,999,-35,40,25,90
+C_GM,Cheshire,Greater Manchester,75_76,37_38,18_19,999,-35,25,0,2
+C_GM,Cheshire,Greater Manchester,75_76,37_38,18_19,999,-35,40,1,1
+C_GM,Cheshire,Greater Manchester,75_77,37_38,18_19,999,-40,40,1,5
+C_GM,Cheshire,Greater Manchester,75_77,37_38,18_19,999,-35,25,265,588
+C_GM,Cheshire,Greater Manchester,75_77,37_38,18_19,999,-35,40,127,227
+C_GM,Cheshire,Greater Manchester,75_77,37_38,18_19,999,-30,25,4,15
+C_GM,Cheshire,Greater Manchester,75_78,37_39,18_19,999,-35,25,67,193
+C_GM,Cheshire,Greater Manchester,75_78,37_39,18_19,999,-30,25,328,566
+C_GM,Cheshire,Greater Manchester,76_76,38_38,19_19,999,-35,25,32,57
+C_GM,Cheshire,Greater Manchester,76_77,38_38,19_19,999,-35,25,77,189
+C_GM,Cheshire,Greater Manchester,76_77,38_38,19_19,999,-30,25,282,696
+C_GM,Cheshire,Greater Manchester,76_78,38_39,19_19,999,-30,25,95,205
+C_GM,Cheshire,Greater Manchester,77_76,38_38,19_19,999,-30,25,74,186
+C_GM,Cheshire,Greater Manchester,77_77,38_38,19_19,999,-30,25,226,486
+C_GM,Cheshire,Greater Manchester,77_77,38_38,19_19,999,-25,15,88,129
+C_GM,Cheshire,Greater Manchester,77_77,38_38,19_19,999,-25,25,264,484
+C_GM,Cheshire,Greater Manchester,77_78,38_39,19_19,999,-25,15,335,426
+C_GM,Cheshire,Greater Manchester,77_78,38_39,19_19,999,-25,25,2,3
+C_GM,Cheshire,Greater Manchester,78_76,39_38,19_19,999,-30,25,1,2
+C_GM,Cheshire,Greater Manchester,78_76,39_38,19_19,999,-25,25,0,1
+C_GM,Cheshire,Greater Manchester,78_77,39_38,19_19,999,-25,15,55,158
+C_GM,Cheshire,Greater Manchester,78_77,39_38,19_19,999,-25,25,182,415
+C_GM,Cheshire,Greater Manchester,78_77,39_38,19_19,999,-20,15,4,12
+C_GM,Cheshire,Greater Manchester,78_78,39_39,19_19,999,-25,15,75,133
+C_GM,Cheshire,Greater Manchester,78_78,39_39,19_19,999,-20,10,6,28
+C_GM,Cheshire,Greater Manchester,78_78,39_39,19_19,999,-20,15,90,271
+C_GM,Cheshire,Greater Manchester,78_78,39_39,19_19,999,-15,10,22,31
+C_GM,Cheshire,Greater Manchester,78_79,39_39,19_19,999,-20,10,3,14
+C_GM,Cheshire,Greater Manchester,78_79,39_39,19_19,999,-15,10,41,201
+C_GM,Cheshire,Greater Manchester,79_76,39_38,19_19,999,-25,25,3,6
+C_GM,Cheshire,Greater Manchester,79_77,39_38,19_19,999,-25,15,1,1
+C_GM,Cheshire,Greater Manchester,79_77,39_38,19_19,999,-25,25,25,64
+C_GM,Cheshire,Greater Manchester,79_77,39_38,19_19,999,-20,15,51,125
+C_GM,Cheshire,Greater Manchester,79_77,39_38,19_19,999,-20,25,1,8
+C_GM,Cheshire,Greater Manchester,79_78,39_39,19_19,999,-20,10,25,51
+C_GM,Cheshire,Greater Manchester,79_78,39_39,19_19,999,-20,15,8,29
+C_GM,Cheshire,Greater Manchester,79_78,39_39,19_19,999,-15,10,24,166
+C_GM,Cheshire,Greater Manchester,79_79,39_39,19_19,999,-15,10,225,478
+C_GM,Cheshire,Greater Manchester,79_79,39_39,19_19,999,-10,10,3,14
+C_GM,Cheshire,Greater Manchester,79_80,39_40,19_20,999,-10,10,13,83
+C_GM,Cheshire,Greater Manchester,80_79,40_39,20_19,999,-15,10,15,34
+C_GM,Cheshire,Greater Manchester,80_79,40_39,20_19,999,-10,10,4,11
+C_MS,Cheshire,Merseyside,64_76,32_38,16_19,999,999,999,8,24
+C_MS,Cheshire,Merseyside,64_77,32_38,16_19,999,999,999,236,445
+C_MS,Cheshire,Merseyside,64_78,32_39,16_19,999,999,999,4,14
+C_MS,Cheshire,Merseyside,65_75,32_37,16_18,999,999,999,2,3
+C_MS,Cheshire,Merseyside,65_76,32_38,16_19,999,999,999,164,389
+C_MS,Cheshire,Merseyside,65_77,32_38,16_19,999,999,999,258,658
+C_MS,Cheshire,Merseyside,65_78,32_39,16_19,999,999,999,144,381
+C_MS,Cheshire,Merseyside,66_75,33_37,16_18,999,999,999,4,18
+C_MS,Cheshire,Merseyside,66_76,33_38,16_19,999,999,999,139,391
+C_MS,Cheshire,Merseyside,66_77,33_38,16_19,999,999,999,441,957
+C_MS,Cheshire,Merseyside,66_78,33_39,16_19,999,999,999,216,540
+C_MS,Cheshire,Merseyside,67_75,33_37,16_18,999,999,999,9,38
+C_MS,Cheshire,Merseyside,67_76,33_38,16_19,999,999,999,66,158
+Che>Derbys,Cheshire,Derbyshire,79_76,39_38,19_19,999,999,25,2,15
+Che>Derbys,Cheshire,Derbyshire,79_77,39_38,19_19,999,999,25,11,13
+Che>Derbys,Cheshire,Derbyshire,80_74,40_37,20_18,999,999,40,1,3
+Che>Derbys,Cheshire,Derbyshire,80_75,40_37,20_18,999,999,25,0,1
+Che>Derbys,Cheshire,Derbyshire,80_75,40_37,20_18,999,999,40,0,1
+Che>Derbys,Cheshire,Derbyshire,80_76,40_38,20_19,999,999,25,51,104
+Che>Derbys,Cheshire,Derbyshire,80_77,40_38,20_19,999,999,25,0,2
+Che>Derbys,Cheshire,Derbyshire,80_79,40_39,20_19,999,999,10,6,16
+DD,Durham,Durham,75_106,37_53,18_26,999,999,999,1,1
+DD,Durham,Durham,76_105,38_52,19_26,999,999,999,1,1
+DD,Durham,Durham,76_106,38_53,19_26,999,999,999,1,3
+DD,Durham,Durham,76_107,38_53,19_26,999,999,999,2,2
+DD,Durham,Durham,76_108,38_54,19_27,999,999,999,4,8
+DD,Durham,Durham,77_105,38_52,19_26,999,999,999,2,11
+DD,Durham,Durham,77_106,38_53,19_26,999,999,999,3,11
+DD,Durham,Durham,77_107,38_53,19_26,999,999,999,12,36
+DD,Durham,Durham,77_108,38_54,19_27,999,999,999,4,9
+DD,Durham,Durham,78_105,39_52,19_26,999,999,999,24,60
+DD,Durham,Durham,78_107,39_53,19_26,999,999,999,5,25
+DD,Durham,Durham,78_108,39_54,19_27,999,999,999,3,14
+DD,Durham,Durham,78_109,39_54,19_27,999,999,999,0,3
+DD,Durham,Durham,79_104,39_52,19_26,999,999,999,4,13
+DD,Durham,Durham,79_105,39_52,19_26,999,999,999,2,19
+DD,Durham,Durham,79_106,39_53,19_26,999,999,999,1,1
+DD,Durham,Durham,79_107,39_53,19_26,999,999,999,48,98
+DD,Durham,Durham,79_108,39_54,19_27,999,999,999,3,6
+DD,Durham,Durham,79_109,39_54,19_27,999,999,999,0,3
+DD,Durham,Durham,79_110,39_55,19_27,999,999,999,0,6
+DD,Durham,Durham,80_103,40_51,20_25,999,999,999,39,55
+DD,Durham,Durham,80_104,40_52,20_26,999,999,999,3,7
+DD,Durham,Durham,80_105,40_52,20_26,999,999,999,1,1
+DD,Durham,Durham,80_107,40_53,20_26,999,999,999,9,44
+DD,Durham,Durham,80_108,40_54,20_27,999,999,999,0,2
+DD,Durham,Durham,80_109,40_54,20_27,999,999,999,3,8
+DD,Durham,Durham,80_110,40_55,20_27,999,999,999,6,19
+DD,Durham,Durham,81_103,40_51,20_25,999,999,999,109,195
+DD,Durham,Durham,81_104,40_52,20_26,999,999,999,1,6
+DD,Durham,Durham,81_105,40_52,20_26,999,999,999,8,46
+DD,Durham,Durham,81_106,40_53,20_26,999,999,999,6,16
+DD,Durham,Durham,81_107,40_53,20_26,999,999,999,31,76
+DD,Durham,Durham,81_108,40_54,20_27,999,999,999,1,6
+DD,Durham,Durham,81_109,40_54,20_27,999,999,999,20,89
+DD,Durham,Durham,81_110,40_55,20_27,999,999,999,25,109
+DD,Durham,Durham,82_102,41_51,20_25,999,999,999,0,2
+DD,Durham,Durham,82_103,41_51,20_25,999,999,999,4,39
+DD,Durham,Durham,82_104,41_52,20_26,999,999,999,25,91
+DD,Durham,Durham,82_105,41_52,20_26,999,999,999,5,47
+DD,Durham,Durham,82_106,41_53,20_26,999,999,999,10,57
+DD,Durham,Durham,82_107,41_53,20_26,999,999,999,31,105
+DD,Durham,Durham,82_108,41_54,20_27,999,999,999,5,39
+DD,Durham,Durham,82_109,41_54,20_27,999,999,999,10,55
+DD,Durham,Durham,82_110,41_55,20_27,999,999,999,234,489
+DD,Durham,Durham,82_111,41_55,20_27,999,999,999,13,58
+DD,Durham,Durham,83_103,41_51,20_25,999,999,999,6,28
+DD,Durham,Durham,83_104,41_52,20_26,999,999,999,8,42
+DD,Durham,Durham,83_105,41_52,20_26,999,999,999,75,249
+DD,Durham,Durham,83_106,41_53,20_26,999,999,999,21,146
+DD,Durham,Durham,83_107,41_53,20_26,999,999,999,142,276
+DD,Durham,Durham,83_108,41_54,20_27,999,999,999,30,155
+DD,Durham,Durham,83_109,41_54,20_27,999,999,999,61,163
+DD,Durham,Durham,83_110,41_55,20_27,999,999,999,174,455
+DD,Durham,Durham,83_111,41_55,20_27,999,999,999,41,124
+DD,Durham,Durham,84_102,42_51,21_25,999,999,999,0,2
+DD,Durham,Durham,84_103,42_51,21_25,999,999,999,7,15
+DD,Durham,Durham,84_104,42_52,21_26,999,999,999,3,6
+DD,Durham,Durham,84_105,42_52,21_26,999,999,999,272,609
+DD,Durham,Durham,84_106,42_53,21_26,999,999,999,99,208
+DD,Durham,Durham,84_107,42_53,21_26,999,999,999,45,153
+DD,Durham,Durham,84_108,42_54,21_27,999,999,999,88,259
+DD,Durham,Durham,84_109,42_54,21_27,999,999,999,78,198
+DD,Durham,Durham,84_110,42_55,21_27,999,999,999,84,263
+DD,Durham,Durham,84_111,42_55,21_27,999,999,999,18,37
+DD,Durham,Durham,85_101,42_50,21_25,999,999,999,4,5
+DD,Durham,Durham,85_102,42_51,21_25,999,999,999,693,840
+DD,Durham,Durham,85_103,42_51,21_25,999,999,999,244,348
+DD,Durham,Durham,85_104,42_52,21_26,999,999,999,53,178
+DD,Durham,Durham,85_105,42_52,21_26,999,999,999,49,237
+DD,Durham,Durham,85_106,42_53,21_26,999,999,999,182,453
+DD,Durham,Durham,85_107,42_53,21_26,999,999,999,38,114
+DD,Durham,Durham,85_108,42_54,21_27,999,999,999,864,1509
+DD,Durham,Durham,85_109,42_54,21_27,999,999,999,104,249
+DD,Durham,Durham,85_110,42_55,21_27,999,999,999,303,609
+DD,Durham,Durham,85_111,42_55,21_27,999,999,999,0,4
+DD,Durham,Durham,86_101,43_50,21_25,999,999,999,2,2
+DD,Durham,Durham,86_102,43_51,21_25,999,999,999,83,129
+DD,Durham,Durham,86_103,43_51,21_25,999,999,999,45,70
+DD,Durham,Durham,86_104,43_52,21_26,999,999,999,0,13
+DD,Durham,Durham,86_105,43_52,21_26,999,999,999,9,66
+DD,Durham,Durham,86_106,43_53,21_26,999,999,999,25,107
+DD,Durham,Durham,86_107,43_53,21_26,999,999,999,96,241
+DD,Durham,Durham,86_108,43_54,21_27,999,999,999,98,240
+DD,Durham,Durham,86_109,43_54,21_27,999,999,999,16,61
+DD,Durham,Durham,86_110,43_55,21_27,999,999,999,10,48
+DD,Durham,Durham,87_102,43_51,21_25,999,999,999,10,13
+DD,Durham,Durham,87_103,43_51,21_25,999,999,999,4,10
+DD,Durham,Durham,87_104,43_52,21_26,999,999,999,9,26
+DD,Durham,Durham,87_105,43_52,21_26,999,999,999,46,96
+DD,Durham,Durham,87_106,43_53,21_26,999,999,999,12,80
+DD,Durham,Durham,87_107,43_53,21_26,999,999,999,60,179
+DD,Durham,Durham,87_108,43_54,21_27,999,999,999,37,126
+DD,Durham,Durham,87_109,43_54,21_27,999,999,999,20,110
+DD,Durham,Durham,87_110,43_55,21_27,999,999,999,1,5
+DD,Durham,Durham,88_102,44_51,22_25,999,999,999,38,84
+DD,Durham,Durham,88_103,44_51,22_25,999,999,999,413,698
+DD,Durham,Durham,88_104,44_52,22_26,999,999,999,85,238
+DD,Durham,Durham,88_105,44_52,22_26,999,999,999,22,40
+DD,Durham,Durham,88_106,44_53,22_26,999,999,999,0,12
+DD,Durham,Durham,88_107,44_53,22_26,999,999,999,31,129
+DD,Durham,Durham,88_108,44_54,22_27,999,999,999,160,443
+DD,Durham,Durham,88_109,44_54,22_27,999,999,999,171,362
+DD,Durham,Durham,88_110,44_55,22_27,999,999,999,15,41
+DD,Durham,Durham,89_103,44_51,22_25,999,999,999,70,115
+DD,Durham,Durham,89_104,44_52,22_26,999,999,999,143,325
+DD,Durham,Durham,89_105,44_52,22_26,999,999,999,81,140
+DD,Durham,Durham,89_106,44_53,22_26,999,999,999,69,134
+DD,Durham,Durham,89_107,44_53,22_26,999,999,999,57,129
+DD,Durham,Durham,89_108,44_54,22_27,999,999,999,0,2
+DD,Durham,Durham,90_104,45_52,22_26,999,999,999,2,12
+DD,Durham,Durham,90_105,45_52,22_26,999,999,999,50,93
+DD,Durham,Durham,90_106,45_53,22_26,999,999,999,459,648
+DD,Durham,Durham,90_107,45_53,22_26,999,999,999,6,9
+Der>Derbys,Derbyshire,Derbyshire,79_77,39_38,19_19,999,999,25,54,77
+Der>Derbys,Derbyshire,Derbyshire,79_78,39_39,19_19,999,999,10,1,2
+Der>Derbys,Derbyshire,Derbyshire,79_78,39_39,19_19,999,999,15,0,10
+Der>Derbys,Derbyshire,Derbyshire,80_74,40_37,20_18,999,999,40,0,2
+Der>Derbys,Derbyshire,Derbyshire,80_75,40_37,20_18,999,999,25,2,3
+Der>Derbys,Derbyshire,Derbyshire,80_75,40_37,20_18,999,999,40,0,1
+Der>Derbys,Derbyshire,Derbyshire,80_76,40_38,20_19,999,999,25,37,59
+Der>Derbys,Derbyshire,Derbyshire,80_77,40_38,20_19,999,999,15,2,3
+Der>Derbys,Derbyshire,Derbyshire,80_77,40_38,20_19,999,999,25,43,75
+Der>Derbys,Derbyshire,Derbyshire,80_78,40_39,20_19,999,999,10,19,64
+Der>Derbys,Derbyshire,Derbyshire,80_78,40_39,20_19,999,999,15,4,13
+Der>Derbys,Derbyshire,Derbyshire,80_79,40_39,20_19,999,999,10,42,89
+Der>Derbys,Derbyshire,Derbyshire,83_77,41_38,20_19,999,999,25,6,11
+Der>Derbys,Derbyshire,Derbyshire,83_78,41_39,20_19,999,999,25,0,6
+Der>Derbys,Derbyshire,Derbyshire,83_79,41_39,20_19,999,999,25,0,1
+Der>Derbys,Derbyshire,Derbyshire,84_75,42_37,21_18,999,999,40,1,1
+Der>Derbys,Derbyshire,Derbyshire,84_76,42_38,21_19,999,999,40,13,24
+Der>Derbys,Derbyshire,Derbyshire,84_77,42_38,21_19,999,999,40,4,8
+Der>Derbys,Derbyshire,Derbyshire,85_75,42_37,21_18,999,999,40,10,22
+Der>Derbys,Derbyshire,Derbyshire,85_75,42_37,21_18,999,999,999,1,2
+Der>Derbys,Derbyshire,Derbyshire,85_76,42_38,21_19,999,999,40,5,11
+Der>Derbys,Derbyshire,Derbyshire,86_75,43_37,21_18,999,999,999,13,38
+Der>Derbys,Derbyshire,Derbyshire,87_75,43_37,21_18,999,999,999,23,38
+Der>Derbys,Derbyshire,Derbyshire,88_75,44_37,22_18,999,999,999,44,84
+Der>Derbys,Derbyshire,Derbyshire,88_76,44_38,22_19,999,999,999,5,8
+Der>Derbys,Derbyshire,Derbyshire,89_75,44_37,22_18,999,999,999,7,13
+Der>Derbys,Derbyshire,Derbyshire,89_76,44_38,22_19,999,999,999,20,35
+Der>Derbys,Derbyshire,Derbyshire,90_75,45_37,22_18,999,999,999,2,3
+Der>Greate,Derbyshire,Greater Manchester,79_77,39_38,19_19,999,-25,25,0,1
+Der>Greate,Derbyshire,Greater Manchester,79_77,39_38,19_19,999,-20,15,33,69
+Der>Greate,Derbyshire,Greater Manchester,79_77,39_38,19_19,999,-20,25,2,3
+Der>Greate,Derbyshire,Greater Manchester,79_78,39_39,19_19,999,-20,15,7,26
+Der>Greate,Derbyshire,Greater Manchester,79_78,39_39,19_19,999,-15,15,0,2
+Der>Yorksh,Derbyshire,South Yorkshire,84_76,42_38,21_19,999,30,40,1,1
+Der>Yorksh,Derbyshire,South Yorkshire,85_75,42_37,21_18,999,30,40,1,5
+Der>Yorksh,Derbyshire,South Yorkshire,85_76,42_38,21_19,999,25,40,1,2
+Der>Yorksh,Derbyshire,South Yorkshire,85_76,42_38,21_19,999,30,40,45,72
+Der>Yorksh,Derbyshire,South Yorkshire,86_75,43_37,21_18,999,30,40,2,3
+Der>Yorksh,Derbyshire,South Yorkshire,86_75,43_37,21_18,999,30,999,4,14
+Der>Yorksh,Derbyshire,South Yorkshire,86_75,43_37,21_18,999,35,999,2,8
+Der>Yorksh,Derbyshire,South Yorkshire,86_76,43_38,21_19,999,30,40,35,73
+Der>Yorksh,Derbyshire,South Yorkshire,86_76,43_38,21_19,999,30,999,75,141
+Der>Yorksh,Derbyshire,South Yorkshire,86_76,43_38,21_19,999,35,999,222,405
+Der>Yorksh,Derbyshire,South Yorkshire,87_76,43_38,21_19,999,30,999,8,10
+Der>Yorksh,Derbyshire,South Yorkshire,87_76,43_38,21_19,999,35,999,156,400
+Der>Yorksh,Derbyshire,South Yorkshire,87_76,43_38,21_19,999,40,999,2,3
+Der>Yorksh,Derbyshire,South Yorkshire,88_76,44_38,22_19,999,35,999,8,20
+Der>Yorksh,Derbyshire,South Yorkshire,88_76,44_38,22_19,999,40,999,204,489
+Der>Yorksh,Derbyshire,South Yorkshire,89_76,44_38,22_19,999,40,999,3,5
+LL,Lancashire,Lancashire,66_81,33_40,16_20,-50,-60,999,0,3
+LL,Lancashire,Lancashire,66_82,33_41,16_20,-45,-60,999,1,1
+LL,Lancashire,Lancashire,66_85,33_42,16_21,-35,-55,40,1,1
+LL,Lancashire,Lancashire,66_85,33_42,16_21,-35,-50,40,246,362
+LL,Lancashire,Lancashire,66_86,33_43,16_21,-35,-50,40,754,989
+LL,Lancashire,Lancashire,66_86,33_43,16_21,-30,-50,40,82,138
+LL,Lancashire,Lancashire,66_86,33_43,16_21,-30,-45,40,55,114
+LL,Lancashire,Lancashire,66_87,33_43,16_21,-35,-50,40,886,980
+LL,Lancashire,Lancashire,66_87,33_43,16_21,-30,-50,40,222,327
+LL,Lancashire,Lancashire,66_87,33_43,16_21,-30,-45,40,519,803
+LL,Lancashire,Lancashire,66_87,33_43,16_21,-25,-45,25,2,3
+LL,Lancashire,Lancashire,66_88,33_44,16_22,-30,-45,40,320,556
+LL,Lancashire,Lancashire,66_88,33_44,16_22,-30,-40,40,0,1
+LL,Lancashire,Lancashire,66_88,33_44,16_22,-25,-45,25,10,14
+LL,Lancashire,Lancashire,66_88,33_44,16_22,-25,-40,25,40,59
+LL,Lancashire,Lancashire,66_89,33_44,16_22,-30,-45,40,0,5
+LL,Lancashire,Lancashire,66_89,33_44,16_22,-30,-40,40,50,104
+LL,Lancashire,Lancashire,66_89,33_44,16_22,-25,-40,25,185,257
+LL,Lancashire,Lancashire,67_80,33_40,16_20,-50,-55,999,2,8
+LL,Lancashire,Lancashire,67_81,33_40,16_20,-50,-60,999,3,20
+LL,Lancashire,Lancashire,67_81,33_40,16_20,-50,-55,999,2,12
+LL,Lancashire,Lancashire,67_81,33_40,16_20,-45,-55,999,3,24
+LL,Lancashire,Lancashire,67_82,33_41,16_20,-45,-55,999,17,77
+LL,Lancashire,Lancashire,67_82,33_41,16_20,-40,-55,40,1,24
+LL,Lancashire,Lancashire,67_83,33_41,16_20,-40,-55,40,1,4
+LL,Lancashire,Lancashire,67_83,33_41,16_20,-35,-50,40,1,3
+LL,Lancashire,Lancashire,67_84,33_42,16_21,-35,-55,40,0,8
+LL,Lancashire,Lancashire,67_84,33_42,16_21,-35,-50,40,2,30
+LL,Lancashire,Lancashire,67_85,33_42,16_21,-35,-50,40,101,136
+LL,Lancashire,Lancashire,67_85,33_42,16_21,-30,-50,40,14,27
+LL,Lancashire,Lancashire,67_85,33_42,16_21,-30,-45,40,3,3
+LL,Lancashire,Lancashire,67_86,33_43,16_21,-30,-50,40,0,1
+LL,Lancashire,Lancashire,67_86,33_43,16_21,-30,-45,40,25,36
+LL,Lancashire,Lancashire,67_86,33_43,16_21,-25,-45,25,1,4
+LL,Lancashire,Lancashire,67_87,33_43,16_21,-30,-45,40,4,10
+LL,Lancashire,Lancashire,67_87,33_43,16_21,-25,-45,25,17,26
+LL,Lancashire,Lancashire,67_87,33_43,16_21,-25,-40,25,18,26
+LL,Lancashire,Lancashire,67_88,33_44,16_22,-25,-45,25,3,4
+LL,Lancashire,Lancashire,67_88,33_44,16_22,-25,-40,25,39,66
+LL,Lancashire,Lancashire,67_88,33_44,16_22,-20,-40,25,1,1
+LL,Lancashire,Lancashire,67_88,33_44,16_22,-20,-35,25,1,1
+LL,Lancashire,Lancashire,67_89,33_44,16_22,-25,-40,25,38,55
+LL,Lancashire,Lancashire,67_89,33_44,16_22,-25,-35,25,15,33
+LL,Lancashire,Lancashire,67_89,33_44,16_22,-20,-40,25,1,1
+LL,Lancashire,Lancashire,67_89,33_44,16_22,-20,-35,25,2,3
+LL,Lancashire,Lancashire,68_80,34_40,17_20,-50,-55,999,2,6
+LL,Lancashire,Lancashire,68_80,34_40,17_20,-45,-55,999,0,1
+LL,Lancashire,Lancashire,68_80,34_40,17_20,-45,-50,999,0,17
+LL,Lancashire,Lancashire,68_81,34_40,17_20,-50,-55,999,1,1
+LL,Lancashire,Lancashire,68_81,34_40,17_20,-45,-55,999,100,179
+LL,Lancashire,Lancashire,68_81,34_40,17_20,-45,-50,999,236,333
+LL,Lancashire,Lancashire,68_81,34_40,17_20,-40,-50,40,3,5
+LL,Lancashire,Lancashire,68_82,34_41,17_20,-45,-55,999,1,1
+LL,Lancashire,Lancashire,68_82,34_41,17_20,-45,-50,999,1,5
+LL,Lancashire,Lancashire,68_82,34_41,17_20,-40,-50,40,54,158
+LL,Lancashire,Lancashire,68_83,34_41,17_20,-40,-50,40,1,3
+LL,Lancashire,Lancashire,68_83,34_41,17_20,-35,-50,40,6,30
+LL,Lancashire,Lancashire,68_83,34_41,17_20,-35,-45,40,0,4
+LL,Lancashire,Lancashire,68_84,34_42,17_21,-35,-50,40,1,3
+LL,Lancashire,Lancashire,68_84,34_42,17_21,-35,-45,40,0,8
+LL,Lancashire,Lancashire,68_84,34_42,17_21,-30,-50,40,2,3
+LL,Lancashire,Lancashire,68_84,34_42,17_21,-30,-45,40,20,63
+LL,Lancashire,Lancashire,68_85,34_42,17_21,-30,-50,40,0,2
+LL,Lancashire,Lancashire,68_85,34_42,17_21,-30,-45,40,27,56
+LL,Lancashire,Lancashire,68_85,34_42,17_21,-25,-45,25,14,36
+LL,Lancashire,Lancashire,68_86,34_43,17_21,-25,-45,25,11,20
+LL,Lancashire,Lancashire,68_86,34_43,17_21,-25,-40,25,127,170
+LL,Lancashire,Lancashire,68_86,34_43,17_21,-20,-40,25,0,2
+LL,Lancashire,Lancashire,68_87,34_43,17_21,-25,-40,25,5,6
+LL,Lancashire,Lancashire,68_87,34_43,17_21,-20,-40,25,3,8
+LL,Lancashire,Lancashire,68_87,34_43,17_21,-20,-35,25,0,4
+LL,Lancashire,Lancashire,68_88,34_44,17_22,-25,-40,25,1,1
+LL,Lancashire,Lancashire,68_88,34_44,17_22,-20,-35,25,26,36
+LL,Lancashire,Lancashire,68_88,34_44,17_22,-15,-30,15,1,1
+LL,Lancashire,Lancashire,68_89,34_44,17_22,-20,-35,25,12,22
+LL,Lancashire,Lancashire,68_89,34_44,17_22,-15,-30,15,2,2
+LL,Lancashire,Lancashire,68_90,34_45,17_22,-20,-30,25,1,1
+LL,Lancashire,Lancashire,68_90,34_45,17_22,-15,-30,15,4,4
+LL,Lancashire,Lancashire,68_91,34_45,17_22,-20,-30,25,3,3
+LL,Lancashire,Lancashire,68_91,34_45,17_22,-20,-25,25,15,43
+LL,Lancashire,Lancashire,68_91,34_45,17_22,-15,-25,15,11,24
+LL,Lancashire,Lancashire,68_92,34_46,17_23,-25,-25,25,2,2
+LL,Lancashire,Lancashire,68_92,34_46,17_23,-20,-30,25,1,1
+LL,Lancashire,Lancashire,68_92,34_46,17_23,-20,-25,25,512,769
+LL,Lancashire,Lancashire,68_92,34_46,17_23,-20,-20,25,85,138
+LL,Lancashire,Lancashire,68_93,34_46,17_23,-20,-20,25,1,3
+LL,Lancashire,Lancashire,69_80,34_40,17_20,-45,-50,999,6,16
+LL,Lancashire,Lancashire,69_80,34_40,17_20,-45,-45,999,0,10
+LL,Lancashire,Lancashire,69_80,34_40,17_20,-40,-45,40,6,20
+LL,Lancashire,Lancashire,69_81,34_40,17_20,-45,-50,999,22,55
+LL,Lancashire,Lancashire,69_81,34_40,17_20,-40,-50,40,6,34
+LL,Lancashire,Lancashire,69_81,34_40,17_20,-40,-45,40,106,258
+LL,Lancashire,Lancashire,69_82,34_41,17_20,-40,-50,40,4,11
+LL,Lancashire,Lancashire,69_82,34_41,17_20,-40,-45,40,21,44
+LL,Lancashire,Lancashire,69_82,34_41,17_20,-35,-45,40,17,53
+LL,Lancashire,Lancashire,69_83,34_41,17_20,-35,-45,40,5,44
+LL,Lancashire,Lancashire,69_83,34_41,17_20,-30,-45,40,13,33
+LL,Lancashire,Lancashire,69_83,34_41,17_20,-30,-40,40,0,5
+LL,Lancashire,Lancashire,69_84,34_42,17_21,-35,-45,40,0,8
+LL,Lancashire,Lancashire,69_84,34_42,17_21,-30,-45,40,51,117
+LL,Lancashire,Lancashire,69_84,34_42,17_21,-30,-40,40,1,1
+LL,Lancashire,Lancashire,69_84,34_42,17_21,-25,-40,25,0,1
+LL,Lancashire,Lancashire,69_85,34_42,17_21,-30,-45,40,1,3
+LL,Lancashire,Lancashire,69_85,34_42,17_21,-25,-45,25,20,45
+LL,Lancashire,Lancashire,69_85,34_42,17_21,-25,-40,25,16,40
+LL,Lancashire,Lancashire,69_86,34_43,17_21,-25,-40,25,4,21
+LL,Lancashire,Lancashire,69_86,34_43,17_21,-20,-40,25,14,67
+LL,Lancashire,Lancashire,69_86,34_43,17_21,-20,-35,25,6,27
+LL,Lancashire,Lancashire,69_87,34_43,17_21,-20,-35,25,2,19
+LL,Lancashire,Lancashire,69_87,34_43,17_21,-15,-35,15,1,1
+LL,Lancashire,Lancashire,69_87,34_43,17_21,-15,-30,15,1,1
+LL,Lancashire,Lancashire,69_88,34_44,17_22,-20,-35,25,1,1
+LL,Lancashire,Lancashire,69_88,34_44,17_22,-15,-35,15,3,7
+LL,Lancashire,Lancashire,69_88,34_44,17_22,-15,-30,15,20,48
+LL,Lancashire,Lancashire,69_88,34_44,17_22,-10,-30,10,2,7
+LL,Lancashire,Lancashire,69_89,34_44,17_22,-15,-30,15,18,32
+LL,Lancashire,Lancashire,69_89,34_44,17_22,-10,-30,10,122,156
+LL,Lancashire,Lancashire,69_89,34_44,17_22,-10,-25,10,16,31
+LL,Lancashire,Lancashire,69_90,34_45,17_22,-15,-30,15,4,6
+LL,Lancashire,Lancashire,69_90,34_45,17_22,-15,-25,15,6,18
+LL,Lancashire,Lancashire,69_90,34_45,17_22,-10,-25,10,10,31
+LL,Lancashire,Lancashire,69_91,34_45,17_22,-15,-25,15,36,54
+LL,Lancashire,Lancashire,69_91,34_45,17_22,-15,-20,15,94,228
+LL,Lancashire,Lancashire,69_91,34_45,17_22,-10,-25,10,3,4
+LL,Lancashire,Lancashire,69_91,34_45,17_22,-10,-20,10,1,1
+LL,Lancashire,Lancashire,69_92,34_46,17_23,-20,-20,25,150,354
+LL,Lancashire,Lancashire,69_92,34_46,17_23,-15,-20,15,590,945
+LL,Lancashire,Lancashire,69_92,34_46,17_23,-15,-15,15,3,18
+LL,Lancashire,Lancashire,69_93,34_46,17_23,-20,-20,25,69,131
+LL,Lancashire,Lancashire,69_93,34_46,17_23,-20,-15,25,1,1
+LL,Lancashire,Lancashire,69_93,34_46,17_23,-15,-15,15,18,39
+LL,Lancashire,Lancashire,69_94,34_47,17_23,-20,-20,25,13,20
+LL,Lancashire,Lancashire,69_94,34_47,17_23,-15,-15,15,86,155
+LL,Lancashire,Lancashire,69_95,34_47,17_23,-20,-20,25,17,45
+LL,Lancashire,Lancashire,69_95,34_47,17_23,-15,-15,15,1,3
+LL,Lancashire,Lancashire,70_80,35_40,17_20,-45,-45,999,0,3
+LL,Lancashire,Lancashire,70_80,35_40,17_20,-40,-45,40,2,18
+LL,Lancashire,Lancashire,70_81,35_40,17_20,-40,-45,40,37,100
+LL,Lancashire,Lancashire,70_81,35_40,17_20,-40,-40,40,0,2
+LL,Lancashire,Lancashire,70_81,35_40,17_20,-35,-40,40,5,16
+LL,Lancashire,Lancashire,70_82,35_41,17_20,-35,-45,40,3,7
+LL,Lancashire,Lancashire,70_82,35_41,17_20,-35,-40,40,11,63
+LL,Lancashire,Lancashire,70_82,35_41,17_20,-30,-40,40,2,11
+LL,Lancashire,Lancashire,70_83,35_41,17_20,-35,-40,40,0,2
+LL,Lancashire,Lancashire,70_83,35_41,17_20,-30,-40,40,48,117
+LL,Lancashire,Lancashire,70_83,35_41,17_20,-30,-35,40,0,1
+LL,Lancashire,Lancashire,70_83,35_41,17_20,-25,-35,25,0,1
+LL,Lancashire,Lancashire,70_84,35_42,17_21,-30,-40,40,2,44
+LL,Lancashire,Lancashire,70_84,35_42,17_21,-25,-40,25,80,195
+LL,Lancashire,Lancashire,70_84,35_42,17_21,-25,-35,25,222,342
+LL,Lancashire,Lancashire,70_85,35_42,17_21,-25,-40,25,17,137
+LL,Lancashire,Lancashire,70_85,35_42,17_21,-25,-35,25,43,80
+LL,Lancashire,Lancashire,70_85,35_42,17_21,-20,-40,25,247,422
+LL,Lancashire,Lancashire,70_85,35_42,17_21,-20,-35,25,375,555
+LL,Lancashire,Lancashire,70_86,35_43,17_21,-20,-40,25,36,129
+LL,Lancashire,Lancashire,70_86,35_43,17_21,-20,-35,25,293,646
+LL,Lancashire,Lancashire,70_86,35_43,17_21,-15,-35,15,23,75
+LL,Lancashire,Lancashire,70_87,35_43,17_21,-20,-35,25,0,4
+LL,Lancashire,Lancashire,70_87,35_43,17_21,-15,-35,15,16,40
+LL,Lancashire,Lancashire,70_87,35_43,17_21,-15,-30,15,19,48
+LL,Lancashire,Lancashire,70_87,35_43,17_21,-10,-30,10,2,5
+LL,Lancashire,Lancashire,70_88,35_44,17_22,-15,-30,15,34,49
+LL,Lancashire,Lancashire,70_88,35_44,17_22,-10,-30,10,2,6
+LL,Lancashire,Lancashire,70_88,35_44,17_22,-10,-25,10,2,4
+LL,Lancashire,Lancashire,70_89,35_44,17_22,-10,-25,10,15,27
+LL,Lancashire,Lancashire,70_89,35_44,17_22,-5,-25,10,0,1
+LL,Lancashire,Lancashire,70_90,35_45,17_22,-10,-25,10,16,27
+LL,Lancashire,Lancashire,70_90,35_45,17_22,-10,-20,10,1,12
+LL,Lancashire,Lancashire,70_90,35_45,17_22,-5,-20,10,0,1
+LL,Lancashire,Lancashire,70_91,35_45,17_22,-15,-20,15,0,3
+LL,Lancashire,Lancashire,70_91,35_45,17_22,-10,-20,10,1,6
+LL,Lancashire,Lancashire,70_91,35_45,17_22,-10,-15,10,1,2
+LL,Lancashire,Lancashire,70_92,35_46,17_23,-15,-20,15,0,2
+LL,Lancashire,Lancashire,70_92,35_46,17_23,-15,-15,15,32,82
+LL,Lancashire,Lancashire,70_92,35_46,17_23,-10,-15,10,26,26
+LL,Lancashire,Lancashire,70_93,35_46,17_23,-15,-15,15,11,48
+LL,Lancashire,Lancashire,70_93,35_46,17_23,-10,-10,10,1,5
+LL,Lancashire,Lancashire,70_94,35_47,17_23,-15,-15,15,36,82
+LL,Lancashire,Lancashire,70_94,35_47,17_23,-10,-10,10,3,4
+LL,Lancashire,Lancashire,70_95,35_47,17_23,-15,-15,15,2,14
+LL,Lancashire,Lancashire,71_82,35_41,17_20,-30,-40,40,5,17
+LL,Lancashire,Lancashire,71_82,35_41,17_20,-30,-35,40,37,102
+LL,Lancashire,Lancashire,71_83,35_41,17_20,-30,-35,40,64,164
+LL,Lancashire,Lancashire,71_83,35_41,17_20,-25,-35,25,567,929
+LL,Lancashire,Lancashire,71_83,35_41,17_20,-25,-30,25,4,14
+LL,Lancashire,Lancashire,71_84,35_42,17_21,-25,-35,25,81,253
+LL,Lancashire,Lancashire,71_84,35_42,17_21,-25,-30,25,6,17
+LL,Lancashire,Lancashire,71_84,35_42,17_21,-20,-35,25,22,88
+LL,Lancashire,Lancashire,71_84,35_42,17_21,-20,-30,25,1,4
+LL,Lancashire,Lancashire,71_85,35_42,17_21,-25,-35,25,13,20
+LL,Lancashire,Lancashire,71_85,35_42,17_21,-20,-35,25,190,420
+LL,Lancashire,Lancashire,71_85,35_42,17_21,-20,-30,25,14,39
+LL,Lancashire,Lancashire,71_85,35_42,17_21,-15,-35,15,0,1
+LL,Lancashire,Lancashire,71_85,35_42,17_21,-15,-30,15,1,3
+LL,Lancashire,Lancashire,71_86,35_43,17_21,-20,-35,25,67,146
+LL,Lancashire,Lancashire,71_86,35_43,17_21,-15,-35,15,77,203
+LL,Lancashire,Lancashire,71_86,35_43,17_21,-15,-30,15,8,39
+LL,Lancashire,Lancashire,71_86,35_43,17_21,-10,-30,10,0,4
+LL,Lancashire,Lancashire,71_87,35_43,17_21,-15,-30,15,11,35
+LL,Lancashire,Lancashire,71_87,35_43,17_21,-10,-30,10,4,12
+LL,Lancashire,Lancashire,71_87,35_43,17_21,-10,-25,10,6,9
+LL,Lancashire,Lancashire,71_88,35_44,17_22,-10,-25,10,4,13
+LL,Lancashire,Lancashire,71_88,35_44,17_22,-5,-25,10,1,1
+LL,Lancashire,Lancashire,71_88,35_44,17_22,-5,-20,10,0,1
+LL,Lancashire,Lancashire,71_89,35_44,17_22,-5,-20,10,1,5
+LL,Lancashire,Lancashire,71_90,35_45,17_22,-5,-20,10,0,2
+LL,Lancashire,Lancashire,71_90,35_45,17_22,-5,-15,10,0,4
+LL,Lancashire,Lancashire,71_91,35_45,17_22,-10,-15,10,1,1
+LL,Lancashire,Lancashire,71_92,35_46,17_23,-10,-15,10,2,2
+LL,Lancashire,Lancashire,71_92,35_46,17_23,-10,-10,10,1,1
+LL,Lancashire,Lancashire,71_93,35_46,17_23,-10,-10,10,7,21
+LL,Lancashire,Lancashire,71_93,35_46,17_23,-5,-5,10,7,23
+LL,Lancashire,Lancashire,71_94,35_47,17_23,-10,-10,10,0,7
+LL,Lancashire,Lancashire,71_94,35_47,17_23,-5,-5,10,2,17
+LL,Lancashire,Lancashire,71_95,35_47,17_23,-5,-5,10,0,1
+LL,Lancashire,Lancashire,72_82,36_41,18_20,-30,-35,40,55,91
+LL,Lancashire,Lancashire,72_82,36_41,18_20,-30,-30,40,26,67
+LL,Lancashire,Lancashire,72_82,36_41,18_20,-25,-30,25,3,5
+LL,Lancashire,Lancashire,72_83,36_41,18_20,-30,-30,40,1,1
+LL,Lancashire,Lancashire,72_83,36_41,18_20,-25,-30,25,13,24
+LL,Lancashire,Lancashire,72_84,36_42,18_21,-25,-30,25,4,14
+LL,Lancashire,Lancashire,72_84,36_42,18_21,-20,-30,25,25,70
+LL,Lancashire,Lancashire,72_84,36_42,18_21,-20,-25,25,2,12
+LL,Lancashire,Lancashire,72_85,36_42,18_21,-20,-30,25,2,21
+LL,Lancashire,Lancashire,72_85,36_42,18_21,-15,-30,15,4,12
+LL,Lancashire,Lancashire,72_85,36_42,18_21,-15,-25,15,12,47
+LL,Lancashire,Lancashire,72_86,36_43,18_21,-15,-30,15,9,36
+LL,Lancashire,Lancashire,72_86,36_43,18_21,-10,-30,10,2,6
+LL,Lancashire,Lancashire,72_86,36_43,18_21,-10,-25,10,3,7
+LL,Lancashire,Lancashire,72_87,36_43,18_21,-10,-30,10,5,9
+LL,Lancashire,Lancashire,72_87,36_43,18_21,-10,-25,10,258,298
+LL,Lancashire,Lancashire,72_87,36_43,18_21,-5,-25,10,1,1
+LL,Lancashire,Lancashire,72_88,36_44,18_22,-5,-25,10,0,1
+LL,Lancashire,Lancashire,72_88,36_44,18_22,-5,-20,10,7,19
+LL,Lancashire,Lancashire,72_93,36_46,18_23,-5,-5,10,6,19
+LL,Lancashire,Lancashire,72_94,36_47,18_23,-5,-5,10,4,11
+LL,Lancashire,Lancashire,72_95,36_47,18_23,-5,-5,10,8,23
+LL,Lancashire,Lancashire,73_82,36_41,18_20,-25,-25,25,0,6
+LL,Lancashire,Lancashire,73_83,36_41,18_20,-25,-25,25,3,22
+LL,Lancashire,Lancashire,73_83,36_41,18_20,-20,-25,25,1,2
+LL,Lancashire,Lancashire,73_84,36_42,18_21,-20,-25,25,8,59
+LL,Lancashire,Lancashire,73_84,36_42,18_21,-20,-20,25,41,182
+LL,Lancashire,Lancashire,73_84,36_42,18_21,-15,-25,15,16,59
+LL,Lancashire,Lancashire,73_84,36_42,18_21,-15,-20,15,2,14
+LL,Lancashire,Lancashire,73_85,36_42,18_21,-15,-25,15,316,745
+LL,Lancashire,Lancashire,73_85,36_42,18_21,-15,-20,15,22,136
+LL,Lancashire,Lancashire,73_85,36_42,18_21,-10,-25,10,59,176
+LL,Lancashire,Lancashire,73_85,36_42,18_21,-10,-20,10,2,57
+LL,Lancashire,Lancashire,73_86,36_43,18_21,-10,-25,10,75,150
+LL,Lancashire,Lancashire,73_86,36_43,18_21,-10,-20,10,1,7
+LL,Lancashire,Lancashire,73_87,36_43,18_21,-10,-25,10,5,9
+LL,Lancashire,Lancashire,73_87,36_43,18_21,-5,-25,10,1,2
+LL,Lancashire,Lancashire,73_87,36_43,18_21,-5,-20,10,7,19
+LL,Lancashire,Lancashire,73_93,36_46,18_23,-5,-5,10,0,2
+LL,Lancashire,Lancashire,73_94,36_47,18_23,-5,-5,10,3,3
+LL,Lancashire,Lancashire,73_95,36_47,18_23,-5,-5,10,4,4
+LL,Lancashire,Lancashire,74_82,37_41,18_20,-25,-20,25,3,8
+LL,Lancashire,Lancashire,74_83,37_41,18_20,-25,-20,25,3,16
+LL,Lancashire,Lancashire,74_83,37_41,18_20,-20,-20,25,18,76
+LL,Lancashire,Lancashire,74_83,37_41,18_20,-20,-15,25,1,3
+LL,Lancashire,Lancashire,74_84,37_42,18_21,-20,-20,25,2,60
+LL,Lancashire,Lancashire,74_84,37_42,18_21,-20,-15,25,0,2
+LL,Lancashire,Lancashire,74_84,37_42,18_21,-15,-20,15,2,9
+LL,Lancashire,Lancashire,74_85,37_42,18_21,-15,-20,15,27,157
+LL,Lancashire,Lancashire,74_85,37_42,18_21,-15,-15,15,16,80
+LL,Lancashire,Lancashire,74_85,37_42,18_21,-10,-20,10,28,73
+LL,Lancashire,Lancashire,74_85,37_42,18_21,-10,-15,10,3,24
+LL,Lancashire,Lancashire,74_86,37_43,18_21,-10,-20,10,147,271
+LL,Lancashire,Lancashire,74_86,37_43,18_21,-10,-15,10,3,11
+LL,Lancashire,Lancashire,74_86,37_43,18_21,-5,-25,10,7,14
+LL,Lancashire,Lancashire,74_86,37_43,18_21,-5,-20,10,6,7
+LL,Lancashire,Lancashire,74_87,37_43,18_21,-5,-25,10,1,4
+LL,Lancashire,Lancashire,74_87,37_43,18_21,-5,-20,10,76,142
+LL,Lancashire,Lancashire,74_88,37_44,18_22,-5,-20,10,0,1
+LL,Lancashire,Lancashire,74_88,37_44,18_22,-5,-15,10,258,361
+LL,Lancashire,Lancashire,75_83,37_41,18_20,-20,-15,25,1,1
+LL,Lancashire,Lancashire,75_83,37_41,18_20,-15,-15,15,4,10
+LL,Lancashire,Lancashire,75_83,37_41,18_20,-15,-10,15,0,2
+LL,Lancashire,Lancashire,75_84,37_42,18_21,-20,-15,25,1,4
+LL,Lancashire,Lancashire,75_84,37_42,18_21,-15,-15,15,45,82
+LL,Lancashire,Lancashire,75_84,37_42,18_21,-15,-10,15,6,17
+LL,Lancashire,Lancashire,75_85,37_42,18_21,-15,-15,15,87,229
+LL,Lancashire,Lancashire,75_85,37_42,18_21,-15,-10,15,1,1
+LL,Lancashire,Lancashire,75_85,37_42,18_21,-10,-15,10,3,29
+LL,Lancashire,Lancashire,75_86,37_43,18_21,-15,-15,15,4,31
+LL,Lancashire,Lancashire,75_86,37_43,18_21,-10,-20,10,6,8
+LL,Lancashire,Lancashire,75_86,37_43,18_21,-10,-15,10,38,180
+LL,Lancashire,Lancashire,75_87,37_43,18_21,-10,-15,10,9,27
+LL,Lancashire,Lancashire,75_87,37_43,18_21,-5,-20,10,0,2
+LL,Lancashire,Lancashire,75_87,37_43,18_21,-5,-15,10,3,5
+LL,Lancashire,Lancashire,75_88,37_44,18_22,-5,-15,10,12,21
+LL,Lancashire,Lancashire,75_88,37_44,18_22,-5,-10,10,15,25
+LL,Lancashire,Lancashire,76_82,38_41,19_20,-15,-15,15,1,1
+LL,Lancashire,Lancashire,76_83,38_41,19_20,-15,-10,15,3,4
+LL,Lancashire,Lancashire,76_84,38_42,19_21,-15,-10,15,47,98
+LL,Lancashire,Lancashire,76_84,38_42,19_21,-10,-10,10,31,63
+LL,Lancashire,Lancashire,76_84,38_42,19_21,-10,-5,10,1,4
+LL,Lancashire,Lancashire,76_85,38_42,19_21,-10,-10,10,16,58
+LL,Lancashire,Lancashire,76_85,38_42,19_21,-10,-5,10,3,8
+LL,Lancashire,Lancashire,76_86,38_43,19_21,-15,-15,15,2,14
+LL,Lancashire,Lancashire,76_86,38_43,19_21,-15,-10,15,0,1
+LL,Lancashire,Lancashire,76_86,38_43,19_21,-10,-15,10,11,40
+LL,Lancashire,Lancashire,76_86,38_43,19_21,-10,-10,10,203,532
+LL,Lancashire,Lancashire,76_87,38_43,19_21,-10,-15,10,4,15
+LL,Lancashire,Lancashire,76_87,38_43,19_21,-10,-10,10,7,43
+LL,Lancashire,Lancashire,76_87,38_43,19_21,-5,-15,10,1,3
+LL,Lancashire,Lancashire,76_87,38_43,19_21,-5,-10,10,9,28
+LL,Lancashire,Lancashire,76_88,38_44,19_22,-5,-15,10,4,11
+LL,Lancashire,Lancashire,76_88,38_44,19_22,-5,-10,10,5,6
+LL,Lancashire,Lancashire,77_83,38_41,19_20,-10,-5,10,9,21
+LL,Lancashire,Lancashire,77_84,38_42,19_21,-10,-5,10,14,33
+LL,Lancashire,Lancashire,77_84,38_42,19_21,-5,-5,10,2,13
+LL,Lancashire,Lancashire,77_85,38_42,19_21,-10,-10,10,1,1
+LL,Lancashire,Lancashire,77_85,38_42,19_21,-5,-5,10,2,10
+LL,Lancashire,Lancashire,77_86,38_43,19_21,-10,-10,10,14,86
+LL,Lancashire,Lancashire,77_86,38_43,19_21,-5,-5,10,11,29
+LL,Lancashire,Lancashire,77_87,38_43,19_21,-10,-10,10,3,56
+LL,Lancashire,Lancashire,77_87,38_43,19_21,-5,-10,10,165,409
+LL,Lancashire,Lancashire,77_87,38_43,19_21,-5,-5,10,3,6
+LL,Lancashire,Lancashire,77_88,38_44,19_22,-5,-10,10,57,109
+LL,Lancashire,Lancashire,77_88,38_44,19_22,-5,-5,10,10,48
+LL,Lancashire,Lancashire,78_85,39_42,19_21,-5,-5,10,1,1
+LL,Lancashire,Lancashire,78_87,39_43,19_21,-5,-5,10,10,30
+LL,Lancashire,Lancashire,78_88,39_44,19_22,-5,-5,10,9,44
+L_CH,Lancashire,Cheshire,69_76,34_38,17_19,-55,999,999,23,58
+L_CH,Lancashire,Cheshire,69_77,34_38,17_19,-55,999,999,11,36
+L_CH,Lancashire,Cheshire,69_77,34_38,17_19,-50,999,999,17,39
+L_CH,Lancashire,Cheshire,70_76,35_38,17_19,-50,999,999,6,28
+L_CH,Lancashire,Cheshire,70_77,35_38,17_19,-50,999,999,281,493
+L_CH,Lancashire,Cheshire,70_77,35_38,17_19,-45,999,999,2,9
+L_CH,Lancashire,Cheshire,70_78,35_39,17_19,-45,999,999,0,1
+L_CH,Lancashire,Cheshire,71_77,35_38,17_19,-45,999,999,116,312
+L_CH,Lancashire,Cheshire,71_77,35_38,17_19,-40,999,40,72,138
+L_CH,Lancashire,Cheshire,71_78,35_39,17_19,-45,999,999,34,114
+L_CH,Lancashire,Cheshire,71_78,35_39,17_19,-40,999,40,83,160
+L_CH,Lancashire,Cheshire,71_79,35_39,17_19,-45,999,999,0,4
+L_CH,Lancashire,Cheshire,72_77,36_38,18_19,-40,999,40,538,805
+L_CH,Lancashire,Cheshire,72_77,36_38,18_19,-35,999,40,12,35
+L_CH,Lancashire,Cheshire,72_78,36_39,18_19,-40,999,40,122,308
+L_CH,Lancashire,Cheshire,72_78,36_39,18_19,-35,999,40,37,136
+L_CH,Lancashire,Cheshire,72_79,36_39,18_19,-35,999,40,1,3
+L_CH,Lancashire,Cheshire,73_77,36_38,18_19,-35,999,40,6,31
+L_CH,Lancashire,Cheshire,73_78,36_39,18_19,-35,999,40,62,147
+L_CH,Lancashire,Cheshire,73_78,36_39,18_19,-30,999,40,5,25
+L_CH,Lancashire,Cheshire,73_79,36_39,18_19,-35,999,40,33,57
+L_CH,Lancashire,Cheshire,73_79,36_39,18_19,-30,999,40,21,42
+L_CU,Lancashire,Cumbria,63_93,31_46,15_23,-45,-50,999,14,61
+L_CU,Lancashire,Cumbria,63_93,31_46,15_23,-45,-45,999,216,365
+L_CU,Lancashire,Cumbria,63_94,31_47,15_23,-45,-50,999,1,3
+L_CU,Lancashire,Cumbria,63_94,31_47,15_23,-45,-45,999,25,74
+L_CU,Lancashire,Cumbria,63_97,31_48,15_24,-50,-50,999,0,2
+L_CU,Lancashire,Cumbria,64_100,32_50,16_25,-50,-50,999,1,2
+L_CU,Lancashire,Cumbria,64_92,32_46,16_23,-40,-45,40,3,12
+L_CU,Lancashire,Cumbria,64_93,32_46,16_23,-45,-45,999,90,189
+L_CU,Lancashire,Cumbria,64_93,32_46,16_23,-40,-45,40,4,25
+L_CU,Lancashire,Cumbria,64_93,32_46,16_23,-40,-40,40,4,20
+L_CU,Lancashire,Cumbria,64_94,32_47,16_23,-45,-45,999,106,273
+L_CU,Lancashire,Cumbria,64_94,32_47,16_23,-45,-40,999,0,1
+L_CU,Lancashire,Cumbria,64_94,32_47,16_23,-40,-45,40,1,3
+L_CU,Lancashire,Cumbria,64_94,32_47,16_23,-40,-40,40,7,17
+L_CU,Lancashire,Cumbria,64_95,32_47,16_23,-45,-45,999,20,62
+L_CU,Lancashire,Cumbria,64_95,32_47,16_23,-40,-40,40,0,4
+L_CU,Lancashire,Cumbria,64_96,32_48,16_24,-45,-45,999,8,28
+L_CU,Lancashire,Cumbria,64_97,32_48,16_24,-45,-45,999,17,41
+L_CU,Lancashire,Cumbria,64_98,32_49,16_24,-50,-50,999,0,1
+L_CU,Lancashire,Cumbria,64_98,32_49,16_24,-45,-45,999,4,9
+L_CU,Lancashire,Cumbria,64_99,32_49,16_24,-50,-50,999,3,7
+L_CU,Lancashire,Cumbria,65_100,32_50,16_25,-50,-50,999,1,1
+L_CU,Lancashire,Cumbria,65_93,32_46,16_23,-40,-40,40,4,12
+L_CU,Lancashire,Cumbria,65_94,32_47,16_23,-40,-40,40,9,33
+L_CU,Lancashire,Cumbria,65_94,32_47,16_23,-35,-35,40,4,15
+L_CU,Lancashire,Cumbria,65_95,32_47,16_23,-40,-40,40,207,291
+L_CU,Lancashire,Cumbria,65_95,32_47,16_23,-35,-35,40,36,87
+L_CU,Lancashire,Cumbria,65_96,32_48,16_24,-45,-45,999,0,1
+L_CU,Lancashire,Cumbria,65_96,32_48,16_24,-40,-40,40,1,4
+L_CU,Lancashire,Cumbria,65_97,32_48,16_24,-45,-45,999,2,2
+L_CU,Lancashire,Cumbria,65_97,32_48,16_24,-40,-40,40,2,19
+L_CU,Lancashire,Cumbria,65_98,32_49,16_24,-45,-45,999,9,15
+L_CU,Lancashire,Cumbria,65_98,32_49,16_24,-40,-40,40,1,5
+L_CU,Lancashire,Cumbria,65_99,32_49,16_24,-45,-45,999,10,18
+L_CU,Lancashire,Cumbria,66_100,33_50,16_25,-45,-45,999,9,11
+L_CU,Lancashire,Cumbria,66_94,33_47,16_23,-35,-35,40,1,9
+L_CU,Lancashire,Cumbria,66_95,33_47,16_23,-35,-35,40,7,19
+L_CU,Lancashire,Cumbria,66_96,33_48,16_24,-40,-40,40,1,2
+L_CU,Lancashire,Cumbria,66_96,33_48,16_24,-35,-35,40,13,41
+L_CU,Lancashire,Cumbria,66_97,33_48,16_24,-40,-40,40,0,1
+L_CU,Lancashire,Cumbria,66_97,33_48,16_24,-35,-35,40,6,17
+L_CU,Lancashire,Cumbria,66_98,33_49,16_24,-40,-40,40,29,39
+L_CU,Lancashire,Cumbria,66_98,33_49,16_24,-35,-35,40,0,7
+L_CU,Lancashire,Cumbria,66_99,33_49,16_24,-45,-45,999,64,101
+L_CU,Lancashire,Cumbria,66_99,33_49,16_24,-40,-40,40,23,42
+L_CU,Lancashire,Cumbria,67_100,33_50,16_25,-40,-45,40,1,3
+L_CU,Lancashire,Cumbria,67_100,33_50,16_25,-40,-40,40,10,16
+L_CU,Lancashire,Cumbria,67_94,33_47,16_23,-30,-30,40,2,2
+L_CU,Lancashire,Cumbria,67_94,33_47,16_23,-25,-25,25,0,3
+L_CU,Lancashire,Cumbria,67_95,33_47,16_23,-30,-30,40,53,90
+L_CU,Lancashire,Cumbria,67_95,33_47,16_23,-25,-25,25,5,20
+L_CU,Lancashire,Cumbria,67_96,33_48,16_24,-35,-35,40,4,12
+L_CU,Lancashire,Cumbria,67_96,33_48,16_24,-30,-30,40,7,15
+L_CU,Lancashire,Cumbria,67_97,33_48,16_24,-35,-35,40,9,20
+L_CU,Lancashire,Cumbria,67_97,33_48,16_24,-30,-30,40,14,28
+L_CU,Lancashire,Cumbria,67_98,33_49,16_24,-35,-35,40,32,35
+L_CU,Lancashire,Cumbria,67_99,33_49,16_24,-40,-40,40,49,71
+L_CU,Lancashire,Cumbria,67_99,33_49,16_24,-35,-35,40,15,36
+L_CU,Lancashire,Cumbria,68_95,34_47,17_23,-25,-25,25,101,148
+L_CU,Lancashire,Cumbria,68_96,34_48,17_24,-30,-30,40,1,5
+L_CU,Lancashire,Cumbria,68_96,34_48,17_24,-25,-25,25,10,20
+L_CU,Lancashire,Cumbria,68_97,34_48,17_24,-30,-30,40,2,6
+L_CU,Lancashire,Cumbria,70_95,35_47,17_23,-15,-15,15,1,1
+L_CU,Lancashire,Cumbria,70_95,35_47,17_23,-10,-10,10,0,1
+L_CU,Lancashire,Cumbria,71_95,35_47,17_23,-10,-10,10,0,2
+L_GM,Lancashire,Greater Manchester,70_80,35_40,17_20,-45,-45,999,2,11
+L_GM,Lancashire,Greater Manchester,70_80,35_40,17_20,-40,-45,40,31,87
+L_GM,Lancashire,Greater Manchester,70_80,35_40,17_20,-40,-40,40,26,55
+L_GM,Lancashire,Greater Manchester,70_81,35_40,17_20,-40,-45,40,1,5
+L_GM,Lancashire,Greater Manchester,70_81,35_40,17_20,-40,-40,40,26,90
+L_GM,Lancashire,Greater Manchester,70_81,35_40,17_20,-35,-40,40,9,67
+L_GM,Lancashire,Greater Manchester,70_82,35_41,17_20,-35,-40,40,8,28
+L_GM,Lancashire,Greater Manchester,71_79,35_39,17_19,-40,-40,40,190,289
+L_GM,Lancashire,Greater Manchester,71_80,35_40,17_20,-40,-40,40,185,514
+L_GM,Lancashire,Greater Manchester,71_80,35_40,17_20,-40,-35,40,1,16
+L_GM,Lancashire,Greater Manchester,71_81,35_40,17_20,-40,-40,40,135,242
+L_GM,Lancashire,Greater Manchester,71_81,35_40,17_20,-35,-40,40,216,398
+L_GM,Lancashire,Greater Manchester,71_81,35_40,17_20,-35,-35,40,77,247
+L_GM,Lancashire,Greater Manchester,71_82,35_41,17_20,-35,-40,40,90,151
+L_GM,Lancashire,Greater Manchester,71_82,35_41,17_20,-35,-35,40,5,29
+L_GM,Lancashire,Greater Manchester,71_82,35_41,17_20,-30,-35,40,1,5
+L_GM,Lancashire,Greater Manchester,72_79,36_39,18_19,-40,-40,40,81,145
+L_GM,Lancashire,Greater Manchester,72_79,36_39,18_19,-35,-40,40,62,140
+L_GM,Lancashire,Greater Manchester,72_79,36_39,18_19,-35,-35,40,28,81
+L_GM,Lancashire,Greater Manchester,72_80,36_40,18_20,-40,-40,40,5,17
+L_GM,Lancashire,Greater Manchester,72_80,36_40,18_20,-40,-35,40,2,11
+L_GM,Lancashire,Greater Manchester,72_80,36_40,18_20,-35,-40,40,14,42
+L_GM,Lancashire,Greater Manchester,72_80,36_40,18_20,-35,-35,40,142,416
+L_GM,Lancashire,Greater Manchester,72_81,36_40,18_20,-35,-35,40,45,205
+L_GM,Lancashire,Greater Manchester,72_81,36_40,18_20,-35,-30,40,11,42
+L_GM,Lancashire,Greater Manchester,72_81,36_40,18_20,-30,-35,40,1,1
+L_GM,Lancashire,Greater Manchester,72_81,36_40,18_20,-30,-30,40,62,91
+L_GM,Lancashire,Greater Manchester,72_82,36_41,18_20,-30,-35,40,17,46
+L_GM,Lancashire,Greater Manchester,72_82,36_41,18_20,-30,-30,40,225,331
+L_GM,Lancashire,Greater Manchester,73_79,36_39,18_19,-35,-35,40,54,97
+L_GM,Lancashire,Greater Manchester,73_79,36_39,18_19,-30,-35,40,103,167
+L_GM,Lancashire,Greater Manchester,73_79,36_39,18_19,-30,-30,40,4,9
+L_GM,Lancashire,Greater Manchester,73_80,36_40,18_20,-35,-35,40,135,208
+L_GM,Lancashire,Greater Manchester,73_80,36_40,18_20,-35,-30,40,0,5
+L_GM,Lancashire,Greater Manchester,73_80,36_40,18_20,-30,-35,40,96,185
+L_GM,Lancashire,Greater Manchester,73_80,36_40,18_20,-30,-30,40,215,473
+L_GM,Lancashire,Greater Manchester,73_81,36_40,18_20,-35,-30,40,15,34
+L_GM,Lancashire,Greater Manchester,73_81,36_40,18_20,-30,-30,40,188,441
+L_GM,Lancashire,Greater Manchester,73_81,36_40,18_20,-30,-25,40,103,220
+L_GM,Lancashire,Greater Manchester,73_82,36_41,18_20,-30,-30,40,4,38
+L_GM,Lancashire,Greater Manchester,73_82,36_41,18_20,-30,-25,40,95,191
+L_GM,Lancashire,Greater Manchester,73_82,36_41,18_20,-25,-25,25,1,5
+L_GM,Lancashire,Greater Manchester,74_78,37_39,18_19,-30,-40,40,1,2
+L_GM,Lancashire,Greater Manchester,74_78,37_39,18_19,-30,-35,40,71,145
+L_GM,Lancashire,Greater Manchester,74_78,37_39,18_19,-25,-35,25,26,89
+L_GM,Lancashire,Greater Manchester,74_78,37_39,18_19,-25,-30,25,2,3
+L_GM,Lancashire,Greater Manchester,74_79,37_39,18_19,-30,-35,40,0,2
+L_GM,Lancashire,Greater Manchester,74_79,37_39,18_19,-30,-30,40,4,10
+L_GM,Lancashire,Greater Manchester,74_79,37_39,18_19,-25,-35,25,37,62
+L_GM,Lancashire,Greater Manchester,74_79,37_39,18_19,-25,-30,25,18,55
+L_GM,Lancashire,Greater Manchester,74_80,37_40,18_20,-30,-30,40,19,56
+L_GM,Lancashire,Greater Manchester,74_80,37_40,18_20,-25,-30,25,86,268
+L_GM,Lancashire,Greater Manchester,74_80,37_40,18_20,-25,-25,25,196,436
+L_GM,Lancashire,Greater Manchester,74_81,37_40,18_20,-30,-30,40,7,13
+L_GM,Lancashire,Greater Manchester,74_81,37_40,18_20,-30,-25,40,110,158
+L_GM,Lancashire,Greater Manchester,74_81,37_40,18_20,-25,-30,25,0,1
+L_GM,Lancashire,Greater Manchester,74_81,37_40,18_20,-25,-25,25,1037,1683
+L_GM,Lancashire,Greater Manchester,74_81,37_40,18_20,-25,-20,25,50,102
+L_GM,Lancashire,Greater Manchester,74_82,37_41,18_20,-30,-25,40,85,123
+L_GM,Lancashire,Greater Manchester,74_82,37_41,18_20,-25,-25,25,282,468
+L_GM,Lancashire,Greater Manchester,74_82,37_41,18_20,-25,-20,25,129,337
+L_GM,Lancashire,Greater Manchester,74_82,37_41,18_20,-20,-20,25,1,5
+L_GM,Lancashire,Greater Manchester,74_83,37_41,18_20,-25,-25,25,2,9
+L_GM,Lancashire,Greater Manchester,74_83,37_41,18_20,-25,-20,25,3,8
+L_GM,Lancashire,Greater Manchester,75_78,37_39,18_19,-25,-35,25,1,5
+L_GM,Lancashire,Greater Manchester,75_78,37_39,18_19,-25,-30,25,167,247
+L_GM,Lancashire,Greater Manchester,75_78,37_39,18_19,-20,-30,25,54,129
+L_GM,Lancashire,Greater Manchester,75_79,37_39,18_19,-25,-30,25,267,506
+L_GM,Lancashire,Greater Manchester,75_79,37_39,18_19,-20,-30,25,191,405
+L_GM,Lancashire,Greater Manchester,75_79,37_39,18_19,-20,-25,25,102,257
+L_GM,Lancashire,Greater Manchester,75_80,37_40,18_20,-25,-30,25,1,5
+L_GM,Lancashire,Greater Manchester,75_80,37_40,18_20,-25,-25,25,10,36
+L_GM,Lancashire,Greater Manchester,75_80,37_40,18_20,-20,-25,25,98,393
+L_GM,Lancashire,Greater Manchester,75_80,37_40,18_20,-20,-20,25,2,11
+L_GM,Lancashire,Greater Manchester,75_81,37_40,18_20,-25,-25,25,3,16
+L_GM,Lancashire,Greater Manchester,75_81,37_40,18_20,-25,-20,25,14,31
+L_GM,Lancashire,Greater Manchester,75_81,37_40,18_20,-20,-25,25,15,43
+L_GM,Lancashire,Greater Manchester,75_81,37_40,18_20,-20,-20,25,143,423
+L_GM,Lancashire,Greater Manchester,75_81,37_40,18_20,-20,-15,25,0,1
+L_GM,Lancashire,Greater Manchester,75_82,37_41,18_20,-25,-20,25,4,16
+L_GM,Lancashire,Greater Manchester,75_82,37_41,18_20,-20,-20,25,35,133
+L_GM,Lancashire,Greater Manchester,75_82,37_41,18_20,-20,-15,25,78,263
+L_GM,Lancashire,Greater Manchester,75_83,37_41,18_20,-20,-20,25,2,7
+L_GM,Lancashire,Greater Manchester,75_83,37_41,18_20,-20,-15,25,27,77
+L_GM,Lancashire,Greater Manchester,75_83,37_41,18_20,-15,-15,15,46,89
+L_GM,Lancashire,Greater Manchester,76_77,38_38,19_19,-20,-30,25,4,6
+L_GM,Lancashire,Greater Manchester,76_78,38_39,19_19,-20,-30,25,353,616
+L_GM,Lancashire,Greater Manchester,76_78,38_39,19_19,-20,-25,25,254,469
+L_GM,Lancashire,Greater Manchester,76_78,38_39,19_19,-15,-25,15,36,74
+L_GM,Lancashire,Greater Manchester,76_79,38_39,19_19,-20,-30,25,58,96
+L_GM,Lancashire,Greater Manchester,76_79,38_39,19_19,-20,-25,25,537,1038
+L_GM,Lancashire,Greater Manchester,76_79,38_39,19_19,-15,-25,15,2578,3467
+L_GM,Lancashire,Greater Manchester,76_79,38_39,19_19,-15,-20,15,288,330
+L_GM,Lancashire,Greater Manchester,76_80,38_40,19_20,-20,-25,25,7,42
+L_GM,Lancashire,Greater Manchester,76_80,38_40,19_20,-20,-20,25,0,2
+L_GM,Lancashire,Greater Manchester,76_80,38_40,19_20,-15,-25,15,23,127
+L_GM,Lancashire,Greater Manchester,76_80,38_40,19_20,-15,-20,15,335,777
+L_GM,Lancashire,Greater Manchester,76_81,38_40,19_20,-20,-20,25,6,34
+L_GM,Lancashire,Greater Manchester,76_81,38_40,19_20,-20,-15,25,5,24
+L_GM,Lancashire,Greater Manchester,76_81,38_40,19_20,-15,-20,15,88,280
+L_GM,Lancashire,Greater Manchester,76_81,38_40,19_20,-15,-15,15,33,66
+L_GM,Lancashire,Greater Manchester,76_82,38_41,19_20,-20,-15,25,149,307
+L_GM,Lancashire,Greater Manchester,76_82,38_41,19_20,-15,-15,15,31,199
+L_GM,Lancashire,Greater Manchester,76_82,38_41,19_20,-15,-10,15,1,1
+L_GM,Lancashire,Greater Manchester,76_83,38_41,19_20,-20,-15,25,1,5
+L_GM,Lancashire,Greater Manchester,76_83,38_41,19_20,-15,-15,15,4,23
+L_GM,Lancashire,Greater Manchester,76_83,38_41,19_20,-15,-10,15,3,8
+L_GM,Lancashire,Greater Manchester,77_77,38_38,19_19,-20,-30,25,2,7
+L_GM,Lancashire,Greater Manchester,77_77,38_38,19_19,-20,-25,25,0,1
+L_GM,Lancashire,Greater Manchester,77_78,38_39,19_19,-20,-30,25,15,29
+L_GM,Lancashire,Greater Manchester,77_78,38_39,19_19,-20,-25,25,109,239
+L_GM,Lancashire,Greater Manchester,77_78,38_39,19_19,-15,-25,15,669,1203
+L_GM,Lancashire,Greater Manchester,77_78,38_39,19_19,-15,-20,15,23,78
+L_GM,Lancashire,Greater Manchester,77_79,38_39,19_19,-15,-25,15,361,611
+L_GM,Lancashire,Greater Manchester,77_79,38_39,19_19,-15,-20,15,207,593
+L_GM,Lancashire,Greater Manchester,77_79,38_39,19_19,-10,-20,10,108,321
+L_GM,Lancashire,Greater Manchester,77_80,38_40,19_20,-15,-20,15,21,141
+L_GM,Lancashire,Greater Manchester,77_80,38_40,19_20,-10,-20,10,134,469
+L_GM,Lancashire,Greater Manchester,77_80,38_40,19_20,-10,-15,10,126,379
+L_GM,Lancashire,Greater Manchester,77_81,38_40,19_20,-15,-20,15,0,4
+L_GM,Lancashire,Greater Manchester,77_81,38_40,19_20,-15,-15,15,1,21
+L_GM,Lancashire,Greater Manchester,77_81,38_40,19_20,-10,-20,10,0,4
+L_GM,Lancashire,Greater Manchester,77_81,38_40,19_20,-10,-15,10,90,428
+L_GM,Lancashire,Greater Manchester,77_81,38_40,19_20,-10,-10,10,1,1
+L_GM,Lancashire,Greater Manchester,77_82,38_41,19_20,-15,-15,15,41,87
+L_GM,Lancashire,Greater Manchester,77_82,38_41,19_20,-15,-10,15,13,67
+L_GM,Lancashire,Greater Manchester,77_82,38_41,19_20,-10,-15,10,5,14
+L_GM,Lancashire,Greater Manchester,77_82,38_41,19_20,-10,-10,10,160,510
+L_GM,Lancashire,Greater Manchester,77_83,38_41,19_20,-10,-10,10,3,35
+L_GM,Lancashire,Greater Manchester,77_83,38_41,19_20,-10,-5,10,1,21
+L_GM,Lancashire,Greater Manchester,78_78,39_39,19_19,-15,-25,15,0,1
+L_GM,Lancashire,Greater Manchester,78_78,39_39,19_19,-15,-20,15,4,14
+L_GM,Lancashire,Greater Manchester,78_78,39_39,19_19,-10,-20,10,14,104
+L_GM,Lancashire,Greater Manchester,78_79,39_39,19_19,-10,-20,10,284,527
+L_GM,Lancashire,Greater Manchester,78_79,39_39,19_19,-10,-15,10,42,120
+L_GM,Lancashire,Greater Manchester,78_79,39_39,19_19,-5,-15,10,97,240
+L_GM,Lancashire,Greater Manchester,78_80,39_40,19_20,-10,-15,10,107,212
+L_GM,Lancashire,Greater Manchester,78_80,39_40,19_20,-5,-15,10,538,997
+L_GM,Lancashire,Greater Manchester,78_80,39_40,19_20,-5,-10,10,114,218
+L_GM,Lancashire,Greater Manchester,78_81,39_40,19_20,-10,-15,10,3,20
+L_GM,Lancashire,Greater Manchester,78_81,39_40,19_20,-10,-10,10,2,8
+L_GM,Lancashire,Greater Manchester,78_81,39_40,19_20,-5,-15,10,307,466
+L_GM,Lancashire,Greater Manchester,78_81,39_40,19_20,-5,-10,10,548,1021
+L_GM,Lancashire,Greater Manchester,78_81,39_40,19_20,-5,-5,10,0,3
+L_GM,Lancashire,Greater Manchester,78_82,39_41,19_20,-10,-10,10,50,232
+L_GM,Lancashire,Greater Manchester,78_82,39_41,19_20,-10,-5,10,0,4
+L_GM,Lancashire,Greater Manchester,78_82,39_41,19_20,-5,-10,10,46,133
+L_GM,Lancashire,Greater Manchester,78_82,39_41,19_20,-5,-5,10,9,29
+L_GM,Lancashire,Greater Manchester,78_83,39_41,19_20,-10,-5,10,16,76
+L_GM,Lancashire,Greater Manchester,78_83,39_41,19_20,-5,-5,10,25,155
+L_GM,Lancashire,Greater Manchester,79_79,39_39,19_19,-5,-15,10,25,98
+L_GM,Lancashire,Greater Manchester,79_79,39_39,19_19,-5,-10,10,2,2
+L_GM,Lancashire,Greater Manchester,79_80,39_40,19_20,-5,-15,10,4,29
+L_GM,Lancashire,Greater Manchester,79_80,39_40,19_20,-5,-10,10,91,192
+L_GM,Lancashire,Greater Manchester,79_81,39_40,19_20,-5,-10,10,25,80
+L_GM,Lancashire,Greater Manchester,79_81,39_40,19_20,-5,-5,10,1,2
+L_GM,Lancashire,Greater Manchester,79_82,39_41,19_20,-5,-5,10,3,5
+L_GM,Lancashire,Greater Manchester,79_83,39_41,19_20,-5,-5,10,4,14
+L_MS,Lancashire,Merseyside,65_80,32_40,16_20,-60,999,999,1,1
+L_MS,Lancashire,Merseyside,65_80,32_40,16_20,-55,999,999,3,5
+L_MS,Lancashire,Merseyside,65_81,32_40,16_20,-55,999,999,49,124
+L_MS,Lancashire,Merseyside,65_81,32_40,16_20,-50,999,999,49,81
+L_MS,Lancashire,Merseyside,65_82,32_41,16_20,-50,999,999,3,7
+L_MS,Lancashire,Merseyside,66_77,33_38,16_19,-65,999,999,181,256
+L_MS,Lancashire,Merseyside,66_78,33_39,16_19,-65,999,999,647,740
+L_MS,Lancashire,Merseyside,66_78,33_39,16_19,-60,999,999,285,541
+L_MS,Lancashire,Merseyside,66_79,33_39,16_19,-60,999,999,207,491
+L_MS,Lancashire,Merseyside,66_79,33_39,16_19,-55,999,999,29,203
+L_MS,Lancashire,Merseyside,66_80,33_40,16_20,-55,999,999,41,126
+L_MS,Lancashire,Merseyside,66_81,33_40,16_20,-55,999,999,8,27
+L_MS,Lancashire,Merseyside,66_81,33_40,16_20,-50,999,999,25,66
+L_MS,Lancashire,Merseyside,66_82,33_41,16_20,-50,999,999,44,105
+L_MS,Lancashire,Merseyside,66_82,33_41,16_20,-45,999,999,98,195
+L_MS,Lancashire,Merseyside,66_83,33_41,16_20,-45,999,999,203,334
+L_MS,Lancashire,Merseyside,66_83,33_41,16_20,-40,999,40,515,659
+L_MS,Lancashire,Merseyside,67_76,33_38,16_19,-60,999,999,2,11
+L_MS,Lancashire,Merseyside,67_77,33_38,16_19,-65,999,999,365,648
+L_MS,Lancashire,Merseyside,67_77,33_38,16_19,-60,999,999,400,759
+L_MS,Lancashire,Merseyside,67_78,33_39,16_19,-65,999,999,32,33
+L_MS,Lancashire,Merseyside,67_78,33_39,16_19,-60,999,999,761,1464
+L_MS,Lancashire,Merseyside,67_78,33_39,16_19,-55,999,999,61,143
+L_MS,Lancashire,Merseyside,67_79,33_39,16_19,-60,999,999,3,51
+L_MS,Lancashire,Merseyside,67_79,33_39,16_19,-55,999,999,159,537
+L_MS,Lancashire,Merseyside,67_79,33_39,16_19,-50,999,999,0,7
+L_MS,Lancashire,Merseyside,67_80,33_40,16_20,-55,999,999,13,46
+L_MS,Lancashire,Merseyside,67_80,33_40,16_20,-50,999,999,79,245
+L_MS,Lancashire,Merseyside,67_81,33_40,16_20,-50,999,999,0,6
+L_MS,Lancashire,Merseyside,67_82,33_41,16_20,-45,999,999,0,1
+L_MS,Lancashire,Merseyside,67_83,33_41,16_20,-45,999,999,6,21
+L_MS,Lancashire,Merseyside,67_83,33_41,16_20,-40,999,40,172,383
+L_MS,Lancashire,Merseyside,67_84,33_42,16_21,-40,999,40,2,22
+L_MS,Lancashire,Merseyside,67_84,33_42,16_21,-35,999,40,1,4
+L_MS,Lancashire,Merseyside,68_76,34_38,17_19,-60,999,999,188,386
+L_MS,Lancashire,Merseyside,68_76,34_38,17_19,-55,999,999,2,18
+L_MS,Lancashire,Merseyside,68_77,34_38,17_19,-60,999,999,123,432
+L_MS,Lancashire,Merseyside,68_77,34_38,17_19,-55,999,999,31,162
+L_MS,Lancashire,Merseyside,68_78,34_39,17_19,-60,999,999,62,180
+L_MS,Lancashire,Merseyside,68_78,34_39,17_19,-55,999,999,249,627
+L_MS,Lancashire,Merseyside,68_79,34_39,17_19,-55,999,999,63,177
+L_MS,Lancashire,Merseyside,68_79,34_39,17_19,-50,999,999,130,311
+L_MS,Lancashire,Merseyside,68_80,34_40,17_20,-50,999,999,4,34
+L_MS,Lancashire,Merseyside,69_76,34_38,17_19,-55,999,999,6,20
+L_MS,Lancashire,Merseyside,69_77,34_38,17_19,-55,999,999,23,76
+L_MS,Lancashire,Merseyside,69_77,34_38,17_19,-50,999,999,4,20
+L_MS,Lancashire,Merseyside,69_78,34_39,17_19,-55,999,999,229,417
+L_MS,Lancashire,Merseyside,69_78,34_39,17_19,-50,999,999,165,457
+L_MS,Lancashire,Merseyside,69_79,34_39,17_19,-50,999,999,72,206
+L_MS,Lancashire,Merseyside,69_79,34_39,17_19,-45,999,999,5,14
+L_MS,Lancashire,Merseyside,69_80,34_40,17_20,-45,999,999,31,113
+L_MS,Lancashire,Merseyside,70_77,35_38,17_19,-50,999,999,2,9
+L_MS,Lancashire,Merseyside,70_77,35_38,17_19,-45,999,999,7,20
+L_MS,Lancashire,Merseyside,70_78,35_39,17_19,-50,999,999,87,218
+L_MS,Lancashire,Merseyside,70_78,35_39,17_19,-45,999,999,161,373
+L_MS,Lancashire,Merseyside,70_79,35_39,17_19,-50,999,999,437,617
+L_MS,Lancashire,Merseyside,70_79,35_39,17_19,-45,999,999,210,525
+L_MS,Lancashire,Merseyside,70_80,35_40,17_20,-45,999,999,18,48
+L_MS,Lancashire,Merseyside,71_77,35_38,17_19,-45,999,999,2,3
+L_MS,Lancashire,Merseyside,71_78,35_39,17_19,-45,999,999,0,7
+L_MS,Lancashire,Merseyside,71_78,35_39,17_19,-40,999,40,12,54
+L_MS,Lancashire,Merseyside,71_79,35_39,17_19,-45,999,999,23,90
+L_MS,Lancashire,Merseyside,71_79,35_39,17_19,-40,999,40,95,282
+L_MS,Lancashire,Merseyside,71_80,35_40,17_20,-45,999,999,1,4
+L_MS,Lancashire,Merseyside,71_80,35_40,17_20,-40,999,40,5,16
+L_MS,Lancashire,Merseyside,72_78,36_39,18_19,-40,999,40,1,1
+L_MS,Lancashire,Merseyside,72_79,36_39,18_19,-40,999,40,1,3
+L_YO,Lancashire,West Yorkshire,77_84,38_42,19_21,-5,0,10,1,5
+L_YO,Lancashire,West Yorkshire,77_85,38_42,19_21,-5,0,10,1,3
+L_YO,Lancashire,West Yorkshire,78_83,39_41,19_20,-5,0,10,0,2
+L_YO,Lancashire,West Yorkshire,78_84,39_42,19_21,-5,0,10,66,164
+L_YO,Lancashire,West Yorkshire,78_85,39_42,19_21,-5,0,10,7,24
+Lin>Lincol,Lincolnshire,Lincolnshire,100_84,50_42,25_21,999,999,999,6,9
+Lin>Lincol,Lincolnshire,Lincolnshire,93_80,46_40,23_20,999,999,999,0,1
+Lin>Lincol,Lincolnshire,Lincolnshire,94_80,47_40,23_20,999,999,999,1,9
+Lin>Lincol,Lincolnshire,Lincolnshire,94_81,47_40,23_20,999,999,999,8,12
+Lin>Lincol,Lincolnshire,Lincolnshire,95_81,47_40,23_20,999,999,999,1,1
+Lin>Lincol,Lincolnshire,Lincolnshire,95_82,47_41,23_20,999,999,999,18,48
+Lin>Lincol,Lincolnshire,Lincolnshire,96_83,48_41,24_20,999,999,999,4,25
+Lin>Lincol,Lincolnshire,Lincolnshire,97_83,48_41,24_20,999,999,999,4,17
+Lin>Lincol,Lincolnshire,Lincolnshire,97_84,48_42,24_21,999,999,999,5,16
+Lin>Lincol,Lincolnshire,Lincolnshire,98_84,49_42,24_21,999,999,999,2,10
+Not>Nottin,Nottinghamshire,Nottinghamshire,91_75,45_37,22_18,999,999,999,9,18
+Not>Nottin,Nottinghamshire,Nottinghamshire,91_76,45_38,22_19,999,999,999,20,111
+Not>Nottin,Nottinghamshire,Nottinghamshire,91_77,45_38,22_19,999,999,999,22,80
+Not>Nottin,Nottinghamshire,Nottinghamshire,92_78,46_39,23_19,999,999,999,20,110
+Not>Nottin,Nottinghamshire,Nottinghamshire,93_78,46_39,23_19,999,999,999,2,8
+Not>Nottin,Nottinghamshire,Nottinghamshire,93_79,46_39,23_19,999,999,999,1,3
+Not>Yorksh,Nottinghamshire,South Yorkshire,92_78,46_39,23_19,999,55,999,0,2
+Not>Yorksh,Nottinghamshire,South Yorkshire,92_79,46_39,23_19,999,55,999,0,8
+Not>Yorksh,Nottinghamshire,South Yorkshire,93_78,46_39,23_19,999,55,999,0,3
+Not>Yorksh,Nottinghamshire,South Yorkshire,93_79,46_39,23_19,999,55,999,7,21
+Not>Yorksh,Nottinghamshire,South Yorkshire,93_79,46_39,23_19,999,60,999,1,10
+Not>Yorksh,Nottinghamshire,South Yorkshire,93_80,46_40,23_20,999,60,999,0,2
+SLIVER,Cheshire,Merseyside,63_77,31_38,15_19,999,999,999,0,1
+SLIVER,Durham,North Yorkshire,87_101,43_50,21_25,999,45,999,0,1
+SLIVER,Lancashire,Cheshire,72_77,36_38,18_19,-40,999,40,7,28
+SLIVER,Lancashire,Cumbria,64_92,32_46,16_23,-40,-45,40,2,2
+SLIVER,Lancashire,Cumbria,66_95,33_47,16_23,-35,-35,40,1,1
+SLIVER,Northumberland,Durham,77_109,38_54,19_27,999,999,999,1,1
+SLIVER,Yorkshire,Cumbria,76_101,38_50,19_25,25,-5,40,0,1
+SLIVER,Yorkshire,Lancashire,78_88,39_44,19_22,0,-5,10,0,1
+T_YC,Yorkshire,Cumbria,72_98,36_49,18_24,5,-15,10,2,2
+T_YC,Yorkshire,Cumbria,72_98,36_49,18_24,10,-15,15,6,10
+T_YC,Yorkshire,Cumbria,72_99,36_49,18_24,10,-15,15,0,1
+T_YC,Yorkshire,Cumbria,72_99,36_49,18_24,15,-15,25,1,1
+T_YC,Yorkshire,Cumbria,73_97,36_48,18_24,5,-10,10,1,1
+T_YC,Yorkshire,Cumbria,73_98,36_49,18_24,5,-15,10,6,21
+T_YC,Yorkshire,Cumbria,73_98,36_49,18_24,5,-10,10,3,7
+T_YC,Yorkshire,Cumbria,73_98,36_49,18_24,10,-15,15,35,55
+T_YC,Yorkshire,Cumbria,73_98,36_49,18_24,10,-10,15,4,5
+T_YC,Yorkshire,Cumbria,73_99,36_49,18_24,10,-10,15,3,5
+T_YC,Yorkshire,Cumbria,74_97,37_48,18_24,0,-10,10,10,27
+T_YC,Yorkshire,Cumbria,74_97,37_48,18_24,0,-5,10,1,2
+T_YC,Yorkshire,Cumbria,74_97,37_48,18_24,5,-5,10,0,3
+T_YC,Yorkshire,Cumbria,75_97,37_48,18_24,5,-5,10,4,8
+T_YC,Yorkshire,Cumbria,75_98,37_49,18_24,5,-5,10,1,1
+T_YC,Yorkshire,Cumbria,75_98,37_49,18_24,10,-5,15,3,7
+T_YD,Yorkshire,Durham,77_105,38_52,19_26,45,999,999,3,3
+T_YD,Yorkshire,Durham,78_103,39_51,19_25,40,999,999,4,8
+T_YD,Yorkshire,Durham,78_104,39_52,19_26,40,999,999,5,5
+T_YD,Yorkshire,Durham,78_104,39_52,19_26,45,999,999,4,10
+T_YD,Yorkshire,Durham,78_105,39_52,19_26,45,999,999,4,5
+T_YD,Yorkshire,Durham,79_102,39_51,19_25,40,999,999,4,19
+T_YD,Yorkshire,Durham,79_104,39_52,19_26,45,999,999,9,31
+T_YD,Yorkshire,Durham,80_101,40_50,20_25,40,999,999,0,1
+T_YD,Yorkshire,Durham,80_102,40_51,20_25,40,999,999,1,1
+T_YD,Yorkshire,Durham,80_102,40_51,20_25,45,999,999,0,3
+T_YD,Yorkshire,Durham,80_103,40_51,20_25,45,999,999,6,36
+T_YD,Yorkshire,Durham,80_104,40_52,20_26,45,999,999,4,4
+T_YD,Yorkshire,Durham,81_102,40_51,20_25,40,999,999,1,1
+T_YD,Yorkshire,Durham,81_102,40_51,20_25,45,999,999,8,18
+T_YD,Yorkshire,Durham,81_103,40_51,20_25,45,999,999,1,3
+T_YD,Yorkshire,Durham,82_102,41_51,20_25,50,999,999,1,17
+T_YD,Yorkshire,Durham,82_103,41_51,20_25,55,999,999,0,2
+T_YD,Yorkshire,Durham,83_103,41_51,20_25,55,999,999,2,4
+T_YG,Yorkshire,Greater Manchester,79_80,39_40,19_20,0,-10,10,44,180
+T_YG,Yorkshire,Greater Manchester,79_80,39_40,19_20,0,-5,10,1,3
+T_YG,Yorkshire,Greater Manchester,79_81,39_40,19_20,0,-10,10,10,39
+T_YG,Yorkshire,Greater Manchester,79_81,39_40,19_20,0,-5,10,97,204
+T_YG,Yorkshire,Greater Manchester,79_82,39_41,19_20,0,-5,10,6,24
+T_YG,Yorkshire,Greater Manchester,80_80,40_40,20_20,0,-10,10,0,1
+T_YG,Yorkshire,Greater Manchester,80_80,40_40,20_20,0,-5,10,3,10
+T_YG,Yorkshire,Greater Manchester,80_81,40_40,20_20,0,-5,10,11,49
+T_YG,Yorkshire,Greater Manchester,80_81,40_40,20_20,5,-5,10,2,7
+T_YL,Yorkshire,Lancashire,71_89,35_44,17_22,0,-20,10,0,1
+T_YL,Yorkshire,Lancashire,72_90,36_45,18_22,0,-15,10,1,1
+T_YL,Yorkshire,Lancashire,73_88,36_44,18_22,0,-15,10,1,1
+T_YL,Yorkshire,Lancashire,73_89,36_44,18_22,0,-15,10,2,5
+T_YL,Yorkshire,Lancashire,73_90,36_45,18_22,0,-15,10,1,9
+T_YL,Yorkshire,Lancashire,73_90,36_45,18_22,0,-10,10,1,10
+T_YL,Yorkshire,Lancashire,73_90,36_45,18_22,5,-10,10,1,1
+T_YL,Yorkshire,Lancashire,74_87,37_43,18_21,0,-20,10,1,2
+T_YL,Yorkshire,Lancashire,74_88,37_44,18_22,0,-15,10,8,15
+T_YL,Yorkshire,Lancashire,74_89,37_44,18_22,0,-15,10,1,1
+T_YL,Yorkshire,Lancashire,74_90,37_45,18_22,5,-10,10,5,15
+T_YL,Yorkshire,Lancashire,74_91,37_45,18_22,0,-5,10,1,3
+T_YL,Yorkshire,Lancashire,74_91,37_45,18_22,5,-5,10,1,5
+T_YL,Yorkshire,Lancashire,75_89,37_44,18_22,0,-10,10,4,12
+T_YL,Yorkshire,Lancashire,75_89,37_44,18_22,0,-5,10,4,10
+T_YL,Yorkshire,Lancashire,75_90,37_45,18_22,5,-5,10,2,2
+T_YL,Yorkshire,Lancashire,75_91,37_45,18_22,5,-5,10,1,3
+T_YL,Yorkshire,Lancashire,76_89,38_44,19_22,0,-10,10,5,7
+T_YL,Yorkshire,Lancashire,76_89,38_44,19_22,0,-5,10,5,9
+T_YL,Yorkshire,Lancashire,76_90,38_45,19_22,5,-5,10,3,4
+T_YL,Yorkshire,Lancashire,77_88,38_44,19_22,0,-10,10,1,1
+T_YL,Yorkshire,Lancashire,77_88,38_44,19_22,0,-5,10,3,7
+T_YL,Yorkshire,Lancashire,77_89,38_44,19_22,0,-5,10,127,216
+T_YL,Yorkshire,Lancashire,77_89,38_44,19_22,5,-5,10,0,1
+T_YL,Yorkshire,Lancashire,78_88,39_44,19_22,0,-5,10,3,12
+T_YL,Yorkshire,Lancashire,78_89,39_44,19_22,0,-5,10,41,65
+U_CU,Cumberland,Cumbria,58_102,29_51,14_25,999,-85,999,2,2
+U_CU,Cumberland,Cumbria,59_101,29_50,14_25,999,-75,999,4,10
+U_CU,Cumberland,Cumbria,59_102,29_51,14_25,999,-80,999,23,63
+U_CU,Cumberland,Cumbria,59_102,29_51,14_25,999,-75,999,0,4
+U_CU,Cumberland,Cumbria,59_103,29_51,14_25,999,-85,999,154,197
+U_CU,Cumberland,Cumbria,59_103,29_51,14_25,999,-80,999,121,299
+U_CU,Cumberland,Cumbria,59_104,29_52,14_26,999,-85,999,3,26
+U_CU,Cumberland,Cumbria,59_104,29_52,14_26,999,-80,999,1,2
+U_CU,Cumberland,Cumbria,59_105,29_52,14_26,999,-85,999,69,166
+U_CU,Cumberland,Cumbria,59_106,29_53,14_26,999,-85,999,6,9
+U_CU,Cumberland,Cumbria,60_100,30_50,15_25,999,-70,999,18,35
+U_CU,Cumberland,Cumbria,60_101,30_50,15_25,999,-75,999,6,28
+U_CU,Cumberland,Cumbria,60_101,30_50,15_25,999,-70,999,4,19
+U_CU,Cumberland,Cumbria,60_102,30_51,15_25,999,-80,999,3,7
+U_CU,Cumberland,Cumbria,60_102,30_51,15_25,999,-75,999,69,126
+U_CU,Cumberland,Cumbria,60_103,30_51,15_25,999,-80,999,13,24
+U_CU,Cumberland,Cumbria,60_103,30_51,15_25,999,-75,999,36,65
+U_CU,Cumberland,Cumbria,60_104,30_52,15_26,999,-85,999,12,35
+U_CU,Cumberland,Cumbria,60_104,30_52,15_26,999,-80,999,2,2
+U_CU,Cumberland,Cumbria,60_105,30_52,15_26,999,-85,999,207,299
+U_CU,Cumberland,Cumbria,60_105,30_52,15_26,999,-80,999,9,20
+U_CU,Cumberland,Cumbria,60_106,30_53,15_26,999,-85,999,17,61
+U_CU,Cumberland,Cumbria,60_107,30_53,15_26,999,-85,999,104,170
+U_CU,Cumberland,Cumbria,60_99,30_49,15_24,999,-65,999,0,3
+U_CU,Cumberland,Cumbria,61_100,30_50,15_25,999,-70,999,3,5
+U_CU,Cumberland,Cumbria,61_100,30_50,15_25,999,-65,999,11,25
+U_CU,Cumberland,Cumbria,61_101,30_50,15_25,999,-70,999,1,1
+U_CU,Cumberland,Cumbria,61_102,30_51,15_25,999,-75,999,1,2
+U_CU,Cumberland,Cumbria,61_103,30_51,15_25,999,-75,999,11,30
+U_CU,Cumberland,Cumbria,61_103,30_51,15_25,999,-70,999,2,4
+U_CU,Cumberland,Cumbria,61_104,30_52,15_26,999,-80,999,3,5
+U_CU,Cumberland,Cumbria,61_104,30_52,15_26,999,-75,999,1,7
+U_CU,Cumberland,Cumbria,61_105,30_52,15_26,999,-80,999,1,19
+U_CU,Cumberland,Cumbria,61_105,30_52,15_26,999,-75,999,3,8
+U_CU,Cumberland,Cumbria,61_106,30_53,15_26,999,-85,999,3,14
+U_CU,Cumberland,Cumbria,61_106,30_53,15_26,999,-80,999,19,62
+U_CU,Cumberland,Cumbria,61_107,30_53,15_26,999,-85,999,8,37
+U_CU,Cumberland,Cumbria,61_107,30_53,15_26,999,-80,999,7,16
+U_CU,Cumberland,Cumbria,61_108,30_54,15_27,999,-85,999,16,22
+U_CU,Cumberland,Cumbria,61_109,30_54,15_27,999,-85,999,4,10
+U_CU,Cumberland,Cumbria,61_97,30_48,15_24,999,-60,999,2,8
+U_CU,Cumberland,Cumbria,61_98,30_49,15_24,999,-60,999,0,1
+U_CU,Cumberland,Cumbria,61_99,30_49,15_24,999,-65,999,9,16
+U_CU,Cumberland,Cumbria,61_99,30_49,15_24,999,-60,999,12,27
+U_CU,Cumberland,Cumbria,62_100,31_50,15_25,999,-60,999,14,26
+U_CU,Cumberland,Cumbria,62_101,31_50,15_25,999,-65,999,1,1
+U_CU,Cumberland,Cumbria,62_101,31_50,15_25,999,-60,999,2,2
+U_CU,Cumberland,Cumbria,62_102,31_51,15_25,999,-65,999,1,1
+U_CU,Cumberland,Cumbria,62_103,31_51,15_25,999,-70,999,1,2
+U_CU,Cumberland,Cumbria,62_104,31_52,15_26,999,-75,999,1,2
+U_CU,Cumberland,Cumbria,62_104,31_52,15_26,999,-70,999,6,12
+U_CU,Cumberland,Cumbria,62_105,31_52,15_26,999,-75,999,22,33
+U_CU,Cumberland,Cumbria,62_105,31_52,15_26,999,-70,999,3,4
+U_CU,Cumberland,Cumbria,62_106,31_53,15_26,999,-80,999,0,1
+U_CU,Cumberland,Cumbria,62_106,31_53,15_26,999,-75,999,197,299
+U_CU,Cumberland,Cumbria,62_107,31_53,15_26,999,-80,999,6,12
+U_CU,Cumberland,Cumbria,62_107,31_53,15_26,999,-75,999,1,5
+U_CU,Cumberland,Cumbria,62_108,31_54,15_27,999,-80,999,23,51
+U_CU,Cumberland,Cumbria,62_109,31_54,15_27,999,-85,999,0,3
+U_CU,Cumberland,Cumbria,62_110,31_55,15_27,999,-90,999,44,75
+U_CU,Cumberland,Cumbria,62_110,31_55,15_27,999,-85,999,8,16
+U_CU,Cumberland,Cumbria,62_111,31_55,15_27,999,-90,999,1,3
+U_CU,Cumberland,Cumbria,62_95,31_47,15_23,999,-55,999,1,2
+U_CU,Cumberland,Cumbria,62_95,31_47,15_23,999,-50,999,0,2
+U_CU,Cumberland,Cumbria,62_96,31_48,15_24,999,-55,999,7,20
+U_CU,Cumberland,Cumbria,62_97,31_48,15_24,999,-60,999,1,2
+U_CU,Cumberland,Cumbria,62_97,31_48,15_24,999,-55,999,3,10
+U_CU,Cumberland,Cumbria,62_98,31_49,15_24,999,-60,999,1,10
+U_CU,Cumberland,Cumbria,62_98,31_49,15_24,999,-55,999,1,1
+U_CU,Cumberland,Cumbria,62_99,31_49,15_24,999,-60,999,9,19
+U_CU,Cumberland,Cumbria,63_100,31_50,15_25,999,-60,999,1,2
+U_CU,Cumberland,Cumbria,63_100,31_50,15_25,999,-55,999,12,23
+U_CU,Cumberland,Cumbria,63_101,31_50,15_25,999,-60,999,6,13
+U_CU,Cumberland,Cumbria,63_102,31_51,15_25,999,-60,999,1,3
+U_CU,Cumberland,Cumbria,63_103,31_51,15_25,999,-65,999,13,27
+U_CU,Cumberland,Cumbria,63_103,31_51,15_25,999,-60,999,0,1
+U_CU,Cumberland,Cumbria,63_104,31_52,15_26,999,-70,999,3,5
+U_CU,Cumberland,Cumbria,63_104,31_52,15_26,999,-65,999,1,3
+U_CU,Cumberland,Cumbria,63_105,31_52,15_26,999,-70,999,12,21
+U_CU,Cumberland,Cumbria,63_106,31_53,15_26,999,-75,999,2,3
+U_CU,Cumberland,Cumbria,63_106,31_53,15_26,999,-70,999,13,43
+U_CU,Cumberland,Cumbria,63_107,31_53,15_26,999,-75,999,8,17
+U_CU,Cumberland,Cumbria,63_107,31_53,15_26,999,-70,999,1,1
+U_CU,Cumberland,Cumbria,63_108,31_54,15_27,999,-80,999,4,12
+U_CU,Cumberland,Cumbria,63_108,31_54,15_27,999,-75,999,2,11
+U_CU,Cumberland,Cumbria,63_109,31_54,15_27,999,-80,999,2,4
+U_CU,Cumberland,Cumbria,63_109,31_54,15_27,999,-75,999,0,1
+U_CU,Cumberland,Cumbria,63_110,31_55,15_27,999,-85,999,2,2
+U_CU,Cumberland,Cumbria,63_110,31_55,15_27,999,-80,999,2,11
+U_CU,Cumberland,Cumbria,63_111,31_55,15_27,999,-85,999,0,4
+U_CU,Cumberland,Cumbria,63_111,31_55,15_27,999,-80,999,0,2
+U_CU,Cumberland,Cumbria,63_95,31_47,15_23,999,-50,999,18,50
+U_CU,Cumberland,Cumbria,63_96,31_48,15_24,999,-50,999,72,127
+U_CU,Cumberland,Cumbria,63_97,31_48,15_24,999,-50,999,4,7
+U_CU,Cumberland,Cumbria,63_98,31_49,15_24,999,-50,999,4,5
+U_CU,Cumberland,Cumbria,63_99,31_49,15_24,999,-50,999,1,1
+U_CU,Cumberland,Cumbria,64_100,32_50,16_25,999,-55,999,4,8
+U_CU,Cumberland,Cumbria,64_100,32_50,16_25,999,-50,999,1,1
+U_CU,Cumberland,Cumbria,64_101,32_50,16_25,999,-55,999,1,1
+U_CU,Cumberland,Cumbria,64_102,32_51,16_25,999,-60,999,8,10
+U_CU,Cumberland,Cumbria,64_102,32_51,16_25,999,-55,999,7,10
+U_CU,Cumberland,Cumbria,64_103,32_51,16_25,999,-65,999,1,1
+U_CU,Cumberland,Cumbria,64_103,32_51,16_25,999,-60,999,10,12
+U_CU,Cumberland,Cumbria,64_104,32_52,16_26,999,-65,999,16,31
+U_CU,Cumberland,Cumbria,64_104,32_52,16_26,999,-60,999,19,35
+U_CU,Cumberland,Cumbria,64_105,32_52,16_26,999,-65,999,21,41
+U_CU,Cumberland,Cumbria,64_105,32_52,16_26,999,-60,999,2,4
+U_CU,Cumberland,Cumbria,64_106,32_53,16_26,999,-70,999,9,22
+U_CU,Cumberland,Cumbria,64_106,32_53,16_26,999,-65,999,19,27
+U_CU,Cumberland,Cumbria,64_107,32_53,16_26,999,-75,999,0,2
+U_CU,Cumberland,Cumbria,64_107,32_53,16_26,999,-70,999,8,18
+U_CU,Cumberland,Cumbria,64_107,32_53,16_26,999,-65,999,0,2
+U_CU,Cumberland,Cumbria,64_108,32_54,16_27,999,-75,999,2,5
+U_CU,Cumberland,Cumbria,64_108,32_54,16_27,999,-70,999,2,8
+U_CU,Cumberland,Cumbria,64_109,32_54,16_27,999,-75,999,0,15
+U_CU,Cumberland,Cumbria,64_109,32_54,16_27,999,-70,999,1,1
+U_CU,Cumberland,Cumbria,64_110,32_55,16_27,999,-75,999,1,2
+U_CU,Cumberland,Cumbria,64_111,32_55,16_27,999,-85,999,0,2
+U_CU,Cumberland,Cumbria,64_111,32_55,16_27,999,-80,999,5,11
+U_CU,Cumberland,Cumbria,64_112,32_56,16_28,999,-85,999,6,16
+U_CU,Cumberland,Cumbria,64_112,32_56,16_28,999,-80,999,1,1
+U_CU,Cumberland,Cumbria,64_99,32_49,16_24,999,-50,999,2,2
+U_CU,Cumberland,Cumbria,65_102,32_51,16_25,999,-55,999,22,33
+U_CU,Cumberland,Cumbria,65_103,32_51,16_25,999,-60,999,16,27
+U_CU,Cumberland,Cumbria,65_103,32_51,16_25,999,-55,999,19,27
+U_CU,Cumberland,Cumbria,65_104,32_52,16_26,999,-60,999,403,528
+U_CU,Cumberland,Cumbria,65_104,32_52,16_26,999,-55,999,14,26
+U_CU,Cumberland,Cumbria,65_105,32_52,16_26,999,-60,999,4,9
+U_CU,Cumberland,Cumbria,65_107,32_53,16_26,999,-65,999,3,4
+U_CU,Cumberland,Cumbria,65_108,32_54,16_27,999,-70,999,1,2
+U_CU,Cumberland,Cumbria,65_109,32_54,16_27,999,-75,999,23,49
+U_CU,Cumberland,Cumbria,65_109,32_54,16_27,999,-70,999,3,11
+U_CU,Cumberland,Cumbria,65_110,32_55,16_27,999,-75,999,1,3
+U_CU,Cumberland,Cumbria,65_110,32_55,16_27,999,-70,999,1,7
+U_CU,Cumberland,Cumbria,65_111,32_55,16_27,999,-80,999,0,4
+U_CU,Cumberland,Cumbria,65_111,32_55,16_27,999,-75,999,1,1
+U_CU,Cumberland,Cumbria,65_112,32_56,16_28,999,-80,999,1,2
+U_CU,Cumberland,Cumbria,66_102,33_51,16_25,999,-50,999,0,8
+U_CU,Cumberland,Cumbria,66_103,33_51,16_25,999,-55,999,2,13
+U_CU,Cumberland,Cumbria,66_103,33_51,16_25,999,-50,999,4,12
+U_CU,Cumberland,Cumbria,66_104,33_52,16_26,999,-55,999,14,22
+U_CU,Cumberland,Cumbria,66_105,33_52,16_26,999,-55,999,17,35
+U_CU,Cumberland,Cumbria,66_106,33_53,16_26,999,-60,999,2,4
+U_CU,Cumberland,Cumbria,66_107,33_53,16_26,999,-65,999,3,5
+U_CU,Cumberland,Cumbria,66_107,33_53,16_26,999,-60,999,17,23
+U_CU,Cumberland,Cumbria,66_108,33_54,16_27,999,-65,999,1,4
+U_CU,Cumberland,Cumbria,66_108,33_54,16_27,999,-60,999,2,2
+U_CU,Cumberland,Cumbria,66_109,33_54,16_27,999,-70,999,2,8
+U_CU,Cumberland,Cumbria,66_109,33_54,16_27,999,-65,999,0,1
+U_CU,Cumberland,Cumbria,66_110,33_55,16_27,999,-75,999,0,2
+U_CU,Cumberland,Cumbria,66_110,33_55,16_27,999,-70,999,4,25
+U_CU,Cumberland,Cumbria,66_111,33_55,16_27,999,-75,999,6,31
+U_CU,Cumberland,Cumbria,66_112,33_56,16_28,999,-75,999,1,1
+U_CU,Cumberland,Cumbria,66_113,33_56,16_28,999,-80,999,3,6
+U_CU,Cumberland,Cumbria,67_103,33_51,16_25,999,-45,999,3,10
+U_CU,Cumberland,Cumbria,67_104,33_52,16_26,999,-50,999,2,5
+U_CU,Cumberland,Cumbria,67_104,33_52,16_26,999,-45,999,1,6
+U_CU,Cumberland,Cumbria,67_105,33_52,16_26,999,-55,999,3,3
+U_CU,Cumberland,Cumbria,67_105,33_52,16_26,999,-50,999,11,15
+U_CU,Cumberland,Cumbria,67_106,33_53,16_26,999,-55,999,7,14
+U_CU,Cumberland,Cumbria,67_107,33_53,16_26,999,-60,999,1,2
+U_CU,Cumberland,Cumbria,67_107,33_53,16_26,999,-55,999,0,3
+U_CU,Cumberland,Cumbria,67_108,33_54,16_27,999,-65,999,2,5
+U_CU,Cumberland,Cumbria,67_108,33_54,16_27,999,-60,999,3,9
+U_CU,Cumberland,Cumbria,67_109,33_54,16_27,999,-65,999,3,14
+U_CU,Cumberland,Cumbria,67_109,33_54,16_27,999,-60,999,0,3
+U_CU,Cumberland,Cumbria,67_110,33_55,16_27,999,-70,999,10,76
+U_CU,Cumberland,Cumbria,67_110,33_55,16_27,999,-65,999,22,65
+U_CU,Cumberland,Cumbria,67_111,33_55,16_27,999,-75,999,0,2
+U_CU,Cumberland,Cumbria,67_111,33_55,16_27,999,-70,999,187,415
+U_CU,Cumberland,Cumbria,67_111,33_55,16_27,999,-65,999,8,9
+U_CU,Cumberland,Cumbria,67_112,33_56,16_28,999,-80,999,1,3
+U_CU,Cumberland,Cumbria,67_112,33_56,16_28,999,-75,999,9,29
+U_CU,Cumberland,Cumbria,67_112,33_56,16_28,999,-70,999,1,7
+U_CU,Cumberland,Cumbria,67_113,33_56,16_28,999,-80,999,17,36
+U_CU,Cumberland,Cumbria,67_113,33_56,16_28,999,-75,999,0,2
+U_CU,Cumberland,Cumbria,67_114,33_57,16_28,999,-80,999,2,3
+U_CU,Cumberland,Cumbria,68_104,34_52,17_26,999,-45,999,16,24
+U_CU,Cumberland,Cumbria,68_105,34_52,17_26,999,-50,999,105,107
+U_CU,Cumberland,Cumbria,68_105,34_52,17_26,999,-45,999,1,8
+U_CU,Cumberland,Cumbria,68_106,34_53,17_26,999,-50,999,7,16
+U_CU,Cumberland,Cumbria,68_106,34_53,17_26,999,-45,999,0,1
+U_CU,Cumberland,Cumbria,68_107,34_53,17_26,999,-50,999,2,11
+U_CU,Cumberland,Cumbria,68_108,34_54,17_27,999,-60,999,1,1
+U_CU,Cumberland,Cumbria,68_108,34_54,17_27,999,-55,999,0,3
+U_CU,Cumberland,Cumbria,68_109,34_54,17_27,999,-65,999,0,1
+U_CU,Cumberland,Cumbria,68_109,34_54,17_27,999,-60,999,3,6
+U_CU,Cumberland,Cumbria,68_109,34_54,17_27,999,-55,999,15,24
+U_CU,Cumberland,Cumbria,68_110,34_55,17_27,999,-65,999,78,244
+U_CU,Cumberland,Cumbria,68_110,34_55,17_27,999,-60,999,2,8
+U_CU,Cumberland,Cumbria,68_111,34_55,17_27,999,-70,999,303,429
+U_CU,Cumberland,Cumbria,68_111,34_55,17_27,999,-65,999,108,214
+U_CU,Cumberland,Cumbria,68_112,34_56,17_28,999,-70,999,4,7
+U_CU,Cumberland,Cumbria,68_113,34_56,17_28,999,-75,999,11,16
+U_CU,Cumberland,Cumbria,68_114,34_57,17_28,999,-80,999,0,8
+U_CU,Cumberland,Cumbria,68_115,34_57,17_28,999,-85,999,2,4
+U_CU,Cumberland,Cumbria,69_104,34_52,17_26,999,-45,999,4,7
+U_CU,Cumberland,Cumbria,69_104,34_52,17_26,999,-40,999,3,10
+U_CU,Cumberland,Cumbria,69_105,34_52,17_26,999,-45,999,16,31
+U_CU,Cumberland,Cumbria,69_105,34_52,17_26,999,-40,999,10,14
+U_CU,Cumberland,Cumbria,69_106,34_53,17_26,999,-50,999,1,2
+U_CU,Cumberland,Cumbria,69_106,34_53,17_26,999,-45,999,5,15
+U_CU,Cumberland,Cumbria,69_107,34_53,17_26,999,-50,999,7,15
+U_CU,Cumberland,Cumbria,69_107,34_53,17_26,999,-45,999,0,3
+U_CU,Cumberland,Cumbria,69_108,34_54,17_27,999,-55,999,4,9
+U_CU,Cumberland,Cumbria,69_108,34_54,17_27,999,-50,999,2,4
+U_CU,Cumberland,Cumbria,69_109,34_54,17_27,999,-55,999,3,9
+U_CU,Cumberland,Cumbria,69_110,34_55,17_27,999,-65,999,10,20
+U_CU,Cumberland,Cumbria,69_110,34_55,17_27,999,-60,999,6,14
+U_CU,Cumberland,Cumbria,69_111,34_55,17_27,999,-70,999,2,6
+U_CU,Cumberland,Cumbria,69_111,34_55,17_27,999,-65,999,19,43
+U_CU,Cumberland,Cumbria,69_111,34_55,17_27,999,-60,999,0,2
+U_CU,Cumberland,Cumbria,69_112,34_56,17_28,999,-70,999,8,12
+U_CU,Cumberland,Cumbria,69_112,34_56,17_28,999,-65,999,3,8
+U_CU,Cumberland,Cumbria,69_113,34_56,17_28,999,-75,999,3,8
+U_CU,Cumberland,Cumbria,69_114,34_57,17_28,999,-75,999,0,3
+U_CU,Cumberland,Cumbria,69_115,34_57,17_28,999,-85,999,1,2
+U_CU,Cumberland,Cumbria,69_115,34_57,17_28,999,-80,999,0,1
+U_CU,Cumberland,Cumbria,69_116,34_58,17_29,999,-85,999,0,1
+U_CU,Cumberland,Cumbria,70_105,35_52,17_26,999,-40,999,83,155
+U_CU,Cumberland,Cumbria,70_106,35_53,17_26,999,-45,999,11,20
+U_CU,Cumberland,Cumbria,70_106,35_53,17_26,999,-40,999,304,414
+U_CU,Cumberland,Cumbria,70_107,35_53,17_26,999,-45,999,4,14
+U_CU,Cumberland,Cumbria,70_108,35_54,17_27,999,-50,999,1,2
+U_CU,Cumberland,Cumbria,70_108,35_54,17_27,999,-45,999,1,1
+U_CU,Cumberland,Cumbria,70_109,35_54,17_27,999,-55,999,5,14
+U_CU,Cumberland,Cumbria,70_109,35_54,17_27,999,-50,999,1,3
+U_CU,Cumberland,Cumbria,70_110,35_55,17_27,999,-60,999,3,7
+U_CU,Cumberland,Cumbria,70_111,35_55,17_27,999,-65,999,9,17
+U_CU,Cumberland,Cumbria,70_111,35_55,17_27,999,-60,999,3,11
+U_CU,Cumberland,Cumbria,70_112,35_56,17_28,999,-70,999,3,7
+U_CU,Cumberland,Cumbria,70_112,35_56,17_28,999,-65,999,34,73
+U_CU,Cumberland,Cumbria,70_113,35_56,17_28,999,-70,999,1,2
+U_CU,Cumberland,Cumbria,70_114,35_57,17_28,999,-75,999,1,2
+U_CU,Cumberland,Cumbria,70_115,35_57,17_28,999,-80,999,0,3
+U_CU,Cumberland,Cumbria,71_106,35_53,17_26,999,-40,999,5,18
+U_CU,Cumberland,Cumbria,71_107,35_53,17_26,999,-45,999,8,14
+U_CU,Cumberland,Cumbria,71_107,35_53,17_26,999,-40,999,3,6
+U_CU,Cumberland,Cumbria,71_108,35_54,17_27,999,-45,999,8,14
+U_CU,Cumberland,Cumbria,71_109,35_54,17_27,999,-50,999,3,3
+U_CU,Cumberland,Cumbria,71_110,35_55,17_27,999,-55,999,1,2
+U_CU,Cumberland,Cumbria,71_111,35_55,17_27,999,-65,999,0,1
+U_CU,Cumberland,Cumbria,71_111,35_55,17_27,999,-60,999,4,17
+U_CU,Cumberland,Cumbria,71_112,35_56,17_28,999,-65,999,14,31
+U_CU,Cumberland,Cumbria,71_113,35_56,17_28,999,-70,999,2,3
+U_CU,Cumberland,Cumbria,71_113,35_56,17_28,999,-65,999,1,1
+U_CU,Cumberland,Cumbria,71_114,35_57,17_28,999,-75,999,2,3
+U_CU,Cumberland,Cumbria,72_105,36_52,18_26,999,-35,999,3,4
+U_CU,Cumberland,Cumbria,72_106,36_53,18_26,999,-40,999,2,4
+U_CU,Cumberland,Cumbria,72_106,36_53,18_26,999,-35,999,1,8
+U_CU,Cumberland,Cumbria,72_107,36_53,18_26,999,-45,999,0,3
+U_CU,Cumberland,Cumbria,72_107,36_53,18_26,999,-40,999,10,15
+U_CU,Cumberland,Cumbria,72_108,36_54,18_27,999,-45,999,1,1
+U_CU,Cumberland,Cumbria,72_111,36_55,18_27,999,-60,999,1,1
+U_CU,Cumberland,Cumbria,72_112,36_56,18_28,999,-65,999,0,2
+U_CU,Cumberland,Cumbria,72_113,36_56,18_28,999,-65,999,14,20
+U_CU,Cumberland,Cumbria,72_114,36_57,18_28,999,-75,999,0,4
+U_CU,Cumberland,Cumbria,73_106,36_53,18_26,999,-35,999,2,2
+U_CU,Cumberland,Cumbria,73_107,36_53,18_26,999,-40,999,0,1
+U_CU,Cumberland,Cumbria,74_107,37_53,18_26,999,-35,999,0,1
+U_CU,Cumberland,Cumbria,74_108,37_54,18_27,999,-45,999,2,2
+U_CU,Cumberland,Cumbria,74_108,37_54,18_27,999,-40,999,7,12
+U_CU,Cumberland,Cumbria,74_109,37_54,18_27,999,-45,999,38,70
+U_CU,Cumberland,Cumbria,75_107,37_53,18_26,999,-35,999,2,3
+U_CU,Cumberland,Cumbria,75_108,37_54,18_27,999,-40,999,11,22
+U_CU,Cumberland,Cumbria,75_109,37_54,18_27,999,-45,999,7,7
+U_CU,Cumberland,Cumbria,75_109,37_54,18_27,999,-40,999,1,2
+W_CU,Westmorland,Cumbria,64_100,32_50,16_25,999,-50,999,1,1
+W_CU,Westmorland,Cumbria,65_100,32_50,16_25,999,-50,999,1,2
+W_CU,Westmorland,Cumbria,65_101,32_50,16_25,999,-55,999,1,1
+W_CU,Westmorland,Cumbria,65_101,32_50,16_25,999,-50,999,10,18
+W_CU,Westmorland,Cumbria,66_100,33_50,16_25,999,-45,999,25,38
+W_CU,Westmorland,Cumbria,66_101,33_50,16_25,999,-50,999,11,13
+W_CU,Westmorland,Cumbria,66_101,33_50,16_25,999,-45,999,95,138
+W_CU,Westmorland,Cumbria,66_102,33_51,16_25,999,-50,999,1,3
+W_CU,Westmorland,Cumbria,66_103,33_51,16_25,999,-50,999,1,3
+W_CU,Westmorland,Cumbria,67_100,33_50,16_25,999,-45,40,4,6
+W_CU,Westmorland,Cumbria,67_100,33_50,16_25,999,-40,40,259,343
+W_CU,Westmorland,Cumbria,67_101,33_50,16_25,999,-45,40,0,2
+W_CU,Westmorland,Cumbria,67_101,33_50,16_25,999,-45,999,18,31
+W_CU,Westmorland,Cumbria,67_101,33_50,16_25,999,-40,40,1,1
+W_CU,Westmorland,Cumbria,67_102,33_51,16_25,999,-45,999,2,4
+W_CU,Westmorland,Cumbria,67_103,33_51,16_25,999,-50,999,4,6
+W_CU,Westmorland,Cumbria,67_103,33_51,16_25,999,-45,999,34,66
+W_CU,Westmorland,Cumbria,67_97,33_48,16_24,999,-30,40,4,9
+W_CU,Westmorland,Cumbria,67_98,33_49,16_24,999,-35,40,1,5
+W_CU,Westmorland,Cumbria,67_99,33_49,16_24,999,-40,40,0,1
+W_CU,Westmorland,Cumbria,67_99,33_49,16_24,999,-35,40,15,27
+W_CU,Westmorland,Cumbria,68_100,34_50,17_25,999,-40,40,16,35
+W_CU,Westmorland,Cumbria,68_100,34_50,17_25,999,-35,40,2,7
+W_CU,Westmorland,Cumbria,68_101,34_50,17_25,999,-40,40,1,5
+W_CU,Westmorland,Cumbria,68_102,34_51,17_25,999,-45,999,0,1
+W_CU,Westmorland,Cumbria,68_102,34_51,17_25,999,-40,999,11,23
+W_CU,Westmorland,Cumbria,68_103,34_51,17_25,999,-45,999,4,8
+W_CU,Westmorland,Cumbria,68_103,34_51,17_25,999,-40,999,6,12
+W_CU,Westmorland,Cumbria,68_104,34_52,17_26,999,-45,999,1,1
+W_CU,Westmorland,Cumbria,68_95,34_47,17_23,999,-25,25,1,1
+W_CU,Westmorland,Cumbria,68_95,34_47,17_23,999,-20,25,4,6
+W_CU,Westmorland,Cumbria,68_96,34_48,17_24,999,-25,25,10,18
+W_CU,Westmorland,Cumbria,68_97,34_48,17_24,999,-30,40,1,1
+W_CU,Westmorland,Cumbria,68_97,34_48,17_24,999,-25,25,2,3
+W_CU,Westmorland,Cumbria,68_98,34_49,17_24,999,-35,40,2,3
+W_CU,Westmorland,Cumbria,68_98,34_49,17_24,999,-30,40,8,22
+W_CU,Westmorland,Cumbria,68_99,34_49,17_24,999,-40,40,0,1
+W_CU,Westmorland,Cumbria,68_99,34_49,17_24,999,-35,40,481,633
+W_CU,Westmorland,Cumbria,68_99,34_49,17_24,999,-30,40,1,4
+W_CU,Westmorland,Cumbria,69_100,34_50,17_25,999,-35,40,4,7
+W_CU,Westmorland,Cumbria,69_101,34_50,17_25,999,-35,40,1,1
+W_CU,Westmorland,Cumbria,69_101,34_50,17_25,999,-30,40,2,2
+W_CU,Westmorland,Cumbria,69_102,34_51,17_25,999,-35,40,1,2
+W_CU,Westmorland,Cumbria,69_103,34_51,17_25,999,-35,40,1,4
+W_CU,Westmorland,Cumbria,69_103,34_51,17_25,999,-35,999,1,1
+W_CU,Westmorland,Cumbria,69_104,34_52,17_26,999,-40,999,38,54
+W_CU,Westmorland,Cumbria,69_105,34_52,17_26,999,-40,999,3,5
+W_CU,Westmorland,Cumbria,69_95,34_47,17_23,999,-20,25,40,80
+W_CU,Westmorland,Cumbria,69_95,34_47,17_23,999,-15,15,0,1
+W_CU,Westmorland,Cumbria,69_96,34_48,17_24,999,-25,25,0,4
+W_CU,Westmorland,Cumbria,69_96,34_48,17_24,999,-20,25,58,106
+W_CU,Westmorland,Cumbria,69_97,34_48,17_24,999,-25,25,12,17
+W_CU,Westmorland,Cumbria,69_97,34_48,17_24,999,-20,25,12,28
+W_CU,Westmorland,Cumbria,69_98,34_49,17_24,999,-30,25,1,1
+W_CU,Westmorland,Cumbria,69_98,34_49,17_24,999,-30,40,5,7
+W_CU,Westmorland,Cumbria,69_98,34_49,17_24,999,-25,25,7,10
+W_CU,Westmorland,Cumbria,69_99,34_49,17_24,999,-30,25,0,3
+W_CU,Westmorland,Cumbria,69_99,34_49,17_24,999,-30,40,39,72
+W_CU,Westmorland,Cumbria,69_99,34_49,17_24,999,-25,25,1,1
+W_CU,Westmorland,Cumbria,70_100,35_50,17_25,999,-30,40,1,2
+W_CU,Westmorland,Cumbria,70_100,35_50,17_25,999,-25,25,0,1
+W_CU,Westmorland,Cumbria,70_103,35_51,17_25,999,-35,40,5,15
+W_CU,Westmorland,Cumbria,70_103,35_51,17_25,999,-35,999,1,1
+W_CU,Westmorland,Cumbria,70_103,35_51,17_25,999,-30,40,1,6
+W_CU,Westmorland,Cumbria,70_104,35_52,17_26,999,-40,999,7,11
+W_CU,Westmorland,Cumbria,70_104,35_52,17_26,999,-35,999,10,31
+W_CU,Westmorland,Cumbria,70_105,35_52,17_26,999,-40,999,14,44
+W_CU,Westmorland,Cumbria,70_105,35_52,17_26,999,-35,999,2,4
+W_CU,Westmorland,Cumbria,70_95,35_47,17_23,999,-15,15,21,51
+W_CU,Westmorland,Cumbria,70_96,35_48,17_24,999,-20,25,3,22
+W_CU,Westmorland,Cumbria,70_96,35_48,17_24,999,-15,15,15,28
+W_CU,Westmorland,Cumbria,70_97,35_48,17_24,999,-25,25,6,13
+W_CU,Westmorland,Cumbria,70_97,35_48,17_24,999,-20,25,14,68
+W_CU,Westmorland,Cumbria,70_98,35_49,17_24,999,-25,25,539,800
+W_CU,Westmorland,Cumbria,70_98,35_49,17_24,999,-20,25,15,40
+W_CU,Westmorland,Cumbria,70_99,35_49,17_24,999,-25,25,9,32
+W_CU,Westmorland,Cumbria,71_100,35_50,17_25,999,-25,40,1,2
+W_CU,Westmorland,Cumbria,71_100,35_50,17_25,999,-20,25,1,1
+W_CU,Westmorland,Cumbria,71_101,35_50,17_25,999,-25,40,3,3
+W_CU,Westmorland,Cumbria,71_102,35_51,17_25,999,-30,40,5,10
+W_CU,Westmorland,Cumbria,71_102,35_51,17_25,999,-25,40,0,2
+W_CU,Westmorland,Cumbria,71_103,35_51,17_25,999,-30,40,12,26
+W_CU,Westmorland,Cumbria,71_104,35_52,17_26,999,-35,999,2,5
+W_CU,Westmorland,Cumbria,71_104,35_52,17_26,999,-30,999,8,17
+W_CU,Westmorland,Cumbria,71_105,35_52,17_26,999,-40,999,0,1
+W_CU,Westmorland,Cumbria,71_105,35_52,17_26,999,-35,999,21,36
+W_CU,Westmorland,Cumbria,71_95,35_47,17_23,999,-15,15,0,1
+W_CU,Westmorland,Cumbria,71_95,35_47,17_23,999,-10,10,5,10
+W_CU,Westmorland,Cumbria,71_96,35_48,17_24,999,-15,15,4,9
+W_CU,Westmorland,Cumbria,71_97,35_48,17_24,999,-20,15,1,1
+W_CU,Westmorland,Cumbria,71_97,35_48,17_24,999,-20,25,1,3
+W_CU,Westmorland,Cumbria,71_97,35_48,17_24,999,-15,15,1,1
+W_CU,Westmorland,Cumbria,71_98,35_49,17_24,999,-20,15,0,1
+W_CU,Westmorland,Cumbria,71_98,35_49,17_24,999,-20,25,0,3
+W_CU,Westmorland,Cumbria,71_98,35_49,17_24,999,-15,15,5,7
+W_CU,Westmorland,Cumbria,71_99,35_49,17_24,999,-20,25,1,8
+W_CU,Westmorland,Cumbria,72_100,36_50,18_25,999,-20,25,7,28
+W_CU,Westmorland,Cumbria,72_101,36_50,18_25,999,-20,25,2,6
+W_CU,Westmorland,Cumbria,72_101,36_50,18_25,999,-20,40,11,27
+W_CU,Westmorland,Cumbria,72_102,36_51,18_25,999,-25,40,5,7
+W_CU,Westmorland,Cumbria,72_103,36_51,18_25,999,-25,40,1,4
+W_CU,Westmorland,Cumbria,72_104,36_52,18_26,999,-30,40,2,5
+W_CU,Westmorland,Cumbria,72_104,36_52,18_26,999,-30,999,5,8
+W_CU,Westmorland,Cumbria,72_104,36_52,18_26,999,-25,40,1,1
+W_CU,Westmorland,Cumbria,72_104,36_52,18_26,999,-25,999,0,1
+W_CU,Westmorland,Cumbria,72_105,36_52,18_26,999,-35,999,3,5
+W_CU,Westmorland,Cumbria,72_105,36_52,18_26,999,-30,999,10,24
+W_CU,Westmorland,Cumbria,72_95,36_47,18_23,999,-10,10,87,121
+W_CU,Westmorland,Cumbria,72_95,36_47,18_23,999,-5,10,11,11
+W_CU,Westmorland,Cumbria,72_96,36_48,18_24,999,-10,10,12,22
+W_CU,Westmorland,Cumbria,72_96,36_48,18_24,999,-5,10,1,1
+W_CU,Westmorland,Cumbria,72_97,36_48,18_24,999,-15,10,2,2
+W_CU,Westmorland,Cumbria,72_97,36_48,18_24,999,-15,15,0,1
+W_CU,Westmorland,Cumbria,72_97,36_48,18_24,999,-10,10,3,5
+W_CU,Westmorland,Cumbria,72_98,36_49,18_24,999,-15,15,2,3
+W_CU,Westmorland,Cumbria,72_99,36_49,18_24,999,-15,25,1,2
+W_CU,Westmorland,Cumbria,73_100,36_50,18_25,999,-15,25,1,1
+W_CU,Westmorland,Cumbria,73_101,36_50,18_25,999,-20,40,1,1
+W_CU,Westmorland,Cumbria,73_101,36_50,18_25,999,-15,25,0,1
+W_CU,Westmorland,Cumbria,73_101,36_50,18_25,999,-15,40,1,2
+W_CU,Westmorland,Cumbria,73_102,36_51,18_25,999,-20,40,1,6
+W_CU,Westmorland,Cumbria,73_103,36_51,18_25,999,-20,40,10,21
+W_CU,Westmorland,Cumbria,73_104,36_52,18_26,999,-25,40,50,73
+W_CU,Westmorland,Cumbria,73_104,36_52,18_26,999,-25,999,5,10
+W_CU,Westmorland,Cumbria,73_104,36_52,18_26,999,-20,40,18,26
+W_CU,Westmorland,Cumbria,73_105,36_52,18_26,999,-30,999,4,9
+W_CU,Westmorland,Cumbria,73_105,36_52,18_26,999,-25,999,4,8
+W_CU,Westmorland,Cumbria,73_96,36_48,18_24,999,-5,10,1,2
+W_CU,Westmorland,Cumbria,74_100,37_50,18_25,999,-10,25,12,19
+W_CU,Westmorland,Cumbria,74_101,37_50,18_25,999,-15,25,1,1
+W_CU,Westmorland,Cumbria,74_101,37_50,18_25,999,-10,25,3,7
+W_CU,Westmorland,Cumbria,74_101,37_50,18_25,999,-10,40,0,7
+W_CU,Westmorland,Cumbria,74_102,37_51,18_25,999,-15,40,1,2
+W_CU,Westmorland,Cumbria,74_102,37_51,18_25,999,-10,40,0,4
+W_CU,Westmorland,Cumbria,74_103,37_51,18_25,999,-20,40,4,8
+W_CU,Westmorland,Cumbria,74_103,37_51,18_25,999,-15,40,3,13
+W_CU,Westmorland,Cumbria,74_104,37_52,18_26,999,-20,40,0,5
+W_CU,Westmorland,Cumbria,74_99,37_49,18_24,999,-5,25,1,1
+W_CU,Westmorland,Cumbria,75_100,37_50,18_25,999,-5,25,5,7
+W_CU,Westmorland,Cumbria,75_101,37_50,18_25,999,-10,25,0,4
+W_CU,Westmorland,Cumbria,75_101,37_50,18_25,999,-10,40,66,88
+W_CU,Westmorland,Cumbria,75_101,37_50,18_25,999,-5,25,2,5
+W_CU,Westmorland,Cumbria,75_101,37_50,18_25,999,-5,40,8,16
+W_CU,Westmorland,Cumbria,75_102,37_51,18_25,999,-10,40,6,33
+W_CU,Westmorland,Cumbria,75_103,37_51,18_25,999,-15,40,1,4
+W_CU,Westmorland,Cumbria,75_105,37_52,18_26,999,-25,999,1,1
+W_CU,Westmorland,Cumbria,75_99,37_49,18_24,999,-5,25,2,4
+W_CU,Westmorland,Cumbria,76_101,38_50,19_25,999,-5,40,0,1
+W_CU,Westmorland,Cumbria,76_102,38_51,19_25,999,-10,40,1,3
+W_CU,Westmorland,Cumbria,76_103,38_51,19_25,999,-15,40,1,1
+W_CU,Westmorland,Cumbria,77_102,38_51,19_25,999,-10,40,1,1
+YY,Yorkshire,East Riding of Yorkshire,100_85,50_42,25_21,100,95,999,74,229
+YY,Yorkshire,East Riding of Yorkshire,100_85,50_42,25_21,100,100,999,1,2
+YY,Yorkshire,East Riding of Yorkshire,100_85,50_42,25_21,105,95,999,1,7
+YY,Yorkshire,East Riding of Yorkshire,100_85,50_42,25_21,105,100,999,69,171
+YY,Yorkshire,East Riding of Yorkshire,100_86,50_43,25_21,100,95,999,47,94
+YY,Yorkshire,East Riding of Yorkshire,100_86,50_43,25_21,100,100,999,3,12
+YY,Yorkshire,East Riding of Yorkshire,100_86,50_43,25_21,105,100,999,73,189
+YY,Yorkshire,East Riding of Yorkshire,100_87,50_43,25_21,100,95,999,1,9
+YY,Yorkshire,East Riding of Yorkshire,100_87,50_43,25_21,100,100,999,4,14
+YY,Yorkshire,East Riding of Yorkshire,100_87,50_43,25_21,105,100,999,332,441
+YY,Yorkshire,East Riding of Yorkshire,100_88,50_44,25_22,100,100,999,3,16
+YY,Yorkshire,East Riding of Yorkshire,100_88,50_44,25_22,105,100,999,32,92
+YY,Yorkshire,East Riding of Yorkshire,100_88,50_44,25_22,105,105,999,1,2
+YY,Yorkshire,East Riding of Yorkshire,100_89,50_44,25_22,100,100,999,1,11
+YY,Yorkshire,East Riding of Yorkshire,100_89,50_44,25_22,105,105,999,1,3
+YY,Yorkshire,East Riding of Yorkshire,100_90,50_45,25_22,105,105,999,5,21
+YY,Yorkshire,East Riding of Yorkshire,100_91,50_45,25_22,100,100,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,100_91,50_45,25_22,100,105,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,100_91,50_45,25_22,105,105,999,76,139
+YY,Yorkshire,East Riding of Yorkshire,100_92,50_46,25_23,105,105,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,100_93,50_46,25_23,105,105,999,3,9
+YY,Yorkshire,East Riding of Yorkshire,100_93,50_46,25_23,110,110,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,100_94,50_47,25_23,110,110,999,2,8
+YY,Yorkshire,East Riding of Yorkshire,100_95,50_47,25_23,110,110,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,101_85,50_42,25_21,105,100,999,221,493
+YY,Yorkshire,East Riding of Yorkshire,101_85,50_42,25_21,110,100,999,4,11
+YY,Yorkshire,East Riding of Yorkshire,101_85,50_42,25_21,110,105,999,454,633
+YY,Yorkshire,East Riding of Yorkshire,101_86,50_43,25_21,105,100,999,65,263
+YY,Yorkshire,East Riding of Yorkshire,101_86,50_43,25_21,105,105,999,3,27
+YY,Yorkshire,East Riding of Yorkshire,101_86,50_43,25_21,110,105,999,163,366
+YY,Yorkshire,East Riding of Yorkshire,101_87,50_43,25_21,105,100,999,9,19
+YY,Yorkshire,East Riding of Yorkshire,101_87,50_43,25_21,105,105,999,4,26
+YY,Yorkshire,East Riding of Yorkshire,101_87,50_43,25_21,110,105,999,17,68
+YY,Yorkshire,East Riding of Yorkshire,101_88,50_44,25_22,105,105,999,3,19
+YY,Yorkshire,East Riding of Yorkshire,101_88,50_44,25_22,110,105,999,2,6
+YY,Yorkshire,East Riding of Yorkshire,101_88,50_44,25_22,110,110,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,101_89,50_44,25_22,110,110,999,2,2
+YY,Yorkshire,East Riding of Yorkshire,101_90,50_45,25_22,110,110,999,3,11
+YY,Yorkshire,East Riding of Yorkshire,101_91,50_45,25_22,105,105,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,101_91,50_45,25_22,110,110,999,8,27
+YY,Yorkshire,East Riding of Yorkshire,101_92,50_46,25_23,110,110,999,5,27
+YY,Yorkshire,East Riding of Yorkshire,101_92,50_46,25_23,115,115,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,101_93,50_46,25_23,115,115,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,101_94,50_47,25_23,115,115,999,4,9
+YY,Yorkshire,East Riding of Yorkshire,102_85,51_42,25_21,110,105,999,129,253
+YY,Yorkshire,East Riding of Yorkshire,102_85,51_42,25_21,115,105,999,2,5
+YY,Yorkshire,East Riding of Yorkshire,102_85,51_42,25_21,115,110,999,4,28
+YY,Yorkshire,East Riding of Yorkshire,102_86,51_43,25_21,110,105,999,160,500
+YY,Yorkshire,East Riding of Yorkshire,102_86,51_43,25_21,110,110,999,0,5
+YY,Yorkshire,East Riding of Yorkshire,102_86,51_43,25_21,115,110,999,65,230
+YY,Yorkshire,East Riding of Yorkshire,102_87,51_43,25_21,110,105,999,6,32
+YY,Yorkshire,East Riding of Yorkshire,102_87,51_43,25_21,115,110,999,6,20
+YY,Yorkshire,East Riding of Yorkshire,102_88,51_44,25_22,110,110,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,102_88,51_44,25_22,115,110,999,3,13
+YY,Yorkshire,East Riding of Yorkshire,102_89,51_44,25_22,110,110,999,20,43
+YY,Yorkshire,East Riding of Yorkshire,102_89,51_44,25_22,115,110,999,3,16
+YY,Yorkshire,East Riding of Yorkshire,102_90,51_45,25_22,110,110,999,1,5
+YY,Yorkshire,East Riding of Yorkshire,102_90,51_45,25_22,115,115,999,8,21
+YY,Yorkshire,East Riding of Yorkshire,102_91,51_45,25_22,110,110,999,2,7
+YY,Yorkshire,East Riding of Yorkshire,102_91,51_45,25_22,115,115,999,1,6
+YY,Yorkshire,East Riding of Yorkshire,102_92,51_46,25_23,115,115,999,5,20
+YY,Yorkshire,East Riding of Yorkshire,102_92,51_46,25_23,115,120,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,102_92,51_46,25_23,120,120,999,0,5
+YY,Yorkshire,East Riding of Yorkshire,102_93,51_46,25_23,115,115,999,1,2
+YY,Yorkshire,East Riding of Yorkshire,102_93,51_46,25_23,120,120,999,4,11
+YY,Yorkshire,East Riding of Yorkshire,102_94,51_47,25_23,120,120,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,103_85,51_42,25_21,115,110,999,9,38
+YY,Yorkshire,East Riding of Yorkshire,103_85,51_42,25_21,120,110,999,2,11
+YY,Yorkshire,East Riding of Yorkshire,103_85,51_42,25_21,120,115,999,20,43
+YY,Yorkshire,East Riding of Yorkshire,103_86,51_43,25_21,115,110,999,24,66
+YY,Yorkshire,East Riding of Yorkshire,103_86,51_43,25_21,120,115,999,8,29
+YY,Yorkshire,East Riding of Yorkshire,103_87,51_43,25_21,115,110,999,5,7
+YY,Yorkshire,East Riding of Yorkshire,103_87,51_43,25_21,115,115,999,2,4
+YY,Yorkshire,East Riding of Yorkshire,103_87,51_43,25_21,120,115,999,3,4
+YY,Yorkshire,East Riding of Yorkshire,103_88,51_44,25_22,120,115,999,2,9
+YY,Yorkshire,East Riding of Yorkshire,103_89,51_44,25_22,115,115,999,2,14
+YY,Yorkshire,East Riding of Yorkshire,103_89,51_44,25_22,120,115,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,103_89,51_44,25_22,120,120,999,8,26
+YY,Yorkshire,East Riding of Yorkshire,103_90,51_45,25_22,115,115,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,103_90,51_45,25_22,120,120,999,12,19
+YY,Yorkshire,East Riding of Yorkshire,103_91,51_45,25_22,115,115,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,103_91,51_45,25_22,120,120,999,16,37
+YY,Yorkshire,East Riding of Yorkshire,103_92,51_46,25_23,120,120,999,12,19
+YY,Yorkshire,East Riding of Yorkshire,103_93,51_46,25_23,120,120,999,236,420
+YY,Yorkshire,East Riding of Yorkshire,103_93,51_46,25_23,125,125,999,17,54
+YY,Yorkshire,East Riding of Yorkshire,103_94,51_47,25_23,120,120,999,2,5
+YY,Yorkshire,East Riding of Yorkshire,103_94,51_47,25_23,125,125,999,6,21
+YY,Yorkshire,East Riding of Yorkshire,104_83,52_41,26_20,125,115,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,104_84,52_42,26_21,120,115,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,104_85,52_42,26_21,120,115,999,14,44
+YY,Yorkshire,East Riding of Yorkshire,104_85,52_42,26_21,125,115,999,2,7
+YY,Yorkshire,East Riding of Yorkshire,104_85,52_42,26_21,125,120,999,5,10
+YY,Yorkshire,East Riding of Yorkshire,104_86,52_43,26_21,120,115,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,104_86,52_43,26_21,120,120,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,104_86,52_43,26_21,125,120,999,0,9
+YY,Yorkshire,East Riding of Yorkshire,104_87,52_43,26_21,120,115,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,104_87,52_43,26_21,120,120,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,104_87,52_43,26_21,125,120,999,6,20
+YY,Yorkshire,East Riding of Yorkshire,104_88,52_44,26_22,120,115,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,104_88,52_44,26_22,125,120,999,1,8
+YY,Yorkshire,East Riding of Yorkshire,104_89,52_44,26_22,120,120,999,65,139
+YY,Yorkshire,East Riding of Yorkshire,104_93,52_46,26_23,125,125,999,19,30
+YY,Yorkshire,East Riding of Yorkshire,104_94,52_47,26_23,125,125,999,22,40
+YY,Yorkshire,East Riding of Yorkshire,104_94,52_47,26_23,130,130,999,15,22
+YY,Yorkshire,East Riding of Yorkshire,105_83,52_41,26_20,125,120,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,105_84,52_42,26_21,125,120,999,2,13
+YY,Yorkshire,East Riding of Yorkshire,105_84,52_42,26_21,130,120,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,105_85,52_42,26_21,125,120,999,1,5
+YY,Yorkshire,East Riding of Yorkshire,105_85,52_42,26_21,130,120,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,105_85,52_42,26_21,130,125,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,105_86,52_43,26_21,125,120,999,5,8
+YY,Yorkshire,East Riding of Yorkshire,105_86,52_43,26_21,130,125,999,4,10
+YY,Yorkshire,East Riding of Yorkshire,105_87,52_43,26_21,125,120,999,3,8
+YY,Yorkshire,East Riding of Yorkshire,105_94,52_47,26_23,130,130,999,5,7
+YY,Yorkshire,East Riding of Yorkshire,106_84,53_42,26_21,130,120,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,106_84,53_42,26_21,130,125,999,10,37
+YY,Yorkshire,East Riding of Yorkshire,106_85,53_42,26_21,130,125,999,4,12
+YY,Yorkshire,East Riding of Yorkshire,106_85,53_42,26_21,135,125,999,54,85
+YY,Yorkshire,East Riding of Yorkshire,106_85,53_42,26_21,135,130,999,16,44
+YY,Yorkshire,East Riding of Yorkshire,106_86,53_43,26_21,130,125,999,2,4
+YY,Yorkshire,East Riding of Yorkshire,107_82,53_41,26_20,140,130,999,0,8
+YY,Yorkshire,East Riding of Yorkshire,107_83,53_41,26_20,135,130,999,0,4
+YY,Yorkshire,East Riding of Yorkshire,107_83,53_41,26_20,140,130,999,2,10
+YY,Yorkshire,East Riding of Yorkshire,107_84,53_42,26_21,135,130,999,5,11
+YY,Yorkshire,East Riding of Yorkshire,107_85,53_42,26_21,135,130,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,108_82,54_41,27_20,140,130,999,0,6
+YY,Yorkshire,East Riding of Yorkshire,108_82,54_41,27_20,140,135,999,0,4
+YY,Yorkshire,East Riding of Yorkshire,108_83,54_41,27_20,140,130,999,2,3
+YY,Yorkshire,East Riding of Yorkshire,108_83,54_41,27_20,140,135,999,5,8
+YY,Yorkshire,East Riding of Yorkshire,92_83,46_41,23_20,60,55,999,3,12
+YY,Yorkshire,East Riding of Yorkshire,92_83,46_41,23_20,65,55,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,92_84,46_42,23_21,60,55,999,3,9
+YY,Yorkshire,East Riding of Yorkshire,92_84,46_42,23_21,60,60,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,92_84,46_42,23_21,65,60,999,10,26
+YY,Yorkshire,East Riding of Yorkshire,93_83,46_41,23_20,65,60,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,93_84,46_42,23_21,65,60,999,6,39
+YY,Yorkshire,East Riding of Yorkshire,93_84,46_42,23_21,65,65,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,93_84,46_42,23_21,70,60,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,93_84,46_42,23_21,70,65,999,2,11
+YY,Yorkshire,East Riding of Yorkshire,93_85,46_42,23_21,70,65,999,1,8
+YY,Yorkshire,East Riding of Yorkshire,94_84,47_42,23_21,70,65,999,19,39
+YY,Yorkshire,East Riding of Yorkshire,94_84,47_42,23_21,70,70,999,1,7
+YY,Yorkshire,East Riding of Yorkshire,94_84,47_42,23_21,75,70,999,101,163
+YY,Yorkshire,East Riding of Yorkshire,94_85,47_42,23_21,70,65,999,3,10
+YY,Yorkshire,East Riding of Yorkshire,94_85,47_42,23_21,70,70,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,94_85,47_42,23_21,75,70,999,27,48
+YY,Yorkshire,East Riding of Yorkshire,94_86,47_43,23_21,70,65,999,4,10
+YY,Yorkshire,East Riding of Yorkshire,94_86,47_43,23_21,70,70,999,2,3
+YY,Yorkshire,East Riding of Yorkshire,94_86,47_43,23_21,75,70,999,2,4
+YY,Yorkshire,East Riding of Yorkshire,94_87,47_43,23_21,70,70,999,6,26
+YY,Yorkshire,East Riding of Yorkshire,94_87,47_43,23_21,75,70,999,1,5
+YY,Yorkshire,East Riding of Yorkshire,94_88,47_44,23_22,70,70,999,0,5
+YY,Yorkshire,East Riding of Yorkshire,94_88,47_44,23_22,75,75,999,3,7
+YY,Yorkshire,East Riding of Yorkshire,94_89,47_44,23_22,70,70,999,2,14
+YY,Yorkshire,East Riding of Yorkshire,94_89,47_44,23_22,75,75,999,3,5
+YY,Yorkshire,East Riding of Yorkshire,94_90,47_45,23_22,70,70,999,2,7
+YY,Yorkshire,East Riding of Yorkshire,94_90,47_45,23_22,75,75,999,5,26
+YY,Yorkshire,East Riding of Yorkshire,94_91,47_45,23_22,75,75,999,20,46
+YY,Yorkshire,East Riding of Yorkshire,95_84,47_42,23_21,75,70,999,4,23
+YY,Yorkshire,East Riding of Yorkshire,95_84,47_42,23_21,80,75,999,2,7
+YY,Yorkshire,East Riding of Yorkshire,95_85,47_42,23_21,75,70,999,11,35
+YY,Yorkshire,East Riding of Yorkshire,95_85,47_42,23_21,80,75,999,3,15
+YY,Yorkshire,East Riding of Yorkshire,95_86,47_43,23_21,75,70,999,3,5
+YY,Yorkshire,East Riding of Yorkshire,95_86,47_43,23_21,80,75,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,95_87,47_43,23_21,75,75,999,2,4
+YY,Yorkshire,East Riding of Yorkshire,95_87,47_43,23_21,80,75,999,2,2
+YY,Yorkshire,East Riding of Yorkshire,95_87,47_43,23_21,80,80,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,95_88,47_44,23_22,75,75,999,2,8
+YY,Yorkshire,East Riding of Yorkshire,95_88,47_44,23_22,80,80,999,2,9
+YY,Yorkshire,East Riding of Yorkshire,95_89,47_44,23_22,75,75,999,7,14
+YY,Yorkshire,East Riding of Yorkshire,95_89,47_44,23_22,80,80,999,15,44
+YY,Yorkshire,East Riding of Yorkshire,95_90,47_45,23_22,80,80,999,4,16
+YY,Yorkshire,East Riding of Yorkshire,95_91,47_45,23_22,80,80,999,4,17
+YY,Yorkshire,East Riding of Yorkshire,96_84,48_42,24_21,80,75,999,1,8
+YY,Yorkshire,East Riding of Yorkshire,96_84,48_42,24_21,85,75,999,0,4
+YY,Yorkshire,East Riding of Yorkshire,96_84,48_42,24_21,85,80,999,1,3
+YY,Yorkshire,East Riding of Yorkshire,96_85,48_42,24_21,80,75,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,96_85,48_42,24_21,80,80,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,96_85,48_42,24_21,85,80,999,8,27
+YY,Yorkshire,East Riding of Yorkshire,96_86,48_43,24_21,80,75,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,96_87,48_43,24_21,80,80,999,16,27
+YY,Yorkshire,East Riding of Yorkshire,96_87,48_43,24_21,85,80,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,96_88,48_44,24_22,80,80,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,96_88,48_44,24_22,85,85,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,96_89,48_44,24_22,80,80,999,72,113
+YY,Yorkshire,East Riding of Yorkshire,96_89,48_44,24_22,85,85,999,4,18
+YY,Yorkshire,East Riding of Yorkshire,96_90,48_45,24_22,80,80,999,2,2
+YY,Yorkshire,East Riding of Yorkshire,96_90,48_45,24_22,85,85,999,3,6
+YY,Yorkshire,East Riding of Yorkshire,96_91,48_45,24_22,85,85,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,97_85,48_42,24_21,85,80,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,97_86,48_43,24_21,85,80,999,8,19
+YY,Yorkshire,East Riding of Yorkshire,97_86,48_43,24_21,85,85,999,2,3
+YY,Yorkshire,East Riding of Yorkshire,97_86,48_43,24_21,90,85,999,7,28
+YY,Yorkshire,East Riding of Yorkshire,97_87,48_43,24_21,90,85,999,0,6
+YY,Yorkshire,East Riding of Yorkshire,97_87,48_43,24_21,90,90,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,97_88,48_44,24_22,85,85,999,9,17
+YY,Yorkshire,East Riding of Yorkshire,97_88,48_44,24_22,90,85,999,27,51
+YY,Yorkshire,East Riding of Yorkshire,97_88,48_44,24_22,90,90,999,5,12
+YY,Yorkshire,East Riding of Yorkshire,97_89,48_44,24_22,85,85,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,97_89,48_44,24_22,85,90,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,97_89,48_44,24_22,90,90,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,97_90,48_45,24_22,90,90,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,97_91,48_45,24_22,90,90,999,3,13
+YY,Yorkshire,East Riding of Yorkshire,97_92,48_46,24_23,90,90,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,98_85,49_42,24_21,90,85,999,1,7
+YY,Yorkshire,East Riding of Yorkshire,98_85,49_42,24_21,90,90,999,0,3
+YY,Yorkshire,East Riding of Yorkshire,98_85,49_42,24_21,95,85,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,98_85,49_42,24_21,95,90,999,45,78
+YY,Yorkshire,East Riding of Yorkshire,98_86,49_43,24_21,90,85,999,24,50
+YY,Yorkshire,East Riding of Yorkshire,98_86,49_43,24_21,90,90,999,2,3
+YY,Yorkshire,East Riding of Yorkshire,98_86,49_43,24_21,95,90,999,0,1
+YY,Yorkshire,East Riding of Yorkshire,98_87,49_43,24_21,90,90,999,5,10
+YY,Yorkshire,East Riding of Yorkshire,98_87,49_43,24_21,95,90,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,98_88,49_44,24_22,95,90,999,1,2
+YY,Yorkshire,East Riding of Yorkshire,98_88,49_44,24_22,95,95,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,98_89,49_44,24_22,90,90,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,98_89,49_44,24_22,95,95,999,2,8
+YY,Yorkshire,East Riding of Yorkshire,98_90,49_45,24_22,95,95,999,1,9
+YY,Yorkshire,East Riding of Yorkshire,98_91,49_45,24_22,95,95,999,5,14
+YY,Yorkshire,East Riding of Yorkshire,98_92,49_46,24_23,95,95,999,7,14
+YY,Yorkshire,East Riding of Yorkshire,98_93,49_46,24_23,95,95,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,99_85,49_42,24_21,95,90,999,16,51
+YY,Yorkshire,East Riding of Yorkshire,99_85,49_42,24_21,100,90,999,10,20
+YY,Yorkshire,East Riding of Yorkshire,99_85,49_42,24_21,100,95,999,15,42
+YY,Yorkshire,East Riding of Yorkshire,99_86,49_43,24_21,95,95,999,1,4
+YY,Yorkshire,East Riding of Yorkshire,99_86,49_43,24_21,100,95,999,7,14
+YY,Yorkshire,East Riding of Yorkshire,99_87,49_43,24_21,100,95,999,5,25
+YY,Yorkshire,East Riding of Yorkshire,99_88,49_44,24_22,95,95,999,0,2
+YY,Yorkshire,East Riding of Yorkshire,99_88,49_44,24_22,100,95,999,6,22
+YY,Yorkshire,East Riding of Yorkshire,99_88,49_44,24_22,100,100,999,1,6
+YY,Yorkshire,East Riding of Yorkshire,99_89,49_44,24_22,95,95,999,0,4
+YY,Yorkshire,East Riding of Yorkshire,99_89,49_44,24_22,100,100,999,1,12
+YY,Yorkshire,East Riding of Yorkshire,99_90,49_45,24_22,100,100,999,1,8
+YY,Yorkshire,East Riding of Yorkshire,99_91,49_45,24_22,100,100,999,2,12
+YY,Yorkshire,East Riding of Yorkshire,99_92,49_46,24_23,100,100,999,1,1
+YY,Yorkshire,East Riding of Yorkshire,99_93,49_46,24_23,100,100,999,0,1
+YY,Yorkshire,North Yorkshire,100_94,50_47,25_23,105,105,999,0,2
+YY,Yorkshire,North Yorkshire,100_95,50_47,25_23,110,110,999,11,16
+YY,Yorkshire,North Yorkshire,100_96,50_48,25_24,110,110,999,14,26
+YY,Yorkshire,North Yorkshire,100_96,50_48,25_24,115,115,999,26,51
+YY,Yorkshire,North Yorkshire,100_97,50_48,25_24,110,110,999,2,3
+YY,Yorkshire,North Yorkshire,100_97,50_48,25_24,115,110,999,16,48
+YY,Yorkshire,North Yorkshire,100_97,50_48,25_24,115,115,999,659,803
+YY,Yorkshire,North Yorkshire,100_98,50_49,25_24,115,110,999,26,46
+YY,Yorkshire,North Yorkshire,100_98,50_49,25_24,115,115,999,11,14
+YY,Yorkshire,North Yorkshire,100_99,50_49,25_24,115,110,999,2,5
+YY,Yorkshire,North Yorkshire,101_95,50_47,25_23,115,115,999,30,44
+YY,Yorkshire,North Yorkshire,101_96,50_48,25_24,115,115,999,30,50
+YY,Yorkshire,North Yorkshire,101_96,50_48,25_24,120,120,999,8,12
+YY,Yorkshire,North Yorkshire,101_97,50_48,25_24,115,115,999,32,42
+YY,Yorkshire,North Yorkshire,102_94,51_47,25_23,120,120,999,4,4
+YY,Yorkshire,North Yorkshire,102_95,51_47,25_23,115,115,999,3,4
+YY,Yorkshire,North Yorkshire,102_95,51_47,25_23,120,120,999,44,68
+YY,Yorkshire,North Yorkshire,102_96,51_48,25_24,120,120,999,168,238
+YY,Yorkshire,North Yorkshire,103_94,51_47,25_23,120,120,999,0,2
+YY,Yorkshire,North Yorkshire,72_93,36_46,18_23,0,0,10,3,5
+YY,Yorkshire,North Yorkshire,72_94,36_47,18_23,0,0,10,2,2
+YY,Yorkshire,North Yorkshire,73_93,36_46,18_23,0,0,10,30,59
+YY,Yorkshire,North Yorkshire,73_94,36_47,18_23,0,0,10,61,105
+YY,Yorkshire,North Yorkshire,73_94,36_47,18_23,5,5,10,2,2
+YY,Yorkshire,North Yorkshire,73_95,36_47,18_23,0,0,10,0,3
+YY,Yorkshire,North Yorkshire,74_92,37_46,18_23,5,0,10,1,1
+YY,Yorkshire,North Yorkshire,74_93,37_46,18_23,0,0,10,1,3
+YY,Yorkshire,North Yorkshire,74_93,37_46,18_23,5,5,10,12,28
+YY,Yorkshire,North Yorkshire,74_94,37_47,18_23,0,0,10,5,10
+YY,Yorkshire,North Yorkshire,74_94,37_47,18_23,5,5,10,14,15
+YY,Yorkshire,North Yorkshire,74_95,37_47,18_23,0,0,10,1,2
+YY,Yorkshire,North Yorkshire,74_95,37_47,18_23,5,0,10,4,10
+YY,Yorkshire,North Yorkshire,75_91,37_45,18_22,5,0,10,2,5
+YY,Yorkshire,North Yorkshire,75_91,37_45,18_22,10,0,15,4,7
+YY,Yorkshire,North Yorkshire,75_92,37_46,18_23,5,0,10,1,1
+YY,Yorkshire,North Yorkshire,75_93,37_46,18_23,5,0,10,0,2
+YY,Yorkshire,North Yorkshire,75_93,37_46,18_23,5,5,10,15,24
+YY,Yorkshire,North Yorkshire,75_93,37_46,18_23,10,5,15,0,1
+YY,Yorkshire,North Yorkshire,75_94,37_47,18_23,5,5,10,5,9
+YY,Yorkshire,North Yorkshire,75_94,37_47,18_23,10,5,15,1,1
+YY,Yorkshire,North Yorkshire,75_95,37_47,18_23,5,0,10,4,16
+YY,Yorkshire,North Yorkshire,75_95,37_47,18_23,5,5,10,2,3
+YY,Yorkshire,North Yorkshire,75_95,37_47,18_23,10,0,15,1,1
+YY,Yorkshire,North Yorkshire,75_98,37_49,18_24,10,0,15,2,3
+YY,Yorkshire,North Yorkshire,76_100,38_50,19_25,20,0,25,0,1
+YY,Yorkshire,North Yorkshire,76_90,38_45,19_22,10,0,15,0,1
+YY,Yorkshire,North Yorkshire,76_91,38_45,19_22,5,0,10,1,1
+YY,Yorkshire,North Yorkshire,76_91,38_45,19_22,10,0,15,8,27
+YY,Yorkshire,North Yorkshire,76_92,38_46,19_23,10,0,15,3,7
+YY,Yorkshire,North Yorkshire,76_92,38_46,19_23,10,5,15,129,195
+YY,Yorkshire,North Yorkshire,76_93,38_46,19_23,10,5,15,15,37
+YY,Yorkshire,North Yorkshire,76_94,38_47,19_23,10,5,15,4,4
+YY,Yorkshire,North Yorkshire,76_94,38_47,19_23,10,10,15,11,22
+YY,Yorkshire,North Yorkshire,76_95,38_47,19_23,15,5,25,0,1
+YY,Yorkshire,North Yorkshire,76_96,38_48,19_24,10,0,15,0,3
+YY,Yorkshire,North Yorkshire,76_97,38_48,19_24,10,0,15,1,1
+YY,Yorkshire,North Yorkshire,76_98,38_49,19_24,15,0,25,1,2
+YY,Yorkshire,North Yorkshire,76_99,38_49,19_24,20,0,25,1,1
+YY,Yorkshire,North Yorkshire,77_100,38_50,19_25,20,0,25,2,2
+YY,Yorkshire,North Yorkshire,77_100,38_50,19_25,25,0,40,2,2
+YY,Yorkshire,North Yorkshire,77_100,38_50,19_25,25,5,40,5,9
+YY,Yorkshire,North Yorkshire,77_101,38_50,19_25,30,0,40,2,2
+YY,Yorkshire,North Yorkshire,77_89,38_44,19_22,0,0,10,0,3
+YY,Yorkshire,North Yorkshire,77_90,38_45,19_22,5,0,10,3,4
+YY,Yorkshire,North Yorkshire,77_91,38_45,19_22,10,0,15,18,35
+YY,Yorkshire,North Yorkshire,77_91,38_45,19_22,10,5,15,1,1
+YY,Yorkshire,North Yorkshire,77_91,38_45,19_22,15,5,25,3,3
+YY,Yorkshire,North Yorkshire,77_92,38_46,19_23,15,5,25,3,6
+YY,Yorkshire,North Yorkshire,77_92,38_46,19_23,15,10,25,6,10
+YY,Yorkshire,North Yorkshire,77_92,38_46,19_23,20,10,25,1,1
+YY,Yorkshire,North Yorkshire,77_93,38_46,19_23,15,10,25,0,5
+YY,Yorkshire,North Yorkshire,77_94,38_47,19_23,15,10,25,1,1
+YY,Yorkshire,North Yorkshire,77_94,38_47,19_23,15,15,25,1,1
+YY,Yorkshire,North Yorkshire,77_94,38_47,19_23,20,10,25,2,2
+YY,Yorkshire,North Yorkshire,77_95,38_47,19_23,15,5,25,1,1
+YY,Yorkshire,North Yorkshire,77_95,38_47,19_23,15,10,25,1,3
+YY,Yorkshire,North Yorkshire,77_96,38_48,19_24,15,5,25,3,5
+YY,Yorkshire,North Yorkshire,77_96,38_48,19_24,15,10,25,1,1
+YY,Yorkshire,North Yorkshire,77_97,38_48,19_24,15,5,25,61,77
+YY,Yorkshire,North Yorkshire,77_98,38_49,19_24,15,5,25,10,13
+YY,Yorkshire,North Yorkshire,77_99,38_49,19_24,20,5,25,7,10
+YY,Yorkshire,North Yorkshire,78_100,39_50,19_25,25,5,40,2,2
+YY,Yorkshire,North Yorkshire,78_100,39_50,19_25,30,5,40,1,1
+YY,Yorkshire,North Yorkshire,78_89,39_44,19_22,0,0,10,0,7
+YY,Yorkshire,North Yorkshire,78_89,39_44,19_22,5,0,10,1,4
+YY,Yorkshire,North Yorkshire,78_90,39_45,19_22,5,0,10,6,17
+YY,Yorkshire,North Yorkshire,78_90,39_45,19_22,5,5,10,0,4
+YY,Yorkshire,North Yorkshire,78_90,39_45,19_22,10,5,15,22,40
+YY,Yorkshire,North Yorkshire,78_91,39_45,19_22,10,0,15,2,3
+YY,Yorkshire,North Yorkshire,78_91,39_45,19_22,10,5,15,3,6
+YY,Yorkshire,North Yorkshire,78_91,39_45,19_22,15,5,25,2,6
+YY,Yorkshire,North Yorkshire,78_92,39_46,19_23,15,5,25,1,1
+YY,Yorkshire,North Yorkshire,78_92,39_46,19_23,15,10,25,18,31
+YY,Yorkshire,North Yorkshire,78_92,39_46,19_23,20,10,25,2,2
+YY,Yorkshire,North Yorkshire,78_93,39_46,19_23,20,10,25,0,2
+YY,Yorkshire,North Yorkshire,78_93,39_46,19_23,20,15,25,0,1
+YY,Yorkshire,North Yorkshire,78_94,39_47,19_23,20,10,25,1,1
+YY,Yorkshire,North Yorkshire,78_94,39_47,19_23,20,15,25,3,5
+YY,Yorkshire,North Yorkshire,78_94,39_47,19_23,25,15,40,2,2
+YY,Yorkshire,North Yorkshire,78_95,39_47,19_23,20,10,25,9,10
+YY,Yorkshire,North Yorkshire,78_95,39_47,19_23,20,15,25,5,13
+YY,Yorkshire,North Yorkshire,78_95,39_47,19_23,25,15,40,1,1
+YY,Yorkshire,North Yorkshire,78_97,39_48,19_24,20,10,25,2,4
+YY,Yorkshire,North Yorkshire,78_98,39_49,19_24,20,10,25,8,14
+YY,Yorkshire,North Yorkshire,78_98,39_49,19_24,25,10,40,9,14
+YY,Yorkshire,North Yorkshire,78_98,39_49,19_24,25,15,40,3,3
+YY,Yorkshire,North Yorkshire,78_99,39_49,19_24,20,5,25,1,1
+YY,Yorkshire,North Yorkshire,78_99,39_49,19_24,25,5,40,7,14
+YY,Yorkshire,North Yorkshire,78_99,39_49,19_24,25,10,40,0,1
+YY,Yorkshire,North Yorkshire,79_100,39_50,19_25,30,5,40,1,1
+YY,Yorkshire,North Yorkshire,79_100,39_50,19_25,30,10,40,2,3
+YY,Yorkshire,North Yorkshire,79_100,39_50,19_25,35,10,40,1,2
+YY,Yorkshire,North Yorkshire,79_88,39_44,19_22,0,0,10,5,45
+YY,Yorkshire,North Yorkshire,79_88,39_44,19_22,5,5,10,1,6
+YY,Yorkshire,North Yorkshire,79_89,39_44,19_22,0,0,10,1,7
+YY,Yorkshire,North Yorkshire,79_89,39_44,19_22,5,5,10,25,45
+YY,Yorkshire,North Yorkshire,79_90,39_45,19_22,5,5,10,354,464
+YY,Yorkshire,North Yorkshire,79_90,39_45,19_22,10,5,15,8,19
+YY,Yorkshire,North Yorkshire,79_90,39_45,19_22,10,10,15,0,1
+YY,Yorkshire,North Yorkshire,79_91,39_45,19_22,10,5,15,1,5
+YY,Yorkshire,North Yorkshire,79_91,39_45,19_22,15,10,25,2,14
+YY,Yorkshire,North Yorkshire,79_92,39_46,19_23,15,10,25,6,10
+YY,Yorkshire,North Yorkshire,79_92,39_46,19_23,15,15,25,2,5
+YY,Yorkshire,North Yorkshire,79_92,39_46,19_23,20,10,25,3,3
+YY,Yorkshire,North Yorkshire,79_92,39_46,19_23,20,15,25,14,44
+YY,Yorkshire,North Yorkshire,79_93,39_46,19_23,20,15,25,10,17
+YY,Yorkshire,North Yorkshire,79_93,39_46,19_23,25,15,40,2,2
+YY,Yorkshire,North Yorkshire,79_94,39_47,19_23,25,15,40,4,6
+YY,Yorkshire,North Yorkshire,79_94,39_47,19_23,25,20,40,20,33
+YY,Yorkshire,North Yorkshire,79_95,39_47,19_23,25,15,40,1,1
+YY,Yorkshire,North Yorkshire,79_97,39_48,19_24,25,15,40,2,6
+YY,Yorkshire,North Yorkshire,79_97,39_48,19_24,25,20,40,2,2
+YY,Yorkshire,North Yorkshire,79_98,39_49,19_24,25,15,40,1,3
+YY,Yorkshire,North Yorkshire,79_99,39_49,19_24,25,10,40,4,8
+YY,Yorkshire,North Yorkshire,79_99,39_49,19_24,30,10,40,5,15
+YY,Yorkshire,North Yorkshire,80_100,40_50,20_25,35,10,40,1,4
+YY,Yorkshire,North Yorkshire,80_100,40_50,20_25,35,15,40,0,1
+YY,Yorkshire,North Yorkshire,80_88,40_44,20_22,0,0,10,0,2
+YY,Yorkshire,North Yorkshire,80_88,40_44,20_22,5,5,10,15,34
+YY,Yorkshire,North Yorkshire,80_89,40_44,20_22,5,5,10,22,48
+YY,Yorkshire,North Yorkshire,80_90,40_45,20_22,5,5,10,1,1
+YY,Yorkshire,North Yorkshire,80_90,40_45,20_22,10,10,15,10,26
+YY,Yorkshire,North Yorkshire,80_91,40_45,20_22,10,10,15,1,1
+YY,Yorkshire,North Yorkshire,80_91,40_45,20_22,15,10,25,0,1
+YY,Yorkshire,North Yorkshire,80_91,40_45,20_22,15,15,25,0,1
+YY,Yorkshire,North Yorkshire,80_92,40_46,20_23,15,15,25,15,19
+YY,Yorkshire,North Yorkshire,80_92,40_46,20_23,20,15,25,67,110
+YY,Yorkshire,North Yorkshire,80_93,40_46,20_23,20,15,25,7,7
+YY,Yorkshire,North Yorkshire,80_93,40_46,20_23,25,20,40,2,4
+YY,Yorkshire,North Yorkshire,80_95,40_47,20_23,30,20,40,1,1
+YY,Yorkshire,North Yorkshire,80_96,40_48,20_24,30,25,40,2,3
+YY,Yorkshire,North Yorkshire,80_97,40_48,20_24,30,20,40,29,53
+YY,Yorkshire,North Yorkshire,80_98,40_49,20_24,30,20,40,5,12
+YY,Yorkshire,North Yorkshire,80_98,40_49,20_24,35,20,40,1,7
+YY,Yorkshire,North Yorkshire,80_99,40_49,20_24,30,10,40,2,2
+YY,Yorkshire,North Yorkshire,80_99,40_49,20_24,35,15,40,27,41
+YY,Yorkshire,North Yorkshire,81_100,40_50,20_25,40,15,999,3,3
+YY,Yorkshire,North Yorkshire,81_101,40_50,20_25,45,20,999,1,1
+YY,Yorkshire,North Yorkshire,81_102,40_51,20_25,45,20,999,1,1
+YY,Yorkshire,North Yorkshire,81_89,40_44,20_22,15,15,25,1,1
+YY,Yorkshire,North Yorkshire,81_90,40_45,20_22,15,10,25,1,1
+YY,Yorkshire,North Yorkshire,81_90,40_45,20_22,15,15,25,22,35
+YY,Yorkshire,North Yorkshire,81_91,40_45,20_22,15,15,25,9,19
+YY,Yorkshire,North Yorkshire,81_91,40_45,20_22,20,15,25,2,2
+YY,Yorkshire,North Yorkshire,81_92,40_46,20_23,20,15,25,2,3
+YY,Yorkshire,North Yorkshire,81_92,40_46,20_23,20,20,25,3,7
+YY,Yorkshire,North Yorkshire,81_92,40_46,20_23,25,20,40,2,3
+YY,Yorkshire,North Yorkshire,81_94,40_47,20_23,30,30,40,10,14
+YY,Yorkshire,North Yorkshire,81_95,40_47,20_23,35,25,40,2,3
+YY,Yorkshire,North Yorkshire,81_96,40_48,20_24,35,25,40,3,3
+YY,Yorkshire,North Yorkshire,81_97,40_48,20_24,35,20,40,4,6
+YY,Yorkshire,North Yorkshire,81_97,40_48,20_24,35,25,40,9,16
+YY,Yorkshire,North Yorkshire,81_98,40_49,20_24,35,20,40,1,3
+YY,Yorkshire,North Yorkshire,81_99,40_49,20_24,35,20,40,0,1
+YY,Yorkshire,North Yorkshire,81_99,40_49,20_24,40,15,999,1,1
+YY,Yorkshire,North Yorkshire,81_99,40_49,20_24,40,20,999,2,2
+YY,Yorkshire,North Yorkshire,82_100,41_50,20_25,40,20,999,0,1
+YY,Yorkshire,North Yorkshire,82_100,41_50,20_25,45,20,999,2,2
+YY,Yorkshire,North Yorkshire,82_100,41_50,20_25,45,25,999,1,1
+YY,Yorkshire,North Yorkshire,82_101,41_50,20_25,45,20,999,1,4
+YY,Yorkshire,North Yorkshire,82_101,41_50,20_25,45,25,999,1,1
+YY,Yorkshire,North Yorkshire,82_101,41_50,20_25,50,20,999,3,4
+YY,Yorkshire,North Yorkshire,82_101,41_50,20_25,50,25,999,2,2
+YY,Yorkshire,North Yorkshire,82_102,41_51,20_25,45,20,999,3,4
+YY,Yorkshire,North Yorkshire,82_89,41_44,20_22,15,15,25,0,3
+YY,Yorkshire,North Yorkshire,82_90,41_45,20_22,20,20,25,0,3
+YY,Yorkshire,North Yorkshire,82_91,41_45,20_22,20,20,25,3,3
+YY,Yorkshire,North Yorkshire,82_91,41_45,20_22,25,20,40,5,5
+YY,Yorkshire,North Yorkshire,82_92,41_46,20_23,25,25,40,4,8
+YY,Yorkshire,North Yorkshire,82_93,41_46,20_23,25,25,40,2,2
+YY,Yorkshire,North Yorkshire,82_93,41_46,20_23,30,25,40,5,6
+YY,Yorkshire,North Yorkshire,82_93,41_46,20_23,30,30,40,1,2
+YY,Yorkshire,North Yorkshire,82_94,41_47,20_23,30,30,40,2,9
+YY,Yorkshire,North Yorkshire,82_95,41_47,20_23,35,30,40,1,1
+YY,Yorkshire,North Yorkshire,82_97,41_48,20_24,40,25,999,9,12
+YY,Yorkshire,North Yorkshire,82_97,41_48,20_24,40,30,999,26,46
+YY,Yorkshire,North Yorkshire,82_98,41_49,20_24,40,25,999,63,92
+YY,Yorkshire,North Yorkshire,82_99,41_49,20_24,40,20,999,2,5
+YY,Yorkshire,North Yorkshire,83_100,41_50,20_25,45,25,999,12,20
+YY,Yorkshire,North Yorkshire,83_100,41_50,20_25,50,25,999,175,210
+YY,Yorkshire,North Yorkshire,83_100,41_50,20_25,50,30,999,3,6
+YY,Yorkshire,North Yorkshire,83_101,41_50,20_25,50,25,999,4,8
+YY,Yorkshire,North Yorkshire,83_101,41_50,20_25,55,30,999,2,3
+YY,Yorkshire,North Yorkshire,83_102,41_51,20_25,55,25,999,2,7
+YY,Yorkshire,North Yorkshire,83_89,41_44,20_22,20,20,25,2,7
+YY,Yorkshire,North Yorkshire,83_90,41_45,20_22,20,20,25,3,7
+YY,Yorkshire,North Yorkshire,83_90,41_45,20_22,25,25,40,3,5
+YY,Yorkshire,North Yorkshire,83_91,41_45,20_22,25,25,40,5,14
+YY,Yorkshire,North Yorkshire,83_91,41_45,20_22,30,25,40,1,1
+YY,Yorkshire,North Yorkshire,83_91,41_45,20_22,30,30,40,0,2
+YY,Yorkshire,North Yorkshire,83_92,41_46,20_23,25,25,40,1,2
+YY,Yorkshire,North Yorkshire,83_92,41_46,20_23,30,25,40,1,4
+YY,Yorkshire,North Yorkshire,83_92,41_46,20_23,30,30,40,7,34
+YY,Yorkshire,North Yorkshire,83_93,41_46,20_23,30,25,40,30,42
+YY,Yorkshire,North Yorkshire,83_93,41_46,20_23,30,30,40,8,19
+YY,Yorkshire,North Yorkshire,83_94,41_47,20_23,35,35,40,1,3
+YY,Yorkshire,North Yorkshire,83_95,41_47,20_23,40,35,999,5,6
+YY,Yorkshire,North Yorkshire,83_96,41_48,20_24,40,35,999,0,2
+YY,Yorkshire,North Yorkshire,83_96,41_48,20_24,45,35,999,3,5
+YY,Yorkshire,North Yorkshire,83_97,41_48,20_24,45,30,999,4,11
+YY,Yorkshire,North Yorkshire,83_98,41_49,20_24,45,30,999,4,14
+YY,Yorkshire,North Yorkshire,83_99,41_49,20_24,45,25,999,4,14
+YY,Yorkshire,North Yorkshire,83_99,41_49,20_24,45,30,999,0,1
+YY,Yorkshire,North Yorkshire,83_99,41_49,20_24,50,25,999,2,3
+YY,Yorkshire,North Yorkshire,83_99,41_49,20_24,50,30,999,56,74
+YY,Yorkshire,North Yorkshire,84_100,42_50,21_25,50,30,999,5,5
+YY,Yorkshire,North Yorkshire,84_100,42_50,21_25,55,30,999,3,7
+YY,Yorkshire,North Yorkshire,84_100,42_50,21_25,55,35,999,1,3
+YY,Yorkshire,North Yorkshire,84_101,42_50,21_25,55,30,999,17,39
+YY,Yorkshire,North Yorkshire,84_102,42_51,21_25,55,30,999,1,4
+YY,Yorkshire,North Yorkshire,84_102,42_51,21_25,60,30,999,1,5
+YY,Yorkshire,North Yorkshire,84_102,42_51,21_25,60,35,999,0,1
+YY,Yorkshire,North Yorkshire,84_103,42_51,21_25,60,30,999,1,2
+YY,Yorkshire,North Yorkshire,84_89,42_44,21_22,20,20,25,1,3
+YY,Yorkshire,North Yorkshire,84_89,42_44,21_22,25,25,40,2,8
+YY,Yorkshire,North Yorkshire,84_90,42_45,21_22,25,25,40,7,11
+YY,Yorkshire,North Yorkshire,84_90,42_45,21_22,30,30,40,1,1
+YY,Yorkshire,North Yorkshire,84_91,42_45,21_22,25,25,40,0,1
+YY,Yorkshire,North Yorkshire,84_91,42_45,21_22,30,30,40,8,19
+YY,Yorkshire,North Yorkshire,84_92,42_46,21_23,30,30,40,10,17
+YY,Yorkshire,North Yorkshire,84_92,42_46,21_23,35,30,40,0,1
+YY,Yorkshire,North Yorkshire,84_93,42_46,21_23,30,30,40,3,5
+YY,Yorkshire,North Yorkshire,84_93,42_46,21_23,35,35,40,5,10
+YY,Yorkshire,North Yorkshire,84_94,42_47,21_23,35,35,40,1,2
+YY,Yorkshire,North Yorkshire,84_94,42_47,21_23,40,35,999,0,1
+YY,Yorkshire,North Yorkshire,84_94,42_47,21_23,40,40,999,8,13
+YY,Yorkshire,North Yorkshire,84_95,42_47,21_23,40,40,999,4,13
+YY,Yorkshire,North Yorkshire,84_95,42_47,21_23,45,40,999,3,3
+YY,Yorkshire,North Yorkshire,84_96,42_48,21_24,45,40,999,62,81
+YY,Yorkshire,North Yorkshire,84_97,42_48,21_24,50,35,999,2,12
+YY,Yorkshire,North Yorkshire,84_97,42_48,21_24,50,40,999,1,5
+YY,Yorkshire,North Yorkshire,84_98,42_49,21_24,50,35,999,2,7
+YY,Yorkshire,North Yorkshire,84_98,42_49,21_24,55,35,999,1,3
+YY,Yorkshire,North Yorkshire,84_99,42_49,21_24,50,30,999,11,21
+YY,Yorkshire,North Yorkshire,84_99,42_49,21_24,55,30,999,3,5
+YY,Yorkshire,North Yorkshire,84_99,42_49,21_24,55,35,999,8,11
+YY,Yorkshire,North Yorkshire,85_100,42_50,21_25,55,35,999,1,5
+YY,Yorkshire,North Yorkshire,85_100,42_50,21_25,60,35,999,3,7
+YY,Yorkshire,North Yorkshire,85_100,42_50,21_25,60,40,999,1,2
+YY,Yorkshire,North Yorkshire,85_101,42_50,21_25,60,35,999,3,5
+YY,Yorkshire,North Yorkshire,85_101,42_50,21_25,60,40,999,6,7
+YY,Yorkshire,North Yorkshire,85_102,42_51,21_25,60,35,999,1,2
+YY,Yorkshire,North Yorkshire,85_89,42_44,21_22,25,25,40,4,5
+YY,Yorkshire,North Yorkshire,85_89,42_44,21_22,30,30,40,3,25
+YY,Yorkshire,North Yorkshire,85_90,42_45,21_22,30,30,40,21,31
+YY,Yorkshire,North Yorkshire,85_90,42_45,21_22,30,35,40,0,2
+YY,Yorkshire,North Yorkshire,85_90,42_45,21_22,35,35,40,15,39
+YY,Yorkshire,North Yorkshire,85_91,42_45,21_22,30,30,40,8,17
+YY,Yorkshire,North Yorkshire,85_91,42_45,21_22,35,35,40,86,138
+YY,Yorkshire,North Yorkshire,85_92,42_46,21_23,35,35,40,12,21
+YY,Yorkshire,North Yorkshire,85_92,42_46,21_23,40,40,999,1,2
+YY,Yorkshire,North Yorkshire,85_93,42_46,21_23,40,40,999,24,47
+YY,Yorkshire,North Yorkshire,85_94,42_47,21_23,40,40,999,4,10
+YY,Yorkshire,North Yorkshire,85_94,42_47,21_23,45,40,999,3,4
+YY,Yorkshire,North Yorkshire,85_95,42_47,21_23,45,40,999,0,4
+YY,Yorkshire,North Yorkshire,85_95,42_47,21_23,45,45,999,13,29
+YY,Yorkshire,North Yorkshire,85_96,42_48,21_24,45,45,999,0,1
+YY,Yorkshire,North Yorkshire,85_96,42_48,21_24,50,40,999,5,10
+YY,Yorkshire,North Yorkshire,85_96,42_48,21_24,50,45,999,1,5
+YY,Yorkshire,North Yorkshire,85_97,42_48,21_24,50,40,999,7,12
+YY,Yorkshire,North Yorkshire,85_97,42_48,21_24,55,40,999,50,87
+YY,Yorkshire,North Yorkshire,85_97,42_48,21_24,55,45,999,1,1
+YY,Yorkshire,North Yorkshire,85_98,42_49,21_24,55,40,999,13,25
+YY,Yorkshire,North Yorkshire,85_98,42_49,21_24,60,40,999,0,2
+YY,Yorkshire,North Yorkshire,85_99,42_49,21_24,55,35,999,5,9
+YY,Yorkshire,North Yorkshire,85_99,42_49,21_24,55,40,999,0,1
+YY,Yorkshire,North Yorkshire,86_100,43_50,21_25,60,40,999,1,4
+YY,Yorkshire,North Yorkshire,86_100,43_50,21_25,65,40,999,0,1
+YY,Yorkshire,North Yorkshire,86_100,43_50,21_25,65,45,999,1,6
+YY,Yorkshire,North Yorkshire,86_101,43_50,21_25,65,40,999,1,2
+YY,Yorkshire,North Yorkshire,86_89,43_44,21_22,30,30,40,1,3
+YY,Yorkshire,North Yorkshire,86_89,43_44,21_22,35,35,40,5,10
+YY,Yorkshire,North Yorkshire,86_90,43_45,21_22,35,35,40,62,144
+YY,Yorkshire,North Yorkshire,86_90,43_45,21_22,40,40,999,3,3
+YY,Yorkshire,North Yorkshire,86_91,43_45,21_22,35,35,40,389,559
+YY,Yorkshire,North Yorkshire,86_91,43_45,21_22,40,40,999,51,85
+YY,Yorkshire,North Yorkshire,86_92,43_46,21_23,35,35,40,1,2
+YY,Yorkshire,North Yorkshire,86_92,43_46,21_23,40,40,999,6,23
+YY,Yorkshire,North Yorkshire,86_93,43_46,21_23,40,40,999,5,9
+YY,Yorkshire,North Yorkshire,86_93,43_46,21_23,45,40,999,6,16
+YY,Yorkshire,North Yorkshire,86_93,43_46,21_23,45,45,999,7,13
+YY,Yorkshire,North Yorkshire,86_94,43_47,21_23,45,40,999,1,6
+YY,Yorkshire,North Yorkshire,86_94,43_47,21_23,45,45,999,234,327
+YY,Yorkshire,North Yorkshire,86_95,43_47,21_23,45,45,999,0,1
+YY,Yorkshire,North Yorkshire,86_95,43_47,21_23,50,45,999,1,1
+YY,Yorkshire,North Yorkshire,86_95,43_47,21_23,50,50,999,1,4
+YY,Yorkshire,North Yorkshire,86_96,43_48,21_24,50,45,999,2,6
+YY,Yorkshire,North Yorkshire,86_96,43_48,21_24,50,50,999,1,1
+YY,Yorkshire,North Yorkshire,86_96,43_48,21_24,55,45,999,1,2
+YY,Yorkshire,North Yorkshire,86_96,43_48,21_24,55,50,999,2,6
+YY,Yorkshire,North Yorkshire,86_97,43_48,21_24,55,45,999,2,5
+YY,Yorkshire,North Yorkshire,86_98,43_49,21_24,55,40,999,1,1
+YY,Yorkshire,North Yorkshire,86_98,43_49,21_24,60,40,999,2,9
+YY,Yorkshire,North Yorkshire,86_98,43_49,21_24,60,45,999,8,19
+YY,Yorkshire,North Yorkshire,86_98,43_49,21_24,65,45,999,2,3
+YY,Yorkshire,North Yorkshire,86_99,43_49,21_24,60,40,999,2,3
+YY,Yorkshire,North Yorkshire,86_99,43_49,21_24,65,45,999,3,5
+YY,Yorkshire,North Yorkshire,87_100,43_50,21_25,65,45,999,1,2
+YY,Yorkshire,North Yorkshire,87_100,43_50,21_25,70,45,999,3,11
+YY,Yorkshire,North Yorkshire,87_100,43_50,21_25,70,50,999,1,3
+YY,Yorkshire,North Yorkshire,87_101,43_50,21_25,65,45,999,0,1
+YY,Yorkshire,North Yorkshire,87_101,43_50,21_25,70,45,999,1,1
+YY,Yorkshire,North Yorkshire,87_101,43_50,21_25,70,50,999,2,4
+YY,Yorkshire,North Yorkshire,87_89,43_44,21_22,35,35,40,0,2
+YY,Yorkshire,North Yorkshire,87_89,43_44,21_22,40,40,999,4,9
+YY,Yorkshire,North Yorkshire,87_90,43_45,21_22,40,40,999,10,29
+YY,Yorkshire,North Yorkshire,87_91,43_45,21_22,40,40,999,130,183
+YY,Yorkshire,North Yorkshire,87_91,43_45,21_22,45,45,999,1,2
+YY,Yorkshire,North Yorkshire,87_92,43_46,21_23,40,40,999,0,3
+YY,Yorkshire,North Yorkshire,87_92,43_46,21_23,45,45,999,5,16
+YY,Yorkshire,North Yorkshire,87_93,43_46,21_23,45,45,999,9,18
+YY,Yorkshire,North Yorkshire,87_93,43_46,21_23,50,50,999,32,46
+YY,Yorkshire,North Yorkshire,87_94,43_47,21_23,50,50,999,3,15
+YY,Yorkshire,North Yorkshire,87_95,43_47,21_23,50,50,999,4,8
+YY,Yorkshire,North Yorkshire,87_95,43_47,21_23,55,50,999,1,1
+YY,Yorkshire,North Yorkshire,87_95,43_47,21_23,55,55,999,3,9
+YY,Yorkshire,North Yorkshire,87_96,43_48,21_24,55,50,999,3,9
+YY,Yorkshire,North Yorkshire,87_96,43_48,21_24,55,55,999,8,14
+YY,Yorkshire,North Yorkshire,87_96,43_48,21_24,60,50,999,0,2
+YY,Yorkshire,North Yorkshire,87_97,43_48,21_24,55,50,999,0,1
+YY,Yorkshire,North Yorkshire,87_97,43_48,21_24,60,45,999,1,2
+YY,Yorkshire,North Yorkshire,87_97,43_48,21_24,60,50,999,6,11
+YY,Yorkshire,North Yorkshire,87_98,43_49,21_24,60,45,999,5,17
+YY,Yorkshire,North Yorkshire,87_98,43_49,21_24,65,45,999,306,412
+YY,Yorkshire,North Yorkshire,87_98,43_49,21_24,65,50,999,5,12
+YY,Yorkshire,North Yorkshire,87_99,43_49,21_24,65,45,999,25,40
+YY,Yorkshire,North Yorkshire,87_99,43_49,21_24,65,50,999,1,2
+YY,Yorkshire,North Yorkshire,88_100,44_50,22_25,70,50,999,3,5
+YY,Yorkshire,North Yorkshire,88_100,44_50,22_25,75,50,999,4,4
+YY,Yorkshire,North Yorkshire,88_100,44_50,22_25,75,55,999,8,15
+YY,Yorkshire,North Yorkshire,88_101,44_50,22_25,75,50,999,2,8
+YY,Yorkshire,North Yorkshire,88_101,44_50,22_25,75,55,999,1,1
+YY,Yorkshire,North Yorkshire,88_102,44_51,22_25,75,50,999,143,200
+YY,Yorkshire,North Yorkshire,88_102,44_51,22_25,75,55,999,0,3
+YY,Yorkshire,North Yorkshire,88_102,44_51,22_25,80,55,999,20,43
+YY,Yorkshire,North Yorkshire,88_103,44_51,22_25,75,50,999,1,1
+YY,Yorkshire,North Yorkshire,88_103,44_51,22_25,80,55,999,6,11
+YY,Yorkshire,North Yorkshire,88_87,44_43,22_21,45,45,999,1,2
+YY,Yorkshire,North Yorkshire,88_88,44_44,22_22,45,45,999,0,1
+YY,Yorkshire,North Yorkshire,88_90,44_45,22_22,40,40,999,0,2
+YY,Yorkshire,North Yorkshire,88_90,44_45,22_22,45,45,999,12,19
+YY,Yorkshire,North Yorkshire,88_91,44_45,22_22,45,45,999,0,1
+YY,Yorkshire,North Yorkshire,88_91,44_45,22_22,50,50,999,4,7
+YY,Yorkshire,North Yorkshire,88_92,44_46,22_23,45,45,999,6,6
+YY,Yorkshire,North Yorkshire,88_92,44_46,22_23,50,50,999,7,22
+YY,Yorkshire,North Yorkshire,88_93,44_46,22_23,50,50,999,4,11
+YY,Yorkshire,North Yorkshire,88_93,44_46,22_23,55,55,999,2,4
+YY,Yorkshire,North Yorkshire,88_94,44_47,22_23,55,55,999,2,6
+YY,Yorkshire,North Yorkshire,88_95,44_47,22_23,55,55,999,12,22
+YY,Yorkshire,North Yorkshire,88_95,44_47,22_23,60,60,999,1,1
+YY,Yorkshire,North Yorkshire,88_96,44_48,22_24,55,55,999,0,1
+YY,Yorkshire,North Yorkshire,88_96,44_48,22_24,60,55,999,199,262
+YY,Yorkshire,North Yorkshire,88_96,44_48,22_24,60,60,999,11,16
+YY,Yorkshire,North Yorkshire,88_97,44_48,22_24,60,50,999,1,1
+YY,Yorkshire,North Yorkshire,88_97,44_48,22_24,60,55,999,1,3
+YY,Yorkshire,North Yorkshire,88_97,44_48,22_24,65,55,999,6,11
+YY,Yorkshire,North Yorkshire,88_98,44_49,22_24,65,50,999,2,2
+YY,Yorkshire,North Yorkshire,88_98,44_49,22_24,65,55,999,0,1
+YY,Yorkshire,North Yorkshire,88_98,44_49,22_24,70,50,999,1,3
+YY,Yorkshire,North Yorkshire,88_99,44_49,22_24,70,50,999,2,6
+YY,Yorkshire,North Yorkshire,88_99,44_49,22_24,70,55,999,4,9
+YY,Yorkshire,North Yorkshire,88_99,44_49,22_24,75,55,999,3,4
+YY,Yorkshire,North Yorkshire,89_100,44_50,22_25,75,55,999,6,13
+YY,Yorkshire,North Yorkshire,89_100,44_50,22_25,80,55,999,2,3
+YY,Yorkshire,North Yorkshire,89_100,44_50,22_25,80,60,999,1,4
+YY,Yorkshire,North Yorkshire,89_101,44_50,22_25,75,55,999,3,12
+YY,Yorkshire,North Yorkshire,89_101,44_50,22_25,80,55,999,4,10
+YY,Yorkshire,North Yorkshire,89_102,44_51,22_25,80,55,999,18,49
+YY,Yorkshire,North Yorkshire,89_102,44_51,22_25,80,60,999,1,6
+YY,Yorkshire,North Yorkshire,89_102,44_51,22_25,85,60,999,2,16
+YY,Yorkshire,North Yorkshire,89_103,44_51,22_25,80,55,999,145,330
+YY,Yorkshire,North Yorkshire,89_103,44_51,22_25,85,55,999,7,34
+YY,Yorkshire,North Yorkshire,89_103,44_51,22_25,85,60,999,156,259
+YY,Yorkshire,North Yorkshire,89_104,44_52,22_26,80,55,999,1,1
+YY,Yorkshire,North Yorkshire,89_104,44_52,22_26,85,60,999,309,451
+YY,Yorkshire,North Yorkshire,89_85,44_42,22_21,45,45,999,3,11
+YY,Yorkshire,North Yorkshire,89_85,44_42,22_21,50,45,999,7,23
+YY,Yorkshire,North Yorkshire,89_86,44_43,22_21,45,45,999,0,3
+YY,Yorkshire,North Yorkshire,89_86,44_43,22_21,50,45,999,3,7
+YY,Yorkshire,North Yorkshire,89_86,44_43,22_21,50,50,999,46,92
+YY,Yorkshire,North Yorkshire,89_87,44_43,22_21,45,45,999,1,2
+YY,Yorkshire,North Yorkshire,89_87,44_43,22_21,50,50,999,5,13
+YY,Yorkshire,North Yorkshire,89_88,44_44,22_22,45,45,999,0,6
+YY,Yorkshire,North Yorkshire,89_88,44_44,22_22,50,50,999,70,105
+YY,Yorkshire,North Yorkshire,89_89,44_44,22_22,50,50,999,2,7
+YY,Yorkshire,North Yorkshire,89_90,44_45,22_22,45,45,999,1,2
+YY,Yorkshire,North Yorkshire,89_90,44_45,22_22,50,50,999,11,24
+YY,Yorkshire,North Yorkshire,89_91,44_45,22_22,50,50,999,9,29
+YY,Yorkshire,North Yorkshire,89_91,44_45,22_22,55,55,999,1,1
+YY,Yorkshire,North Yorkshire,89_92,44_46,22_23,50,50,999,2,8
+YY,Yorkshire,North Yorkshire,89_92,44_46,22_23,55,55,999,2,8
+YY,Yorkshire,North Yorkshire,89_93,44_46,22_23,55,55,999,6,12
+YY,Yorkshire,North Yorkshire,89_93,44_46,22_23,60,60,999,1,1
+YY,Yorkshire,North Yorkshire,89_94,44_47,22_23,60,60,999,1,9
+YY,Yorkshire,North Yorkshire,89_95,44_47,22_23,60,60,999,9,15
+YY,Yorkshire,North Yorkshire,89_96,44_48,22_24,60,60,999,6,7
+YY,Yorkshire,North Yorkshire,89_96,44_48,22_24,65,60,999,8,11
+YY,Yorkshire,North Yorkshire,89_96,44_48,22_24,65,65,999,1,1
+YY,Yorkshire,North Yorkshire,89_97,44_48,22_24,65,55,999,3,3
+YY,Yorkshire,North Yorkshire,89_97,44_48,22_24,65,60,999,1,2
+YY,Yorkshire,North Yorkshire,89_97,44_48,22_24,70,55,999,0,1
+YY,Yorkshire,North Yorkshire,89_97,44_48,22_24,70,60,999,0,2
+YY,Yorkshire,North Yorkshire,89_98,44_49,22_24,70,55,999,3,6
+YY,Yorkshire,North Yorkshire,89_98,44_49,22_24,70,60,999,0,1
+YY,Yorkshire,North Yorkshire,89_99,44_49,22_24,70,55,999,7,12
+YY,Yorkshire,North Yorkshire,89_99,44_49,22_24,75,55,999,6,11
+YY,Yorkshire,North Yorkshire,90_100,45_50,22_25,80,60,999,4,11
+YY,Yorkshire,North Yorkshire,90_101,45_50,22_25,80,60,999,1,1
+YY,Yorkshire,North Yorkshire,90_101,45_50,22_25,85,60,999,54,74
+YY,Yorkshire,North Yorkshire,90_101,45_50,22_25,85,65,999,4,9
+YY,Yorkshire,North Yorkshire,90_102,45_51,22_25,85,60,999,33,63
+YY,Yorkshire,North Yorkshire,90_102,45_51,22_25,85,65,999,1,3
+YY,Yorkshire,North Yorkshire,90_103,45_51,22_25,85,60,999,116,302
+YY,Yorkshire,North Yorkshire,90_103,45_51,22_25,85,65,999,5,10
+YY,Yorkshire,North Yorkshire,90_103,45_51,22_25,90,60,999,20,29
+YY,Yorkshire,North Yorkshire,90_103,45_51,22_25,90,65,999,30,63
+YY,Yorkshire,North Yorkshire,90_104,45_52,22_26,85,60,999,46,64
+YY,Yorkshire,North Yorkshire,90_104,45_52,22_26,90,60,999,7,8
+YY,Yorkshire,North Yorkshire,90_104,45_52,22_26,90,65,999,27,48
+YY,Yorkshire,North Yorkshire,90_82,45_41,22_20,50,45,999,1,2
+YY,Yorkshire,North Yorkshire,90_83,45_41,22_20,50,45,999,2,8
+YY,Yorkshire,North Yorkshire,90_84,45_42,22_21,50,45,999,1,3
+YY,Yorkshire,North Yorkshire,90_84,45_42,22_21,50,50,999,1,1
+YY,Yorkshire,North Yorkshire,90_84,45_42,22_21,55,50,999,1,2
+YY,Yorkshire,North Yorkshire,90_85,45_42,22_21,50,50,999,6,19
+YY,Yorkshire,North Yorkshire,90_85,45_42,22_21,55,50,999,3,6
+YY,Yorkshire,North Yorkshire,90_86,45_43,22_21,50,50,999,2,10
+YY,Yorkshire,North Yorkshire,90_86,45_43,22_21,55,50,999,5,10
+YY,Yorkshire,North Yorkshire,90_86,45_43,22_21,55,55,999,1,1
+YY,Yorkshire,North Yorkshire,90_87,45_43,22_21,50,50,999,5,17
+YY,Yorkshire,North Yorkshire,90_87,45_43,22_21,55,55,999,1,2
+YY,Yorkshire,North Yorkshire,90_88,45_44,22_22,50,50,999,1,10
+YY,Yorkshire,North Yorkshire,90_88,45_44,22_22,55,55,999,5,8
+YY,Yorkshire,North Yorkshire,90_89,45_44,22_22,55,55,999,8,23
+YY,Yorkshire,North Yorkshire,90_90,45_45,22_22,50,50,999,1,8
+YY,Yorkshire,North Yorkshire,90_90,45_45,22_22,55,55,999,5,34
+YY,Yorkshire,North Yorkshire,90_91,45_45,22_22,55,55,999,6,14
+YY,Yorkshire,North Yorkshire,90_91,45_45,22_22,60,60,999,1,1
+YY,Yorkshire,North Yorkshire,90_92,45_46,22_23,55,55,999,4,11
+YY,Yorkshire,North Yorkshire,90_92,45_46,22_23,60,60,999,3,4
+YY,Yorkshire,North Yorkshire,90_93,45_46,22_23,55,55,999,1,2
+YY,Yorkshire,North Yorkshire,90_93,45_46,22_23,60,60,999,52,70
+YY,Yorkshire,North Yorkshire,90_94,45_47,22_23,60,60,999,7,12
+YY,Yorkshire,North Yorkshire,90_94,45_47,22_23,65,65,999,2,4
+YY,Yorkshire,North Yorkshire,90_95,45_47,22_23,60,60,999,1,1
+YY,Yorkshire,North Yorkshire,90_95,45_47,22_23,65,65,999,15,25
+YY,Yorkshire,North Yorkshire,90_95,45_47,22_23,70,70,999,2,5
+YY,Yorkshire,North Yorkshire,90_96,45_48,22_24,65,65,999,5,15
+YY,Yorkshire,North Yorkshire,90_96,45_48,22_24,70,65,999,3,5
+YY,Yorkshire,North Yorkshire,90_97,45_48,22_24,70,60,999,1,1
+YY,Yorkshire,North Yorkshire,90_97,45_48,22_24,70,65,999,2,2
+YY,Yorkshire,North Yorkshire,90_97,45_48,22_24,75,65,999,2,4
+YY,Yorkshire,North Yorkshire,90_98,45_49,22_24,75,65,999,1,2
+YY,Yorkshire,North Yorkshire,90_99,45_49,22_24,75,60,999,2,2
+YY,Yorkshire,North Yorkshire,90_99,45_49,22_24,80,65,999,1,1
+YY,Yorkshire,North Yorkshire,91_100,45_50,22_25,80,65,999,0,1
+YY,Yorkshire,North Yorkshire,91_100,45_50,22_25,85,65,999,2,4
+YY,Yorkshire,North Yorkshire,91_100,45_50,22_25,85,70,999,2,3
+YY,Yorkshire,North Yorkshire,91_101,45_50,22_25,85,65,999,1,5
+YY,Yorkshire,North Yorkshire,91_101,45_50,22_25,90,65,999,0,4
+YY,Yorkshire,North Yorkshire,91_102,45_51,22_25,85,65,999,4,9
+YY,Yorkshire,North Yorkshire,91_102,45_51,22_25,90,65,999,20,34
+YY,Yorkshire,North Yorkshire,91_102,45_51,22_25,90,70,999,0,3
+YY,Yorkshire,North Yorkshire,91_103,45_51,22_25,90,65,999,16,59
+YY,Yorkshire,North Yorkshire,91_103,45_51,22_25,90,70,999,0,1
+YY,Yorkshire,North Yorkshire,91_103,45_51,22_25,95,65,999,3,3
+YY,Yorkshire,North Yorkshire,91_103,45_51,22_25,95,70,999,6,10
+YY,Yorkshire,North Yorkshire,91_104,45_52,22_26,90,65,999,2,13
+YY,Yorkshire,North Yorkshire,91_104,45_52,22_26,95,65,999,0,2
+YY,Yorkshire,North Yorkshire,91_104,45_52,22_26,95,70,999,19,80
+YY,Yorkshire,North Yorkshire,91_105,45_52,22_26,95,65,999,0,1
+YY,Yorkshire,North Yorkshire,91_105,45_52,22_26,95,70,999,12,20
+YY,Yorkshire,North Yorkshire,91_83,45_41,22_20,55,50,999,1,1
+YY,Yorkshire,North Yorkshire,91_84,45_42,22_21,55,50,999,7,24
+YY,Yorkshire,North Yorkshire,91_84,45_42,22_21,55,55,999,1,3
+YY,Yorkshire,North Yorkshire,91_84,45_42,22_21,60,55,999,0,3
+YY,Yorkshire,North Yorkshire,91_85,45_42,22_21,55,50,999,2,3
+YY,Yorkshire,North Yorkshire,91_85,45_42,22_21,55,55,999,2,6
+YY,Yorkshire,North Yorkshire,91_85,45_42,22_21,60,55,999,3,7
+YY,Yorkshire,North Yorkshire,91_86,45_43,22_21,55,50,999,1,2
+YY,Yorkshire,North Yorkshire,91_86,45_43,22_21,55,55,999,3,12
+YY,Yorkshire,North Yorkshire,91_86,45_43,22_21,60,55,999,11,29
+YY,Yorkshire,North Yorkshire,91_86,45_43,22_21,60,60,999,1,1
+YY,Yorkshire,North Yorkshire,91_87,45_43,22_21,55,55,999,3,4
+YY,Yorkshire,North Yorkshire,91_87,45_43,22_21,60,60,999,11,28
+YY,Yorkshire,North Yorkshire,91_88,45_44,22_22,55,55,999,1,5
+YY,Yorkshire,North Yorkshire,91_88,45_44,22_22,60,60,999,6,26
+YY,Yorkshire,North Yorkshire,91_89,45_44,22_22,55,55,999,22,56
+YY,Yorkshire,North Yorkshire,91_89,45_44,22_22,60,60,999,94,262
+YY,Yorkshire,North Yorkshire,91_90,45_45,22_22,55,55,999,2,2
+YY,Yorkshire,North Yorkshire,91_90,45_45,22_22,60,60,999,535,1082
+YY,Yorkshire,North Yorkshire,91_91,45_45,22_22,60,60,999,121,182
+YY,Yorkshire,North Yorkshire,91_91,45_45,22_22,60,65,999,0,1
+YY,Yorkshire,North Yorkshire,91_91,45_45,22_22,65,65,999,8,20
+YY,Yorkshire,North Yorkshire,91_92,45_46,22_23,65,65,999,11,31
+YY,Yorkshire,North Yorkshire,91_93,45_46,22_23,60,60,999,4,5
+YY,Yorkshire,North Yorkshire,91_93,45_46,22_23,65,65,999,8,24
+YY,Yorkshire,North Yorkshire,91_94,45_47,22_23,65,65,999,4,7
+YY,Yorkshire,North Yorkshire,91_94,45_47,22_23,70,70,999,0,3
+YY,Yorkshire,North Yorkshire,91_95,45_47,22_23,70,70,999,14,29
+YY,Yorkshire,North Yorkshire,91_96,45_48,22_24,70,70,999,2,2
+YY,Yorkshire,North Yorkshire,91_96,45_48,22_24,75,70,999,5,9
+YY,Yorkshire,North Yorkshire,91_97,45_48,22_24,70,65,999,0,1
+YY,Yorkshire,North Yorkshire,91_97,45_48,22_24,75,65,999,1,2
+YY,Yorkshire,North Yorkshire,91_97,45_48,22_24,75,70,999,1,4
+YY,Yorkshire,North Yorkshire,91_98,45_49,22_24,75,65,999,3,3
+YY,Yorkshire,North Yorkshire,91_98,45_49,22_24,80,65,999,1,2
+YY,Yorkshire,North Yorkshire,91_99,45_49,22_24,80,65,999,3,6
+YY,Yorkshire,North Yorkshire,92_100,46_50,23_25,85,70,999,0,3
+YY,Yorkshire,North Yorkshire,92_101,46_50,23_25,90,70,999,2,9
+YY,Yorkshire,North Yorkshire,92_102,46_51,23_25,90,70,999,1,1
+YY,Yorkshire,North Yorkshire,92_102,46_51,23_25,95,70,999,2,3
+YY,Yorkshire,North Yorkshire,92_103,46_51,23_25,95,70,999,36,90
+YY,Yorkshire,North Yorkshire,92_103,46_51,23_25,95,75,999,2,2
+YY,Yorkshire,North Yorkshire,92_104,46_52,23_26,95,70,999,38,79
+YY,Yorkshire,North Yorkshire,92_104,46_52,23_26,100,70,999,9,28
+YY,Yorkshire,North Yorkshire,92_104,46_52,23_26,100,75,999,13,36
+YY,Yorkshire,North Yorkshire,92_105,46_52,23_26,95,70,999,144,176
+YY,Yorkshire,North Yorkshire,92_105,46_52,23_26,100,70,999,3,3
+YY,Yorkshire,North Yorkshire,92_84,46_42,23_21,60,55,999,4,5
+YY,Yorkshire,North Yorkshire,92_84,46_42,23_21,65,60,999,7,20
+YY,Yorkshire,North Yorkshire,92_85,46_42,23_21,60,55,999,0,11
+YY,Yorkshire,North Yorkshire,92_85,46_42,23_21,65,60,999,2,7
+YY,Yorkshire,North Yorkshire,92_86,46_43,23_21,60,55,999,7,14
+YY,Yorkshire,North Yorkshire,92_86,46_43,23_21,60,60,999,170,242
+YY,Yorkshire,North Yorkshire,92_86,46_43,23_21,65,60,999,17,41
+YY,Yorkshire,North Yorkshire,92_87,46_43,23_21,60,60,999,10,17
+YY,Yorkshire,North Yorkshire,92_87,46_43,23_21,65,60,999,4,13
+YY,Yorkshire,North Yorkshire,92_87,46_43,23_21,65,65,999,9,12
+YY,Yorkshire,North Yorkshire,92_88,46_44,23_22,60,60,999,2,3
+YY,Yorkshire,North Yorkshire,92_88,46_44,23_22,65,65,999,13,28
+YY,Yorkshire,North Yorkshire,92_89,46_44,23_22,60,60,999,126,184
+YY,Yorkshire,North Yorkshire,92_89,46_44,23_22,60,65,999,0,1
+YY,Yorkshire,North Yorkshire,92_89,46_44,23_22,65,65,999,23,67
+YY,Yorkshire,North Yorkshire,92_90,46_45,23_22,60,60,999,1064,1372
+YY,Yorkshire,North Yorkshire,92_90,46_45,23_22,60,65,999,1,2
+YY,Yorkshire,North Yorkshire,92_90,46_45,23_22,65,65,999,439,958
+YY,Yorkshire,North Yorkshire,92_91,46_45,23_22,65,65,999,157,307
+YY,Yorkshire,North Yorkshire,92_91,46_45,23_22,70,70,999,2,3
+YY,Yorkshire,North Yorkshire,92_92,46_46,23_23,65,65,999,11,26
+YY,Yorkshire,North Yorkshire,92_92,46_46,23_23,70,70,999,6,12
+YY,Yorkshire,North Yorkshire,92_93,46_46,23_23,65,65,999,0,1
+YY,Yorkshire,North Yorkshire,92_93,46_46,23_23,70,70,999,5,12
+YY,Yorkshire,North Yorkshire,92_94,46_47,23_23,70,70,999,1,2
+YY,Yorkshire,North Yorkshire,92_94,46_47,23_23,75,75,999,0,1
+YY,Yorkshire,North Yorkshire,92_95,46_47,23_23,70,70,999,2,4
+YY,Yorkshire,North Yorkshire,92_95,46_47,23_23,75,75,999,1,6
+YY,Yorkshire,North Yorkshire,92_96,46_48,23_24,75,70,999,1,1
+YY,Yorkshire,North Yorkshire,92_96,46_48,23_24,75,75,999,43,69
+YY,Yorkshire,North Yorkshire,92_96,46_48,23_24,80,75,999,3,6
+YY,Yorkshire,North Yorkshire,92_97,46_48,23_24,80,70,999,1,2
+YY,Yorkshire,North Yorkshire,92_97,46_48,23_24,80,75,999,1,2
+YY,Yorkshire,North Yorkshire,92_98,46_49,23_24,80,70,999,0,1
+YY,Yorkshire,North Yorkshire,92_98,46_49,23_24,85,70,999,1,1
+YY,Yorkshire,North Yorkshire,92_99,46_49,23_24,85,70,999,8,10
+YY,Yorkshire,North Yorkshire,93_100,46_50,23_25,90,75,999,1,1
+YY,Yorkshire,North Yorkshire,93_100,46_50,23_25,95,75,999,1,1
+YY,Yorkshire,North Yorkshire,93_100,46_50,23_25,95,80,999,3,8
+YY,Yorkshire,North Yorkshire,93_101,46_50,23_25,95,75,999,8,18
+YY,Yorkshire,North Yorkshire,93_101,46_50,23_25,95,80,999,1,3
+YY,Yorkshire,North Yorkshire,93_102,46_51,23_25,95,75,999,1,4
+YY,Yorkshire,North Yorkshire,93_102,46_51,23_25,100,75,999,1,4
+YY,Yorkshire,North Yorkshire,93_102,46_51,23_25,100,80,999,1,1
+YY,Yorkshire,North Yorkshire,93_103,46_51,23_25,100,75,999,27,54
+YY,Yorkshire,North Yorkshire,93_103,46_51,23_25,105,80,999,6,11
+YY,Yorkshire,North Yorkshire,93_104,46_52,23_26,100,75,999,102,144
+YY,Yorkshire,North Yorkshire,93_104,46_52,23_26,105,80,999,3,4
+YY,Yorkshire,North Yorkshire,93_85,46_42,23_21,65,60,999,5,12
+YY,Yorkshire,North Yorkshire,93_85,46_42,23_21,65,65,999,1,2
+YY,Yorkshire,North Yorkshire,93_86,46_43,23_21,65,65,999,5,10
+YY,Yorkshire,North Yorkshire,93_86,46_43,23_21,70,65,999,5,13
+YY,Yorkshire,North Yorkshire,93_87,46_43,23_21,65,65,999,1,3
+YY,Yorkshire,North Yorkshire,93_87,46_43,23_21,70,65,999,3,8
+YY,Yorkshire,North Yorkshire,93_88,46_44,23_22,65,65,999,0,1
+YY,Yorkshire,North Yorkshire,93_88,46_44,23_22,70,70,999,8,24
+YY,Yorkshire,North Yorkshire,93_89,46_44,23_22,65,65,999,3,3
+YY,Yorkshire,North Yorkshire,93_89,46_44,23_22,70,70,999,11,55
+YY,Yorkshire,North Yorkshire,93_90,46_45,23_22,65,65,999,4,8
+YY,Yorkshire,North Yorkshire,93_90,46_45,23_22,70,70,999,22,56
+YY,Yorkshire,North Yorkshire,93_91,46_45,23_22,70,70,999,16,55
+YY,Yorkshire,North Yorkshire,93_91,46_45,23_22,75,75,999,1,2
+YY,Yorkshire,North Yorkshire,93_92,46_46,23_23,70,70,999,8,14
+YY,Yorkshire,North Yorkshire,93_92,46_46,23_23,75,75,999,2,5
+YY,Yorkshire,North Yorkshire,93_93,46_46,23_23,70,70,999,7,11
+YY,Yorkshire,North Yorkshire,93_93,46_46,23_23,75,75,999,0,7
+YY,Yorkshire,North Yorkshire,93_94,46_47,23_23,75,75,999,9,19
+YY,Yorkshire,North Yorkshire,93_94,46_47,23_23,80,80,999,1,7
+YY,Yorkshire,North Yorkshire,93_95,46_47,23_23,75,75,999,6,16
+YY,Yorkshire,North Yorkshire,93_95,46_47,23_23,80,80,999,7,14
+YY,Yorkshire,North Yorkshire,93_96,46_48,23_24,80,75,999,6,16
+YY,Yorkshire,North Yorkshire,93_96,46_48,23_24,80,80,999,4,10
+YY,Yorkshire,North Yorkshire,93_97,46_48,23_24,80,80,999,0,1
+YY,Yorkshire,North Yorkshire,93_97,46_48,23_24,85,75,999,1,1
+YY,Yorkshire,North Yorkshire,93_97,46_48,23_24,85,80,999,31,48
+YY,Yorkshire,North Yorkshire,93_98,46_49,23_24,85,75,999,0,1
+YY,Yorkshire,North Yorkshire,93_98,46_49,23_24,85,80,999,1,4
+YY,Yorkshire,North Yorkshire,93_99,46_49,23_24,85,75,999,2,3
+YY,Yorkshire,North Yorkshire,93_99,46_49,23_24,90,75,999,4,7
+YY,Yorkshire,North Yorkshire,93_99,46_49,23_24,90,80,999,2,2
+YY,Yorkshire,North Yorkshire,94_100,47_50,23_25,95,80,999,1,1
+YY,Yorkshire,North Yorkshire,94_101,47_50,23_25,95,80,999,2,2
+YY,Yorkshire,North Yorkshire,94_101,47_50,23_25,100,80,999,6,18
+YY,Yorkshire,North Yorkshire,94_101,47_50,23_25,100,85,999,2,2
+YY,Yorkshire,North Yorkshire,94_102,47_51,23_25,105,80,999,1,1
+YY,Yorkshire,North Yorkshire,94_102,47_51,23_25,105,85,999,4,5
+YY,Yorkshire,North Yorkshire,94_103,47_51,23_25,105,80,999,15,36
+YY,Yorkshire,North Yorkshire,94_103,47_51,23_25,105,85,999,2,3
+YY,Yorkshire,North Yorkshire,94_104,47_52,23_26,105,80,999,1,1
+YY,Yorkshire,North Yorkshire,94_85,47_42,23_21,70,65,999,1,1
+YY,Yorkshire,North Yorkshire,94_89,47_44,23_22,70,70,999,2,6
+YY,Yorkshire,North Yorkshire,94_90,47_45,23_22,70,70,999,0,2
+YY,Yorkshire,North Yorkshire,94_91,47_45,23_22,75,75,999,4,8
+YY,Yorkshire,North Yorkshire,94_92,47_46,23_23,75,75,999,2,6
+YY,Yorkshire,North Yorkshire,94_92,47_46,23_23,80,80,999,0,3
+YY,Yorkshire,North Yorkshire,94_93,47_46,23_23,75,75,999,5,11
+YY,Yorkshire,North Yorkshire,94_93,47_46,23_23,80,80,999,27,39
+YY,Yorkshire,North Yorkshire,94_94,47_47,23_23,80,80,999,9,22
+YY,Yorkshire,North Yorkshire,94_94,47_47,23_23,85,85,999,2,2
+YY,Yorkshire,North Yorkshire,94_95,47_47,23_23,80,80,999,1,2
+YY,Yorkshire,North Yorkshire,94_95,47_47,23_23,85,85,999,2,3
+YY,Yorkshire,North Yorkshire,94_96,47_48,23_24,80,80,999,0,1
+YY,Yorkshire,North Yorkshire,94_96,47_48,23_24,85,80,999,0,1
+YY,Yorkshire,North Yorkshire,94_96,47_48,23_24,85,85,999,1,4
+YY,Yorkshire,North Yorkshire,94_97,47_48,23_24,85,80,999,10,14
+YY,Yorkshire,North Yorkshire,94_97,47_48,23_24,85,85,999,1,3
+YY,Yorkshire,North Yorkshire,94_97,47_48,23_24,90,85,999,2,11
+YY,Yorkshire,North Yorkshire,94_98,47_49,23_24,85,80,999,5,7
+YY,Yorkshire,North Yorkshire,94_98,47_49,23_24,90,80,999,3,6
+YY,Yorkshire,North Yorkshire,94_98,47_49,23_24,90,85,999,2,5
+YY,Yorkshire,North Yorkshire,94_99,47_49,23_24,90,80,999,15,24
+YY,Yorkshire,North Yorkshire,94_99,47_49,23_24,95,85,999,0,1
+YY,Yorkshire,North Yorkshire,95_100,47_50,23_25,100,85,999,0,2
+YY,Yorkshire,North Yorkshire,95_100,47_50,23_25,105,90,999,1,1
+YY,Yorkshire,North Yorkshire,95_101,47_50,23_25,100,85,999,15,30
+YY,Yorkshire,North Yorkshire,95_101,47_50,23_25,105,90,999,1,2
+YY,Yorkshire,North Yorkshire,95_102,47_51,23_25,105,85,999,5,5
+YY,Yorkshire,North Yorkshire,95_102,47_51,23_25,105,90,999,1,3
+YY,Yorkshire,North Yorkshire,95_102,47_51,23_25,110,90,999,1,2
+YY,Yorkshire,North Yorkshire,95_103,47_51,23_25,105,85,999,0,1
+YY,Yorkshire,North Yorkshire,95_103,47_51,23_25,110,85,999,20,32
+YY,Yorkshire,North Yorkshire,95_103,47_51,23_25,110,90,999,10,22
+YY,Yorkshire,North Yorkshire,95_92,47_46,23_23,80,80,999,1,5
+YY,Yorkshire,North Yorkshire,95_92,47_46,23_23,85,85,999,3,4
+YY,Yorkshire,North Yorkshire,95_93,47_46,23_23,80,80,999,2,6
+YY,Yorkshire,North Yorkshire,95_93,47_46,23_23,85,85,999,6,10
+YY,Yorkshire,North Yorkshire,95_94,47_47,23_23,80,80,999,1,1
+YY,Yorkshire,North Yorkshire,95_94,47_47,23_23,85,85,999,171,244
+YY,Yorkshire,North Yorkshire,95_95,47_47,23_23,85,85,999,2,4
+YY,Yorkshire,North Yorkshire,95_95,47_47,23_23,90,90,999,61,69
+YY,Yorkshire,North Yorkshire,95_96,47_48,23_24,90,90,999,142,191
+YY,Yorkshire,North Yorkshire,95_97,47_48,23_24,90,85,999,12,15
+YY,Yorkshire,North Yorkshire,95_97,47_48,23_24,90,90,999,2,11
+YY,Yorkshire,North Yorkshire,95_98,47_49,23_24,90,85,999,2,3
+YY,Yorkshire,North Yorkshire,95_98,47_49,23_24,95,85,999,1,2
+YY,Yorkshire,North Yorkshire,95_98,47_49,23_24,95,90,999,2,2
+YY,Yorkshire,North Yorkshire,96_100,48_50,24_25,105,90,999,20,41
+YY,Yorkshire,North Yorkshire,96_100,48_50,24_25,105,95,999,0,1
+YY,Yorkshire,North Yorkshire,96_101,48_50,24_25,105,90,999,15,30
+YY,Yorkshire,North Yorkshire,96_101,48_50,24_25,105,95,999,1,1
+YY,Yorkshire,North Yorkshire,96_101,48_50,24_25,110,95,999,1,1
+YY,Yorkshire,North Yorkshire,96_102,48_51,24_25,110,90,999,4,9
+YY,Yorkshire,North Yorkshire,96_102,48_51,24_25,110,95,999,4,9
+YY,Yorkshire,North Yorkshire,96_103,48_51,24_25,110,90,999,11,18
+YY,Yorkshire,North Yorkshire,96_91,48_45,24_22,85,85,999,1,3
+YY,Yorkshire,North Yorkshire,96_92,48_46,24_23,85,85,999,1,3
+YY,Yorkshire,North Yorkshire,96_92,48_46,24_23,90,90,999,1,2
+YY,Yorkshire,North Yorkshire,96_93,48_46,24_23,85,85,999,0,1
+YY,Yorkshire,North Yorkshire,96_93,48_46,24_23,90,90,999,0,1
+YY,Yorkshire,North Yorkshire,96_94,48_47,24_23,85,85,999,4,10
+YY,Yorkshire,North Yorkshire,96_94,48_47,24_23,90,90,999,2,11
+YY,Yorkshire,North Yorkshire,96_95,48_47,24_23,90,90,999,6,9
+YY,Yorkshire,North Yorkshire,96_96,48_48,24_24,90,90,999,20,32
+YY,Yorkshire,North Yorkshire,96_96,48_48,24_24,95,95,999,21,36
+YY,Yorkshire,North Yorkshire,96_97,48_48,24_24,90,90,999,2,2
+YY,Yorkshire,North Yorkshire,96_97,48_48,24_24,95,90,999,2,2
+YY,Yorkshire,North Yorkshire,96_97,48_48,24_24,95,95,999,2,2
+YY,Yorkshire,North Yorkshire,96_97,48_48,24_24,100,95,999,5,8
+YY,Yorkshire,North Yorkshire,96_98,48_49,24_24,95,90,999,2,6
+YY,Yorkshire,North Yorkshire,96_98,48_49,24_24,95,95,999,1,1
+YY,Yorkshire,North Yorkshire,96_98,48_49,24_24,100,90,999,1,3
+YY,Yorkshire,North Yorkshire,96_98,48_49,24_24,100,95,999,2,6
+YY,Yorkshire,North Yorkshire,96_99,48_49,24_24,100,95,999,1,1
+YY,Yorkshire,North Yorkshire,97_100,48_50,24_25,105,95,999,1,1
+YY,Yorkshire,North Yorkshire,97_100,48_50,24_25,110,95,999,3,7
+YY,Yorkshire,North Yorkshire,97_100,48_50,24_25,110,100,999,1,1
+YY,Yorkshire,North Yorkshire,97_101,48_50,24_25,110,95,999,16,37
+YY,Yorkshire,North Yorkshire,97_101,48_50,24_25,110,100,999,0,2
+YY,Yorkshire,North Yorkshire,97_101,48_50,24_25,115,95,999,10,18
+YY,Yorkshire,North Yorkshire,97_101,48_50,24_25,115,100,999,7,7
+YY,Yorkshire,North Yorkshire,97_102,48_51,24_25,110,95,999,5,9
+YY,Yorkshire,North Yorkshire,97_102,48_51,24_25,115,95,999,37,59
+YY,Yorkshire,North Yorkshire,97_102,48_51,24_25,115,100,999,230,308
+YY,Yorkshire,North Yorkshire,97_92,48_46,24_23,90,90,999,1,1
+YY,Yorkshire,North Yorkshire,97_93,48_46,24_23,90,90,999,1,3
+YY,Yorkshire,North Yorkshire,97_94,48_47,24_23,90,90,999,2,6
+YY,Yorkshire,North Yorkshire,97_94,48_47,24_23,95,95,999,4,11
+YY,Yorkshire,North Yorkshire,97_95,48_47,24_23,95,95,999,0,4
+YY,Yorkshire,North Yorkshire,97_95,48_47,24_23,100,100,999,1,3
+YY,Yorkshire,North Yorkshire,97_96,48_48,24_24,95,95,999,0,3
+YY,Yorkshire,North Yorkshire,97_96,48_48,24_24,100,100,999,4,9
+YY,Yorkshire,North Yorkshire,97_97,48_48,24_24,100,95,999,6,11
+YY,Yorkshire,North Yorkshire,97_97,48_48,24_24,100,100,999,1,3
+YY,Yorkshire,North Yorkshire,97_98,48_49,24_24,100,95,999,3,9
+YY,Yorkshire,North Yorkshire,97_98,48_49,24_24,100,100,999,0,1
+YY,Yorkshire,North Yorkshire,97_99,48_49,24_24,105,95,999,0,1
+YY,Yorkshire,North Yorkshire,98_100,49_50,24_25,110,100,999,8,11
+YY,Yorkshire,North Yorkshire,98_100,49_50,24_25,110,105,999,0,1
+YY,Yorkshire,North Yorkshire,98_100,49_50,24_25,115,100,999,2,3
+YY,Yorkshire,North Yorkshire,98_100,49_50,24_25,115,105,999,5,6
+YY,Yorkshire,North Yorkshire,98_101,49_50,24_25,115,100,999,30,56
+YY,Yorkshire,North Yorkshire,98_101,49_50,24_25,115,105,999,3,12
+YY,Yorkshire,North Yorkshire,98_102,49_51,24_25,115,100,999,65,80
+YY,Yorkshire,North Yorkshire,98_93,49_46,24_23,95,95,999,0,1
+YY,Yorkshire,North Yorkshire,98_93,49_46,24_23,100,100,999,0,2
+YY,Yorkshire,North Yorkshire,98_95,49_47,24_23,100,100,999,9,16
+YY,Yorkshire,North Yorkshire,98_96,49_48,24_24,100,100,999,9,15
+YY,Yorkshire,North Yorkshire,98_96,49_48,24_24,105,105,999,5,10
+YY,Yorkshire,North Yorkshire,98_97,49_48,24_24,105,100,999,0,1
+YY,Yorkshire,North Yorkshire,98_97,49_48,24_24,105,105,999,2,3
+YY,Yorkshire,North Yorkshire,98_98,49_49,24_24,105,100,999,1,1
+YY,Yorkshire,North Yorkshire,98_98,49_49,24_24,105,105,999,1,4
+YY,Yorkshire,North Yorkshire,98_99,49_49,24_24,110,105,999,1,1
+YY,Yorkshire,North Yorkshire,99_100,49_50,24_25,115,105,999,35,45
+YY,Yorkshire,North Yorkshire,99_100,49_50,24_25,115,110,999,0,1
+YY,Yorkshire,North Yorkshire,99_101,49_50,24_25,115,105,999,18,30
+YY,Yorkshire,North Yorkshire,99_94,49_47,24_23,100,100,999,2,7
+YY,Yorkshire,North Yorkshire,99_94,49_47,24_23,105,105,999,0,1
+YY,Yorkshire,North Yorkshire,99_95,49_47,24_23,105,105,999,7,21
+YY,Yorkshire,North Yorkshire,99_96,49_48,24_24,105,105,999,7,12
+YY,Yorkshire,North Yorkshire,99_96,49_48,24_24,110,110,999,10,21
+YY,Yorkshire,North Yorkshire,99_97,49_48,24_24,110,105,999,2,3
+YY,Yorkshire,North Yorkshire,99_97,49_48,24_24,110,110,999,7,7
+YY,Yorkshire,North Yorkshire,99_98,49_49,24_24,110,105,999,3,5
+YY,Yorkshire,North Yorkshire,99_98,49_49,24_24,110,110,999,2,2
+YY,Yorkshire,North Yorkshire,99_98,49_49,24_24,115,110,999,2,2
+YY,Yorkshire,North Yorkshire,99_99,49_49,24_24,110,105,999,0,1
+YY,Yorkshire,North Yorkshire,99_99,49_49,24_24,115,105,999,2,4
+YY,Yorkshire,North Yorkshire,99_99,49_49,24_24,115,110,999,0,1
+YY,Yorkshire,South Yorkshire,82_80,41_40,20_20,15,5,25,0,1
+YY,Yorkshire,South Yorkshire,83_79,41_39,20_19,20,10,25,1,1
+YY,Yorkshire,South Yorkshire,83_80,41_40,20_20,15,5,25,1,6
+YY,Yorkshire,South Yorkshire,83_80,41_40,20_20,15,10,25,2,11
+YY,Yorkshire,South Yorkshire,83_80,41_40,20_20,20,10,25,5,19
+YY,Yorkshire,South Yorkshire,83_81,41_40,20_20,15,10,25,0,3
+YY,Yorkshire,South Yorkshire,83_81,41_40,20_20,20,10,25,1,2
+YY,Yorkshire,South Yorkshire,84_77,42_38,21_19,25,20,40,1,4
+YY,Yorkshire,South Yorkshire,84_77,42_38,21_19,30,20,40,0,1
+YY,Yorkshire,South Yorkshire,84_78,42_39,21_19,25,20,40,5,6
+YY,Yorkshire,South Yorkshire,84_79,42_39,21_19,25,15,40,3,9
+YY,Yorkshire,South Yorkshire,84_80,42_40,21_20,20,10,25,3,12
+YY,Yorkshire,South Yorkshire,84_80,42_40,21_20,20,15,25,11,37
+YY,Yorkshire,South Yorkshire,84_80,42_40,21_20,25,15,40,123,217
+YY,Yorkshire,South Yorkshire,84_81,42_40,21_20,20,15,25,5,22
+YY,Yorkshire,South Yorkshire,84_81,42_40,21_20,25,15,40,0,1
+YY,Yorkshire,South Yorkshire,85_76,42_38,21_19,30,25,40,1,1
+YY,Yorkshire,South Yorkshire,85_76,42_38,21_19,35,30,40,3,9
+YY,Yorkshire,South Yorkshire,85_77,42_38,21_19,30,25,40,13,64
+YY,Yorkshire,South Yorkshire,85_77,42_38,21_19,35,25,40,12,33
+YY,Yorkshire,South Yorkshire,85_77,42_38,21_19,35,30,40,5,15
+YY,Yorkshire,South Yorkshire,85_78,42_39,21_19,25,20,40,3,3
+YY,Yorkshire,South Yorkshire,85_78,42_39,21_19,30,20,40,9,27
+YY,Yorkshire,South Yorkshire,85_78,42_39,21_19,30,25,40,9,26
+YY,Yorkshire,South Yorkshire,85_79,42_39,21_19,25,15,40,0,3
+YY,Yorkshire,South Yorkshire,85_79,42_39,21_19,25,20,40,91,172
+YY,Yorkshire,South Yorkshire,85_79,42_39,21_19,30,20,40,17,106
+YY,Yorkshire,South Yorkshire,85_79,42_39,21_19,30,25,40,0,1
+YY,Yorkshire,South Yorkshire,85_80,42_40,21_20,25,15,40,11,39
+YY,Yorkshire,South Yorkshire,85_80,42_40,21_20,25,20,40,5,29
+YY,Yorkshire,South Yorkshire,85_80,42_40,21_20,30,20,40,13,54
+YY,Yorkshire,South Yorkshire,85_81,42_40,21_20,25,15,40,3,5
+YY,Yorkshire,South Yorkshire,85_81,42_40,21_20,25,20,40,15,37
+YY,Yorkshire,South Yorkshire,85_81,42_40,21_20,30,20,40,12,37
+YY,Yorkshire,South Yorkshire,85_82,42_41,21_20,25,20,40,12,16
+YY,Yorkshire,South Yorkshire,85_82,42_41,21_20,30,20,40,1,9
+YY,Yorkshire,South Yorkshire,86_76,43_38,21_19,35,30,40,48,159
+YY,Yorkshire,South Yorkshire,86_76,43_38,21_19,40,30,999,198,305
+YY,Yorkshire,South Yorkshire,86_77,43_38,21_19,30,25,40,0,3
+YY,Yorkshire,South Yorkshire,86_77,43_38,21_19,35,25,40,26,142
+YY,Yorkshire,South Yorkshire,86_77,43_38,21_19,35,30,40,1390,2128
+YY,Yorkshire,South Yorkshire,86_77,43_38,21_19,40,30,999,366,486
+YY,Yorkshire,South Yorkshire,86_78,43_39,21_19,30,25,40,24,72
+YY,Yorkshire,South Yorkshire,86_78,43_39,21_19,35,25,40,60,222
+YY,Yorkshire,South Yorkshire,86_78,43_39,21_19,35,30,40,207,390
+YY,Yorkshire,South Yorkshire,86_79,43_39,21_19,30,20,40,6,13
+YY,Yorkshire,South Yorkshire,86_79,43_39,21_19,30,25,40,1,3
+YY,Yorkshire,South Yorkshire,86_79,43_39,21_19,35,25,40,47,191
+YY,Yorkshire,South Yorkshire,86_80,43_40,21_20,30,20,40,1,14
+YY,Yorkshire,South Yorkshire,86_80,43_40,21_20,30,25,40,19,55
+YY,Yorkshire,South Yorkshire,86_80,43_40,21_20,35,25,40,35,102
+YY,Yorkshire,South Yorkshire,86_81,43_40,21_20,30,20,40,20,65
+YY,Yorkshire,South Yorkshire,86_81,43_40,21_20,30,25,40,135,348
+YY,Yorkshire,South Yorkshire,86_81,43_40,21_20,35,25,40,496,691
+YY,Yorkshire,South Yorkshire,86_82,43_41,21_20,30,20,40,1,1
+YY,Yorkshire,South Yorkshire,86_82,43_41,21_20,30,25,40,33,104
+YY,Yorkshire,South Yorkshire,86_82,43_41,21_20,35,25,40,1,3
+YY,Yorkshire,South Yorkshire,87_76,43_38,21_19,40,30,999,15,18
+YY,Yorkshire,South Yorkshire,87_76,43_38,21_19,40,35,999,105,264
+YY,Yorkshire,South Yorkshire,87_76,43_38,21_19,45,35,999,7,33
+YY,Yorkshire,South Yorkshire,87_77,43_38,21_19,35,30,40,35,59
+YY,Yorkshire,South Yorkshire,87_77,43_38,21_19,40,30,999,1263,1903
+YY,Yorkshire,South Yorkshire,87_77,43_38,21_19,40,35,999,401,803
+YY,Yorkshire,South Yorkshire,87_77,43_38,21_19,45,35,999,15,37
+YY,Yorkshire,South Yorkshire,87_78,43_39,21_19,35,30,40,112,326
+YY,Yorkshire,South Yorkshire,87_78,43_39,21_19,40,30,999,247,549
+YY,Yorkshire,South Yorkshire,87_78,43_39,21_19,40,35,999,268,395
+YY,Yorkshire,South Yorkshire,87_79,43_39,21_19,35,25,40,3,29
+YY,Yorkshire,South Yorkshire,87_79,43_39,21_19,35,30,40,70,152
+YY,Yorkshire,South Yorkshire,87_79,43_39,21_19,40,30,999,45,117
+YY,Yorkshire,South Yorkshire,87_80,43_40,21_20,35,25,40,80,173
+YY,Yorkshire,South Yorkshire,87_80,43_40,21_20,35,30,40,73,145
+YY,Yorkshire,South Yorkshire,87_80,43_40,21_20,40,30,999,97,220
+YY,Yorkshire,South Yorkshire,87_81,43_40,21_20,35,25,40,74,201
+YY,Yorkshire,South Yorkshire,87_81,43_40,21_20,35,30,40,89,248
+YY,Yorkshire,South Yorkshire,87_81,43_40,21_20,40,30,999,0,6
+YY,Yorkshire,South Yorkshire,87_82,43_41,21_20,35,25,40,0,4
+YY,Yorkshire,South Yorkshire,87_82,43_41,21_20,35,30,40,26,131
+YY,Yorkshire,South Yorkshire,87_82,43_41,21_20,40,30,999,0,5
+YY,Yorkshire,South Yorkshire,88_76,44_38,22_19,45,35,999,2,17
+YY,Yorkshire,South Yorkshire,88_76,44_38,22_19,45,40,999,34,80
+YY,Yorkshire,South Yorkshire,88_76,44_38,22_19,50,40,999,5,9
+YY,Yorkshire,South Yorkshire,88_77,44_38,22_19,40,35,999,10,19
+YY,Yorkshire,South Yorkshire,88_77,44_38,22_19,45,35,999,121,299
+YY,Yorkshire,South Yorkshire,88_77,44_38,22_19,45,40,999,22,116
+YY,Yorkshire,South Yorkshire,88_77,44_38,22_19,50,40,999,1,6
+YY,Yorkshire,South Yorkshire,88_78,44_39,22_19,40,35,999,55,237
+YY,Yorkshire,South Yorkshire,88_78,44_39,22_19,45,35,999,391,707
+YY,Yorkshire,South Yorkshire,88_78,44_39,22_19,45,40,999,16,75
+YY,Yorkshire,South Yorkshire,88_79,44_39,22_19,40,30,999,0,4
+YY,Yorkshire,South Yorkshire,88_79,44_39,22_19,40,35,999,20,98
+YY,Yorkshire,South Yorkshire,88_79,44_39,22_19,45,35,999,88,238
+YY,Yorkshire,South Yorkshire,88_80,44_40,22_20,40,30,999,63,134
+YY,Yorkshire,South Yorkshire,88_80,44_40,22_20,40,35,999,20,115
+YY,Yorkshire,South Yorkshire,88_80,44_40,22_20,45,35,999,26,112
+YY,Yorkshire,South Yorkshire,88_81,44_40,22_20,40,30,999,1,28
+YY,Yorkshire,South Yorkshire,88_81,44_40,22_20,40,35,999,12,72
+YY,Yorkshire,South Yorkshire,88_81,44_40,22_20,45,35,999,0,5
+YY,Yorkshire,South Yorkshire,88_82,44_41,22_20,40,30,999,0,2
+YY,Yorkshire,South Yorkshire,88_82,44_41,22_20,40,35,999,1,26
+YY,Yorkshire,South Yorkshire,89_75,44_37,22_18,55,45,999,1,4
+YY,Yorkshire,South Yorkshire,89_76,44_38,22_19,50,40,999,6,21
+YY,Yorkshire,South Yorkshire,89_76,44_38,22_19,50,45,999,49,109
+YY,Yorkshire,South Yorkshire,89_76,44_38,22_19,55,45,999,17,60
+YY,Yorkshire,South Yorkshire,89_77,44_38,22_19,45,40,999,2,11
+YY,Yorkshire,South Yorkshire,89_77,44_38,22_19,50,40,999,46,131
+YY,Yorkshire,South Yorkshire,89_77,44_38,22_19,50,45,999,14,68
+YY,Yorkshire,South Yorkshire,89_78,44_39,22_19,45,40,999,39,186
+YY,Yorkshire,South Yorkshire,89_78,44_39,22_19,50,40,999,80,219
+YY,Yorkshire,South Yorkshire,89_78,44_39,22_19,50,45,999,3,5
+YY,Yorkshire,South Yorkshire,89_79,44_39,22_19,45,35,999,6,57
+YY,Yorkshire,South Yorkshire,89_79,44_39,22_19,45,40,999,50,118
+YY,Yorkshire,South Yorkshire,89_79,44_39,22_19,50,40,999,9,63
+YY,Yorkshire,South Yorkshire,89_80,44_40,22_20,45,35,999,10,106
+YY,Yorkshire,South Yorkshire,89_80,44_40,22_20,45,40,999,8,77
+YY,Yorkshire,South Yorkshire,89_80,44_40,22_20,50,40,999,6,32
+YY,Yorkshire,South Yorkshire,89_81,44_40,22_20,45,35,999,5,63
+YY,Yorkshire,South Yorkshire,89_81,44_40,22_20,45,40,999,2,17
+YY,Yorkshire,South Yorkshire,89_81,44_40,22_20,50,40,999,0,3
+YY,Yorkshire,South Yorkshire,89_82,44_41,22_20,50,40,999,1,1
+YY,Yorkshire,South Yorkshire,90_76,45_38,22_19,55,45,999,9,40
+YY,Yorkshire,South Yorkshire,90_76,45_38,22_19,55,50,999,9,58
+YY,Yorkshire,South Yorkshire,90_76,45_38,22_19,60,50,999,3,12
+YY,Yorkshire,South Yorkshire,90_77,45_38,22_19,50,45,999,0,6
+YY,Yorkshire,South Yorkshire,90_77,45_38,22_19,55,45,999,62,149
+YY,Yorkshire,South Yorkshire,90_77,45_38,22_19,55,50,999,14,63
+YY,Yorkshire,South Yorkshire,90_78,45_39,22_19,50,45,999,13,57
+YY,Yorkshire,South Yorkshire,90_78,45_39,22_19,55,45,999,88,197
+YY,Yorkshire,South Yorkshire,90_78,45_39,22_19,55,50,999,0,2
+YY,Yorkshire,South Yorkshire,90_79,45_39,22_19,50,40,999,8,72
+YY,Yorkshire,South Yorkshire,90_79,45_39,22_19,50,45,999,9,60
+YY,Yorkshire,South Yorkshire,90_79,45_39,22_19,55,45,999,4,69
+YY,Yorkshire,South Yorkshire,90_80,45_40,22_20,50,40,999,1,7
+YY,Yorkshire,South Yorkshire,90_80,45_40,22_20,50,45,999,1,8
+YY,Yorkshire,South Yorkshire,90_80,45_40,22_20,55,45,999,14,83
+YY,Yorkshire,South Yorkshire,90_81,45_40,22_20,50,40,999,1,11
+YY,Yorkshire,South Yorkshire,90_81,45_40,22_20,50,45,999,21,135
+YY,Yorkshire,South Yorkshire,90_81,45_40,22_20,55,45,999,2,32
+YY,Yorkshire,South Yorkshire,90_82,45_41,22_20,50,45,999,13,94
+YY,Yorkshire,South Yorkshire,90_82,45_41,22_20,55,45,999,0,3
+YY,Yorkshire,South Yorkshire,90_83,45_41,22_20,50,45,999,1,10
+YY,Yorkshire,South Yorkshire,90_83,45_41,22_20,55,45,999,1,5
+YY,Yorkshire,South Yorkshire,91_76,45_38,22_19,60,50,999,1,22
+YY,Yorkshire,South Yorkshire,91_77,45_38,22_19,55,50,999,0,6
+YY,Yorkshire,South Yorkshire,91_77,45_38,22_19,60,50,999,1,14
+YY,Yorkshire,South Yorkshire,91_78,45_39,22_19,55,50,999,1,8
+YY,Yorkshire,South Yorkshire,91_78,45_39,22_19,60,50,999,29,76
+YY,Yorkshire,South Yorkshire,91_79,45_39,22_19,55,45,999,1,5
+YY,Yorkshire,South Yorkshire,91_79,45_39,22_19,55,50,999,12,35
+YY,Yorkshire,South Yorkshire,91_79,45_39,22_19,60,50,999,1,4
+YY,Yorkshire,South Yorkshire,91_80,45_40,22_20,55,45,999,38,158
+YY,Yorkshire,South Yorkshire,91_80,45_40,22_20,55,50,999,397,689
+YY,Yorkshire,South Yorkshire,91_80,45_40,22_20,60,50,999,82,193
+YY,Yorkshire,South Yorkshire,91_81,45_40,22_20,55,45,999,2,60
+YY,Yorkshire,South Yorkshire,91_81,45_40,22_20,55,50,999,13,83
+YY,Yorkshire,South Yorkshire,91_81,45_40,22_20,60,50,999,28,51
+YY,Yorkshire,South Yorkshire,91_82,45_41,22_20,55,45,999,1,18
+YY,Yorkshire,South Yorkshire,91_82,45_41,22_20,55,50,999,31,66
+YY,Yorkshire,South Yorkshire,91_82,45_41,22_20,60,50,999,0,1
+YY,Yorkshire,South Yorkshire,91_83,45_41,22_20,55,45,999,0,2
+YY,Yorkshire,South Yorkshire,91_83,45_41,22_20,55,50,999,1,7
+YY,Yorkshire,South Yorkshire,91_83,45_41,22_20,60,50,999,0,1
+YY,Yorkshire,South Yorkshire,92_78,46_39,23_19,60,55,999,3,16
+YY,Yorkshire,South Yorkshire,92_78,46_39,23_19,65,55,999,0,1
+YY,Yorkshire,South Yorkshire,92_79,46_39,23_19,60,50,999,1,11
+YY,Yorkshire,South Yorkshire,92_79,46_39,23_19,60,55,999,14,83
+YY,Yorkshire,South Yorkshire,92_79,46_39,23_19,65,55,999,12,38
+YY,Yorkshire,South Yorkshire,92_80,46_40,23_20,60,50,999,12,97
+YY,Yorkshire,South Yorkshire,92_80,46_40,23_20,60,55,999,24,145
+YY,Yorkshire,South Yorkshire,92_80,46_40,23_20,65,55,999,65,85
+YY,Yorkshire,South Yorkshire,92_81,46_40,23_20,60,50,999,22,63
+YY,Yorkshire,South Yorkshire,92_81,46_40,23_20,60,55,999,34,137
+YY,Yorkshire,South Yorkshire,92_81,46_40,23_20,65,55,999,5,22
+YY,Yorkshire,South Yorkshire,92_82,46_41,23_20,60,55,999,20,56
+YY,Yorkshire,South Yorkshire,92_82,46_41,23_20,65,55,999,4,18
+YY,Yorkshire,South Yorkshire,92_83,46_41,23_20,60,55,999,1,15
+YY,Yorkshire,South Yorkshire,92_83,46_41,23_20,65,55,999,0,3
+YY,Yorkshire,South Yorkshire,93_78,46_39,23_19,65,55,999,22,36
+YY,Yorkshire,South Yorkshire,93_78,46_39,23_19,65,60,999,4,19
+YY,Yorkshire,South Yorkshire,93_79,46_39,23_19,65,55,999,3,6
+YY,Yorkshire,South Yorkshire,93_79,46_39,23_19,65,60,999,5,16
+YY,Yorkshire,South Yorkshire,93_80,46_40,23_20,65,55,999,6,18
+YY,Yorkshire,South Yorkshire,93_80,46_40,23_20,65,60,999,9,20
+YY,Yorkshire,South Yorkshire,93_81,46_40,23_20,65,55,999,16,51
+YY,Yorkshire,South Yorkshire,93_81,46_40,23_20,65,60,999,10,57
+YY,Yorkshire,South Yorkshire,93_82,46_41,23_20,65,55,999,3,25
+YY,Yorkshire,South Yorkshire,93_82,46_41,23_20,65,60,999,48,136
+YY,Yorkshire,South Yorkshire,93_82,46_41,23_20,70,60,999,0,1
+YY,Yorkshire,South Yorkshire,93_83,46_41,23_20,65,60,999,8,34
+YY,Yorkshire,South Yorkshire,93_83,46_41,23_20,70,60,999,0,12
+YY,Yorkshire,South Yorkshire,94_82,47_41,23_20,70,65,999,1,1
+YY,Yorkshire,South Yorkshire,94_83,47_41,23_20,70,60,999,0,2
+YY,Yorkshire,South Yorkshire,94_83,47_41,23_20,70,65,999,1,1
+YY,Yorkshire,West Yorkshire,78_84,39_42,19_21,0,0,10,108,230
+YY,Yorkshire,West Yorkshire,78_85,39_42,19_21,0,0,10,22,48
+YY,Yorkshire,West Yorkshire,78_86,39_43,19_21,0,0,10,2,3
+YY,Yorkshire,West Yorkshire,79_82,39_41,19_20,0,0,10,0,1
+YY,Yorkshire,West Yorkshire,79_83,39_41,19_20,0,0,10,0,5
+YY,Yorkshire,West Yorkshire,79_84,39_42,19_21,0,0,10,6,24
+YY,Yorkshire,West Yorkshire,79_85,39_42,19_21,0,0,10,6,29
+YY,Yorkshire,West Yorkshire,79_85,39_42,19_21,0,5,10,1,10
+YY,Yorkshire,West Yorkshire,79_85,39_42,19_21,5,5,10,141,289
+YY,Yorkshire,West Yorkshire,79_86,39_43,19_21,0,0,10,0,2
+YY,Yorkshire,West Yorkshire,79_86,39_43,19_21,5,5,10,3,8
+YY,Yorkshire,West Yorkshire,79_87,39_43,19_21,0,0,10,5,7
+YY,Yorkshire,West Yorkshire,80_81,40_40,20_20,0,0,10,0,2
+YY,Yorkshire,West Yorkshire,80_82,40_41,20_20,0,0,10,7,21
+YY,Yorkshire,West Yorkshire,80_82,40_41,20_20,5,0,10,38,78
+YY,Yorkshire,West Yorkshire,80_83,40_41,20_20,0,0,10,1,12
+YY,Yorkshire,West Yorkshire,80_83,40_41,20_20,5,5,10,15,91
+YY,Yorkshire,West Yorkshire,80_84,40_42,20_21,0,0,10,2,23
+YY,Yorkshire,West Yorkshire,80_84,40_42,20_21,5,5,10,21,139
+YY,Yorkshire,West Yorkshire,80_85,40_42,20_21,5,5,10,25,151
+YY,Yorkshire,West Yorkshire,80_85,40_42,20_21,5,10,10,0,1
+YY,Yorkshire,West Yorkshire,80_85,40_42,20_21,10,10,15,3,13
+YY,Yorkshire,West Yorkshire,80_86,40_43,20_21,5,5,10,11,34
+YY,Yorkshire,West Yorkshire,80_87,40_43,20_21,0,0,10,4,22
+YY,Yorkshire,West Yorkshire,80_87,40_43,20_21,0,5,10,0,1
+YY,Yorkshire,West Yorkshire,80_87,40_43,20_21,5,5,10,88,245
+YY,Yorkshire,West Yorkshire,80_88,40_44,20_22,0,0,10,1,1
+YY,Yorkshire,West Yorkshire,80_88,40_44,20_22,5,5,10,19,133
+YY,Yorkshire,West Yorkshire,80_89,40_44,20_22,5,5,10,16,41
+YY,Yorkshire,West Yorkshire,80_89,40_44,20_22,5,10,10,0,1
+YY,Yorkshire,West Yorkshire,80_89,40_44,20_22,10,10,15,24,49
+YY,Yorkshire,West Yorkshire,81_81,40_40,20_20,5,0,10,3,4
+YY,Yorkshire,West Yorkshire,81_82,40_41,20_20,5,0,10,3,31
+YY,Yorkshire,West Yorkshire,81_82,40_41,20_20,5,5,10,75,182
+YY,Yorkshire,West Yorkshire,81_82,40_41,20_20,10,5,15,48,88
+YY,Yorkshire,West Yorkshire,81_83,40_41,20_20,5,5,10,17,98
+YY,Yorkshire,West Yorkshire,81_83,40_41,20_20,10,5,15,17,68
+YY,Yorkshire,West Yorkshire,81_83,40_41,20_20,10,10,15,26,87
+YY,Yorkshire,West Yorkshire,81_84,40_42,20_21,5,5,10,93,221
+YY,Yorkshire,West Yorkshire,81_84,40_42,20_21,10,10,15,239,710
+YY,Yorkshire,West Yorkshire,81_85,40_42,20_21,5,5,10,1,3
+YY,Yorkshire,West Yorkshire,81_85,40_42,20_21,5,10,10,0,1
+YY,Yorkshire,West Yorkshire,81_85,40_42,20_21,10,10,15,354,981
+YY,Yorkshire,West Yorkshire,81_86,40_43,20_21,10,10,15,48,181
+YY,Yorkshire,West Yorkshire,81_87,40_43,20_21,5,5,10,30,96
+YY,Yorkshire,West Yorkshire,81_87,40_43,20_21,10,10,15,33,104
+YY,Yorkshire,West Yorkshire,81_88,40_44,20_22,5,5,10,312,554
+YY,Yorkshire,West Yorkshire,81_88,40_44,20_22,10,10,15,39,140
+YY,Yorkshire,West Yorkshire,81_89,40_44,20_22,10,10,15,11,26
+YY,Yorkshire,West Yorkshire,81_89,40_44,20_22,15,15,25,2,31
+YY,Yorkshire,West Yorkshire,81_90,40_45,20_22,10,10,15,1,10
+YY,Yorkshire,West Yorkshire,81_90,40_45,20_22,15,15,25,2,5
+YY,Yorkshire,West Yorkshire,82_80,41_40,20_20,15,5,25,1,3
+YY,Yorkshire,West Yorkshire,82_81,41_40,20_20,10,0,15,3,7
+YY,Yorkshire,West Yorkshire,82_81,41_40,20_20,10,5,15,20,76
+YY,Yorkshire,West Yorkshire,82_81,41_40,20_20,15,5,25,157,241
+YY,Yorkshire,West Yorkshire,82_82,41_41,20_20,10,5,15,99,256
+YY,Yorkshire,West Yorkshire,82_82,41_41,20_20,10,10,15,55,182
+YY,Yorkshire,West Yorkshire,82_82,41_41,20_20,15,5,25,0,1
+YY,Yorkshire,West Yorkshire,82_82,41_41,20_20,15,10,25,4,27
+YY,Yorkshire,West Yorkshire,82_83,41_41,20_20,10,5,15,5,27
+YY,Yorkshire,West Yorkshire,82_83,41_41,20_20,10,10,15,324,806
+YY,Yorkshire,West Yorkshire,82_83,41_41,20_20,15,10,25,495,708
+YY,Yorkshire,West Yorkshire,82_83,41_41,20_20,15,15,25,8,46
+YY,Yorkshire,West Yorkshire,82_84,41_42,20_21,10,10,15,85,268
+YY,Yorkshire,West Yorkshire,82_84,41_42,20_21,15,10,25,0,1
+YY,Yorkshire,West Yorkshire,82_84,41_42,20_21,15,15,25,295,618
+YY,Yorkshire,West Yorkshire,82_85,41_42,20_21,10,10,15,4,17
+YY,Yorkshire,West Yorkshire,82_85,41_42,20_21,15,15,25,51,371
+YY,Yorkshire,West Yorkshire,82_86,41_43,20_21,10,10,15,20,71
+YY,Yorkshire,West Yorkshire,82_86,41_43,20_21,10,15,15,0,1
+YY,Yorkshire,West Yorkshire,82_86,41_43,20_21,15,15,25,181,679
+YY,Yorkshire,West Yorkshire,82_87,41_43,20_21,10,10,15,195,388
+YY,Yorkshire,West Yorkshire,82_87,41_43,20_21,15,15,25,340,661
+YY,Yorkshire,West Yorkshire,82_88,41_44,20_22,10,10,15,26,45
+YY,Yorkshire,West Yorkshire,82_88,41_44,20_22,15,15,25,7,21
+YY,Yorkshire,West Yorkshire,82_89,41_44,20_22,10,10,15,0,1
+YY,Yorkshire,West Yorkshire,82_89,41_44,20_22,15,15,25,311,476
+YY,Yorkshire,West Yorkshire,83_81,41_40,20_20,15,5,25,9,32
+YY,Yorkshire,West Yorkshire,83_81,41_40,20_20,15,10,25,26,116
+YY,Yorkshire,West Yorkshire,83_81,41_40,20_20,20,10,25,12,32
+YY,Yorkshire,West Yorkshire,83_82,41_41,20_20,15,10,25,26,126
+YY,Yorkshire,West Yorkshire,83_82,41_41,20_20,15,15,25,8,41
+YY,Yorkshire,West Yorkshire,83_82,41_41,20_20,20,10,25,3,12
+YY,Yorkshire,West Yorkshire,83_82,41_41,20_20,20,15,25,37,59
+YY,Yorkshire,West Yorkshire,83_83,41_41,20_20,15,10,25,91,220
+YY,Yorkshire,West Yorkshire,83_83,41_41,20_20,15,15,25,145,409
+YY,Yorkshire,West Yorkshire,83_83,41_41,20_20,20,15,25,5,35
+YY,Yorkshire,West Yorkshire,83_84,41_42,20_21,15,15,25,55,132
+YY,Yorkshire,West Yorkshire,83_84,41_42,20_21,20,15,25,14,50
+YY,Yorkshire,West Yorkshire,83_84,41_42,20_21,20,20,25,51,203
+YY,Yorkshire,West Yorkshire,83_85,41_42,20_21,15,15,25,16,88
+YY,Yorkshire,West Yorkshire,83_85,41_42,20_21,20,20,25,116,380
+YY,Yorkshire,West Yorkshire,83_86,41_43,20_21,15,15,25,460,896
+YY,Yorkshire,West Yorkshire,83_86,41_43,20_21,15,20,25,1,6
+YY,Yorkshire,West Yorkshire,83_86,41_43,20_21,20,20,25,223,753
+YY,Yorkshire,West Yorkshire,83_87,41_43,20_21,15,15,25,137,469
+YY,Yorkshire,West Yorkshire,83_87,41_43,20_21,20,20,25,89,393
+YY,Yorkshire,West Yorkshire,83_88,41_44,20_22,15,15,25,9,28
+YY,Yorkshire,West Yorkshire,83_88,41_44,20_22,20,20,25,204,435
+YY,Yorkshire,West Yorkshire,83_89,41_44,20_22,15,15,25,0,7
+YY,Yorkshire,West Yorkshire,83_89,41_44,20_22,20,20,25,49,184
+YY,Yorkshire,West Yorkshire,84_81,42_40,21_20,20,10,25,2,16
+YY,Yorkshire,West Yorkshire,84_81,42_40,21_20,20,15,25,48,141
+YY,Yorkshire,West Yorkshire,84_81,42_40,21_20,25,15,40,1,1
+YY,Yorkshire,West Yorkshire,84_82,42_41,21_20,20,10,25,2,7
+YY,Yorkshire,West Yorkshire,84_82,42_41,21_20,20,15,25,75,190
+YY,Yorkshire,West Yorkshire,84_82,42_41,21_20,20,20,25,0,9
+YY,Yorkshire,West Yorkshire,84_82,42_41,21_20,25,15,40,17,35
+YY,Yorkshire,West Yorkshire,84_82,42_41,21_20,25,20,40,0,11
+YY,Yorkshire,West Yorkshire,84_83,42_41,21_20,20,15,25,73,129
+YY,Yorkshire,West Yorkshire,84_83,42_41,21_20,20,20,25,12,51
+YY,Yorkshire,West Yorkshire,84_83,42_41,21_20,25,20,40,13,72
+YY,Yorkshire,West Yorkshire,84_84,42_42,21_21,20,15,25,0,2
+YY,Yorkshire,West Yorkshire,84_84,42_42,21_21,20,20,25,166,429
+YY,Yorkshire,West Yorkshire,84_84,42_42,21_21,25,20,40,186,448
+YY,Yorkshire,West Yorkshire,84_84,42_42,21_21,25,25,40,98,241
+YY,Yorkshire,West Yorkshire,84_85,42_42,21_21,20,20,25,43,138
+YY,Yorkshire,West Yorkshire,84_85,42_42,21_21,25,20,40,3,5
+YY,Yorkshire,West Yorkshire,84_85,42_42,21_21,25,25,40,199,496
+YY,Yorkshire,West Yorkshire,84_86,42_43,21_21,20,20,25,48,147
+YY,Yorkshire,West Yorkshire,84_86,42_43,21_21,25,25,40,331,661
+YY,Yorkshire,West Yorkshire,84_87,42_43,21_21,20,20,25,122,241
+YY,Yorkshire,West Yorkshire,84_87,42_43,21_21,25,25,40,355,686
+YY,Yorkshire,West Yorkshire,84_88,42_44,21_22,20,20,25,166,282
+YY,Yorkshire,West Yorkshire,84_88,42_44,21_22,20,25,25,0,1
+YY,Yorkshire,West Yorkshire,84_88,42_44,21_22,25,25,40,50,141
+YY,Yorkshire,West Yorkshire,84_89,42_44,21_22,20,20,25,222,308
+YY,Yorkshire,West Yorkshire,84_89,42_44,21_22,25,25,40,9,36
+YY,Yorkshire,West Yorkshire,85_82,42_41,21_20,25,15,40,15,24
+YY,Yorkshire,West Yorkshire,85_82,42_41,21_20,25,20,40,59,135
+YY,Yorkshire,West Yorkshire,85_82,42_41,21_20,30,25,40,7,12
+YY,Yorkshire,West Yorkshire,85_83,42_41,21_20,25,20,40,34,122
+YY,Yorkshire,West Yorkshire,85_83,42_41,21_20,25,25,40,35,102
+YY,Yorkshire,West Yorkshire,85_83,42_41,21_20,30,25,40,88,151
+YY,Yorkshire,West Yorkshire,85_84,42_42,21_21,25,20,40,5,20
+YY,Yorkshire,West Yorkshire,85_84,42_42,21_21,25,25,40,209,492
+YY,Yorkshire,West Yorkshire,85_84,42_42,21_21,30,25,40,21,75
+YY,Yorkshire,West Yorkshire,85_85,42_42,21_21,25,25,40,41,128
+YY,Yorkshire,West Yorkshire,85_85,42_42,21_21,30,25,40,141,251
+YY,Yorkshire,West Yorkshire,85_85,42_42,21_21,30,30,40,245,488
+YY,Yorkshire,West Yorkshire,85_86,42_43,21_21,25,25,40,146,325
+YY,Yorkshire,West Yorkshire,85_86,42_43,21_21,25,30,40,1,1
+YY,Yorkshire,West Yorkshire,85_86,42_43,21_21,30,30,40,1047,1735
+YY,Yorkshire,West Yorkshire,85_87,42_43,21_21,25,25,40,191,500
+YY,Yorkshire,West Yorkshire,85_87,42_43,21_21,30,30,40,496,883
+YY,Yorkshire,West Yorkshire,85_88,42_44,21_22,25,25,40,24,89
+YY,Yorkshire,West Yorkshire,85_88,42_44,21_22,30,30,40,26,72
+YY,Yorkshire,West Yorkshire,85_89,42_44,21_22,25,25,40,1,3
+YY,Yorkshire,West Yorkshire,85_89,42_44,21_22,30,30,40,0,1
+YY,Yorkshire,West Yorkshire,86_82,43_41,21_20,30,25,40,11,40
+YY,Yorkshire,West Yorkshire,86_82,43_41,21_20,35,25,40,0,2
+YY,Yorkshire,West Yorkshire,86_83,43_41,21_20,30,25,40,137,343
+YY,Yorkshire,West Yorkshire,86_83,43_41,21_20,30,30,40,52,121
+YY,Yorkshire,West Yorkshire,86_83,43_41,21_20,35,30,40,49,94
+YY,Yorkshire,West Yorkshire,86_84,43_42,21_21,30,25,40,95,222
+YY,Yorkshire,West Yorkshire,86_84,43_42,21_21,30,30,40,780,1136
+YY,Yorkshire,West Yorkshire,86_84,43_42,21_21,35,30,40,118,331
+YY,Yorkshire,West Yorkshire,86_85,43_42,21_21,30,30,40,71,195
+YY,Yorkshire,West Yorkshire,86_85,43_42,21_21,35,30,40,56,191
+YY,Yorkshire,West Yorkshire,86_85,43_42,21_21,35,35,40,90,193
+YY,Yorkshire,West Yorkshire,86_86,43_43,21_21,30,30,40,1516,2033
+YY,Yorkshire,West Yorkshire,86_86,43_43,21_21,30,35,40,1,3
+YY,Yorkshire,West Yorkshire,86_86,43_43,21_21,35,35,40,262,562
+YY,Yorkshire,West Yorkshire,86_87,43_43,21_21,30,30,40,369,696
+YY,Yorkshire,West Yorkshire,86_87,43_43,21_21,35,35,40,169,441
+YY,Yorkshire,West Yorkshire,86_88,43_44,21_22,30,30,40,21,58
+YY,Yorkshire,West Yorkshire,86_88,43_44,21_22,35,35,40,20,45
+YY,Yorkshire,West Yorkshire,86_89,43_44,21_22,30,30,40,0,3
+YY,Yorkshire,West Yorkshire,86_89,43_44,21_22,35,35,40,6,13
+YY,Yorkshire,West Yorkshire,87_82,43_41,21_20,35,25,40,0,4
+YY,Yorkshire,West Yorkshire,87_82,43_41,21_20,35,30,40,18,64
+YY,Yorkshire,West Yorkshire,87_82,43_41,21_20,40,30,999,4,17
+YY,Yorkshire,West Yorkshire,87_83,43_41,21_20,35,30,40,55,164
+YY,Yorkshire,West Yorkshire,87_83,43_41,21_20,35,35,40,15,32
+YY,Yorkshire,West Yorkshire,87_83,43_41,21_20,40,35,999,1,11
+YY,Yorkshire,West Yorkshire,87_84,43_42,21_21,35,30,40,7,45
+YY,Yorkshire,West Yorkshire,87_84,43_42,21_21,35,35,40,85,176
+YY,Yorkshire,West Yorkshire,87_84,43_42,21_21,40,35,999,85,205
+YY,Yorkshire,West Yorkshire,87_85,43_42,21_21,35,35,40,22,85
+YY,Yorkshire,West Yorkshire,87_85,43_42,21_21,40,35,999,36,118
+YY,Yorkshire,West Yorkshire,87_85,43_42,21_21,40,40,999,3,17
+YY,Yorkshire,West Yorkshire,87_86,43_43,21_21,35,35,40,258,430
+YY,Yorkshire,West Yorkshire,87_86,43_43,21_21,35,40,40,1,1
+YY,Yorkshire,West Yorkshire,87_86,43_43,21_21,40,40,999,77,216
+YY,Yorkshire,West Yorkshire,87_87,43_43,21_21,35,35,40,112,345
+YY,Yorkshire,West Yorkshire,87_87,43_43,21_21,40,40,999,25,100
+YY,Yorkshire,West Yorkshire,87_88,43_44,21_22,35,35,40,13,56
+YY,Yorkshire,West Yorkshire,87_88,43_44,21_22,35,40,40,0,2
+YY,Yorkshire,West Yorkshire,87_88,43_44,21_22,40,40,999,5,30
+YY,Yorkshire,West Yorkshire,87_89,43_44,21_22,35,35,40,0,4
+YY,Yorkshire,West Yorkshire,87_89,43_44,21_22,40,40,999,15,69
+YY,Yorkshire,West Yorkshire,88_82,44_41,22_20,40,30,999,2,11
+YY,Yorkshire,West Yorkshire,88_82,44_41,22_20,40,35,999,87,193
+YY,Yorkshire,West Yorkshire,88_82,44_41,22_20,45,35,999,5,10
+YY,Yorkshire,West Yorkshire,88_83,44_41,22_20,40,35,999,71,212
+YY,Yorkshire,West Yorkshire,88_83,44_41,22_20,40,40,999,1,4
+YY,Yorkshire,West Yorkshire,88_83,44_41,22_20,45,35,999,0,2
+YY,Yorkshire,West Yorkshire,88_83,44_41,22_20,45,40,999,1,10
+YY,Yorkshire,West Yorkshire,88_84,44_42,22_21,40,35,999,128,242
+YY,Yorkshire,West Yorkshire,88_84,44_42,22_21,40,40,999,30,100
+YY,Yorkshire,West Yorkshire,88_84,44_42,22_21,45,40,999,173,305
+YY,Yorkshire,West Yorkshire,88_85,44_42,22_21,40,35,999,1,6
+YY,Yorkshire,West Yorkshire,88_85,44_42,22_21,40,40,999,170,328
+YY,Yorkshire,West Yorkshire,88_85,44_42,22_21,45,40,999,215,323
+YY,Yorkshire,West Yorkshire,88_86,44_43,22_21,40,40,999,94,224
+YY,Yorkshire,West Yorkshire,88_86,44_43,22_21,45,40,999,32,69
+YY,Yorkshire,West Yorkshire,88_86,44_43,22_21,45,45,999,8,31
+YY,Yorkshire,West Yorkshire,88_87,44_43,22_21,40,40,999,5,26
+YY,Yorkshire,West Yorkshire,88_87,44_43,22_21,45,45,999,4,23
+YY,Yorkshire,West Yorkshire,88_88,44_44,22_22,40,40,999,5,10
+YY,Yorkshire,West Yorkshire,88_88,44_44,22_22,45,45,999,8,43
+YY,Yorkshire,West Yorkshire,88_89,44_44,22_22,40,40,999,109,178
+YY,Yorkshire,West Yorkshire,88_89,44_44,22_22,45,45,999,35,108
+YY,Yorkshire,West Yorkshire,89_81,44_40,22_20,45,40,999,0,1
+YY,Yorkshire,West Yorkshire,89_82,44_41,22_20,45,35,999,21,42
+YY,Yorkshire,West Yorkshire,89_82,44_41,22_20,45,40,999,143,303
+YY,Yorkshire,West Yorkshire,89_83,44_41,22_20,45,40,999,13,52
+YY,Yorkshire,West Yorkshire,89_83,44_41,22_20,45,45,999,2,4
+YY,Yorkshire,West Yorkshire,89_83,44_41,22_20,50,40,999,0,1
+YY,Yorkshire,West Yorkshire,89_83,44_41,22_20,50,45,999,0,4
+YY,Yorkshire,West Yorkshire,89_84,44_42,22_21,45,40,999,415,742
+YY,Yorkshire,West Yorkshire,89_84,44_42,22_21,45,45,999,16,53
+YY,Yorkshire,West Yorkshire,89_84,44_42,22_21,50,45,999,57,127
+YY,Yorkshire,West Yorkshire,89_85,44_42,22_21,45,40,999,27,97
+YY,Yorkshire,West Yorkshire,89_85,44_42,22_21,45,45,999,5,14
+YY,Yorkshire,West Yorkshire,89_86,44_43,22_21,45,45,999,0,1
+YY,Yorkshire,West Yorkshire,89_87,44_43,22_21,45,45,999,0,2
+YY,Yorkshire,West Yorkshire,89_89,44_44,22_22,45,45,999,2,10
+YY,Yorkshire,West Yorkshire,90_82,45_41,22_20,50,45,999,5,6
+YY,Yorkshire,West Yorkshire,90_84,45_42,22_21,50,45,999,26,78
+Yor>Lincol,Yorkshire,Lincolnshire,95_82,47_41,23_20,75,999,999,2,3
+Yor>Lincol,Yorkshire,Lincolnshire,96_83,48_41,24_20,80,999,999,0,3

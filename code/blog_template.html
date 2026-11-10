@@ -1,0 +1,117 @@
+<!-- wp:paragraph -->
+<p><em>In 1974 the map of northern England was redrawn, and towns that had been in Yorkshire for centuries woke up in Lancashire, while Manchester and Liverpool left Lancashire altogether. Fifty years on, I wanted to know which county local businesses still put on their signs. So I mapped every shop, club and venue in OpenStreetMap that names itself after either rose. The main test I set myself in advance, in the places that moved from Yorkshire to Lancashire, could not be answered, because there are no county-named businesses there on the map. What the map does show is a sharp line where the old border did not move, and the Lancashire name thinning in Greater Manchester and Merseyside.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/rose-border/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24104647">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>The Local Government Act 1972 came into force on 1 April 1974, and it moved a lot of places. The Forest of Bowland, Barnoldswick and Earby went from the West Riding of Yorkshire into Lancashire. Saddleworth went into Greater Manchester, and Sedbergh and Dent into the new county of Cumbria. Lancashire lost Furness and Cartmel to Cumbria, Warrington and Widnes to Cheshire, and its two great cities to the new metropolitan counties of Greater Manchester and Merseyside. People have argued ever since about whether the old counties still exist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Arguments are hard to measure. Names are easier. A café that calls itself "Yorkshire" or a builder that calls itself "Lancashire" is making a small, public claim about where it belongs. So I took every feature in OpenStreetMap whose name says Lancashire, Lancs, Yorkshire or Yorks, threw out the roads, bus stops, railways, memorials and street names, set aside the branches of big chains and the public bodies, and was left with {{flow.main_n|int}} businesses, clubs and venues in and around the two counties.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_map.png|Map of northern England with red dots for Lancashire names west of the old county border and white dots ringed in navy for Yorkshire names east of it, with the areas that changed county in 1974 shaded blue and pink and numbered|Every business, club and venue named after Lancashire or Yorkshire, with the historic border (dashed), the border of the Yorkshire counties since 1974 (purple) and the areas moved in 1974.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cross the line and the rose changes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Where the old border between the two counties did not move, it is sharp. Within 25 km of the line on the Yorkshire side, {{H1.shares.YY.nY|int}} of the {{H1.shares.YY.n|int}} county-named businesses say Yorkshire. On the Lancashire side, {{H1.shares.LL.nY|int}} of {{H1.shares.LL.n|int}} does. Walk over the moors from Colne to Keighley and the name above the door flips from one rose to the other.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_profile.png|Two charts of the share of county-named businesses saying Yorkshire by distance from the border: near zero on the Lancashire side and near one hundred per cent on the Yorkshire side, switching exactly at the line|The share saying Yorkshire in 5 km bands from the historic border (left) and the 1974 border (right).}}
+
+<!-- wp:paragraph -->
+<p>To check that this is the border and not just a gradual drift from west to east, I drew two false borders, 10 km inside each county, and measured the same jump across them. Across the real line the share saying Yorkshire jumps by {{x.jump|f0}} percentage points; across the false ones it changes by {{x.fl|f0}} and {{x.fy|f0}} points, and neither change can be told apart from zero.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Greater Manchester and Merseyside still say Lancashire, more quietly</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The trouble with a sharp line is that along most of its length the old border and the new one are the same, so it cannot tell me which one people are following. The places that moved can. And the biggest of them are the parts of Lancashire that became Greater Manchester and Merseyside.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To compare a city with the Ribble Valley fairly, I counted every named shop, pub, café and office on the map as well, and worked out county names per 1,000 of them. Inside today's Lancashire there are {{H2.L_LL.rate|f1}} Lancashire names per 1,000 businesses. In the old Lancashire part of Greater Manchester there are {{H2.L_L_GM.rate|f1}}, and in the old Lancashire part of Merseyside {{H2.L_L_MS.rate|f1}}. That is about a quarter of the Lancashire rate in Greater Manchester and a fifth in Merseyside: the county cricket club, a maker of Eccles cakes, a florist, carpenters, lawyers and a brick merchant. But the parts of the same two counties that were never in Lancashire, Stockport, Sale, Altrincham and Hyde, and the Wirral, have none at all, where about {{X_metro.expected_C_at_L_rate|f0}} would be expected at the rate of their neighbours over the old boundary. That last comparison was not in my plan, so treat it as exploratory, and the whole section as the secondary part of the study.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>Fifty years after leaving Lancashire, its old parts of Greater Manchester and Merseyside still have businesses named after it, at a quarter to a fifth of the rate. Across the old Cheshire line, in the same counties, I found none.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+{{IMG|b_rates.png|Dot chart of county-named businesses per 1,000 points of interest by area: highest in today's Lancashire, lower but present in the old Lancashire parts of Greater Manchester and Merseyside, none in Furness, Warrington or the never-Lancashire parts of the metropolitan counties|County names per 1,000 named businesses and venues in each area, with 95% intervals. Open triangles mean none were found.}}
+
+<!-- wp:paragraph -->
+<p>Further out, I found none. Furness and Cartmel, across Morecambe Bay and now in Cumbria, have no Lancashire-named businesses on the map, where about {{H2.L_L_CU.expected_at_ref|f0}} would be expected at Lancashire's rate. Warrington and Widnes, now in Cheshire, have none either, where about {{H2.L_L_CH.expected_at_ref|f0}} would be expected. I cannot say whether the name faded after 1974 or was never much used there: a name on a map does not come with a date.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_expected.png|Bar chart comparing county-named businesses found in each area that changed county with the number expected at the old county's rate: fewer than expected everywhere, with some in Greater Manchester and Merseyside and none elsewhere|What I found in each area moved in 1974, against what the old county's rate would give.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The question I could not answer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The question I most wanted to answer, and the main test in my written plan, was about the other direction: do businesses in Barnoldswick, Earby, Slaidburn and Saddleworth still call themselves Yorkshire? The answer is that the map cannot tell. Those places, with Sedbergh, Dent and south Teesdale, have {{x.TY_poi|int}} named businesses on OpenStreetMap between them, and not one is named after either county. Even at Yorkshire's own rate only about {{x.TY_exp|f0}} would be expected, so an empty map is not a verdict. The only Yorkshire name in Barnoldswick is a branch of a national building society, which tells you where the firm started, not what the town thinks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Putting everything on both maps at once gives a summary for Lancashire: places in historic Lancashire have about {{M2.L.H.rr|f0}} times the rate of Lancashire names even outside today's county, and places in today's Lancashire a further {{M2.L.M.rr|f1}} times. Both maps line up with the names, though this cannot say why. For Yorkshire the same model is too thinly supported to trust.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_robust.png|Forest plot of how much the historic county and today's county each multiply the rate of county names, under every planned check: for Lancashire both are above one in every row, for Yorkshire the intervals are wide and change order|How much the historic county and today's county each raise the rate of county names, under every check I planned.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The names come from OpenStreetMap, the map that volunteers build. I read every name within 40 km of the border, and in every area that moved, by eye, and kept a file of {{flow.overrides|int}} decisions: bus routes named after shopping centres, war memorials, a golf club mapped twice, and a car dealer whose name turned out to be its founders' surname. The historic counties come from the Historic County Borders Project, and today's counties from the 2023 district boundaries. For fairness between busy cities and quiet valleys I counted {{poi.business_total|int}} named businesses and venues in the region from OpenFreeMap. I wrote the analysis plan before computing any share or rate by area, and the paper reports it as planned, including the test that could not be done.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are real limits. OpenStreetMap is patchier in some places than others. A name does not tell me when it was chosen, so a firm named in 1960 looks the same as one named last year. People name businesses after where they grew up, what they sell or who they want to sell to. And registered company names, which would be a much bigger source, were not available to me for this study. So this is a picture of the names on today's map, not a measure of what people feel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/rose-border/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24104647">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/rose-border">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Names and points of interest: OpenStreetMap contributors, queried through QLever and read from OpenFreeMap vector tiles, 2026. Open Database Licence (ODbL).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Historic counties: this map made use of data provided by the <a href="https://www.county-borders.co.uk">Historic County Borders Project</a>. Districts: ONS, December 2023 (Open Government Licence v3.0).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Further reading: J. S. Reed, "The heart of Dixie: an essay in folk geography", Social Forces (1976); W. Zelinsky, "North America's vernacular regions", Annals of the Association of American Geographers (1980); K. Zimmerbauer, S. Riukulehto and T. Suutari, "Killing the regional Leviathan?", International Journal of Urban and Regional Research (2017); D. Russell, Looking North (2004).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

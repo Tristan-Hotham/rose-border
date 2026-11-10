@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Does the 1974 border still show? | Lancashire and Yorkshire in business names</title>
+<meta name="description" content="Every business, club and venue in OpenStreetMap named after Lancashire or Yorkshire, mapped against the historic county border and the lines moved in 1974.">
+<meta property="og:title" content="Does the 1974 border still show?">
+<meta property="og:description" content="Cross the old Lancashire and Yorkshire line and business names flip from one rose to the other. In the old Lancashire parts of Greater Manchester and Merseyside the Lancashire name lives on, at about a quarter of the rate.">
+<meta property="og:image" content="https://maps.tristanhotham.com/rose-border/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/rose-border/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+{{CSS}}
+</style></head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">Does the 1974 border still show?</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24104647">Paper</a><a class="x" href="{{REPO}}">Data and code</a></nav>
+</div>
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of businesses named after Lancashire or Yorkshire, with the historic county border and the areas moved in 1974">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true">Does the 1974 border still show? ▾</button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Does the 1974 border <span class="a">still show?</span></h1>
+        <p class="dek">Every shop, club and venue in OpenStreetMap in and around Lancashire and Yorkshire whose name says Lancashire (red) or Yorkshire (white rose). Shaded: areas that changed county in 1974. Showing <b id="nShown">0</b> county names. Tap a dot.</p>
+        <div class="byline">{{BYLINE}}</div>
+      </div>
+    </div>
+    <div class="ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a town or a business" aria-label="Find a town or a business" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips"><button class="chip" data-t="private" aria-pressed="true">Businesses and clubs</button><button class="chip" data-t="chain" aria-pressed="false">Chains</button><button class="chip" data-t="public" aria-pressed="false">Public bodies</button><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <label><input type="checkbox" id="lyM" checked> Areas moved in 1974</label>
+      <label><input type="checkbox" id="lyH" checked> Historic county border</label>
+      <label><input type="checkbox" id="lyN" checked> County borders since 1974</label>
+      <label><input type="checkbox" id="lyR" checked> Red Rose and White Rose names (rings)</label>
+      <label><input type="checkbox" id="lyL" checked> Business names (close in)</label>
+      <label><input type="checkbox" id="lyB" checked> Base map labels</label>
+    </div>
+    <div class="keys" id="keys"><b>What the name says</b>
+      <div class="rowk"><span class="sw" style="background:#C0392B;border:1px solid #fff;box-shadow:0 0 0 1px #C0392B"></span>Lancashire, Lancs</div>
+      <div class="rowk"><span class="sw" style="background:#fff;border:2px solid #1F3A68"></span>Yorkshire, Yorks</div>
+      <div class="rowk kx"><span class="ln h"></span>historic Lancashire and Yorkshire border</div>
+      <div class="rowk kx"><span class="ln"></span>Yorkshire counties' border since 1974</div>
+      <div class="rowk kx"><span class="bx" style="background:#BFCDE6"></span>left Yorkshire in 1974</div>
+      <div class="rowk kx"><span class="bx" style="background:#F1C6BF"></span>left Lancashire in 1974</div>
+      <div class="rowk kx" style="color:#6E604E">Names: OpenStreetMap, 2026. Mapped area: historic Lancashire and Yorkshire and the counties around them.</div></div>
+  </div>
+</div>
+<div class="wrap" id="essay">
+<p style="margin-top:6px">In 1974 the map of England was redrawn. Bowland, Barnoldswick and Earby went from Yorkshire into Lancashire. Saddleworth went into Greater Manchester, Sedbergh and Dent into Cumbria. Lancashire lost Furness and Cartmel to Cumbria, Warrington and Widnes to Cheshire, and Manchester and Liverpool to two new metropolitan counties. Half a century on, which county do local businesses, clubs and societies put in their names? I took every feature in OpenStreetMap whose name says Lancashire, Lancs, Yorkshire or Yorks, cleaned out the roads, bus stops, railways and branch names of big chains, and mapped the {{flow.main_n|int}} businesses, clubs and venues left in and around the two counties against both the historic border and the new one. The main test I set in a plan written before looking, in the places that moved from Yorkshire to Lancashire, could not be answered: there are no county-named businesses there on the map. What the map does show is a sharp line where the old border did not move, and the Lancashire name thinning in Greater Manchester and Merseyside.</p>
+<div class="byline">{{BYLINE}} · Data: OpenStreetMap contributors (ODbL); OpenFreeMap; Historic County Borders Project; ONS district boundaries (OGL v3.0) · Base map: OpenFreeMap Positron</div>
+<div class="stats">
+<div class="stat"><b>{{x.YY_s_pc|f0}}%</b><span>of county-named businesses within 25 km of the old line on the Yorkshire side say Yorkshire</span></div>
+<div class="stat"><b>{{x.LL_s_pc|f0}}%</b><span>on the Lancashire side ({{H1.shares.LL.nY|int}} of {{H1.shares.LL.n|int}})</span></div>
+<div class="stat"><b>{{x.rrGM_pc|f0}}%</b><span>the Lancashire name in the old Lancashire part of Greater Manchester, relative to today's Lancashire</span></div>
+<div class="stat"><b>{{X_metro.nC|int}}</b><span>Lancashire names in the old Cheshire parts of Greater Manchester and Merseyside</span></div>
+</div>
+
+<h2><span class="n">01 · The line</span>Cross it and the rose changes</h2>
+<p>Where the old border between Lancashire and Yorkshire did not move, it still shows sharply in names. Within 25 km of the line on the Yorkshire side, {{H1.shares.YY.nY|int}} of {{H1.shares.YY.n|int}} county-named businesses and clubs say Yorkshire. On the Lancashire side, {{H1.shares.LL.nY|int}} of {{H1.shares.LL.n|int}} does. Within 10 km either side of the line the share saying Yorkshire jumps by {{x.jump|f0}} percentage points (95% interval {{x.jump_lo|f0}} to {{x.jump_hi|f0}}). At false borders drawn 10 km into either county there is no comparable jump ({{x.fl|f0}} and {{x.fy|f0}} points, neither distinguishable from zero).</p>
+<div class="figure"><img src="img/profile.jpg" alt="Two dot charts of the share of county-named businesses saying Yorkshire against distance from the border: close to zero on the Lancashire side and close to 100% on the Yorkshire side, with the switch at the line" loading="lazy"><p class="src">Share saying Yorkshire in 5 km bands from each border. Along most of its length the 1974 border follows the old one, so the two pictures are nearly the same.</p></div>
+
+<h2><span class="n">02 · Moved out of Lancashire</span>The name thins, it does not vanish</h2>
+<p>The places that left Lancashire in 1974 are larger, and there the map says more (these comparisons were secondary in the plan). Inside today's Lancashire there are {{H2.L_LL.rate|f1}} Lancashire-named businesses and clubs for every 1,000 named shops, cafés, pubs and offices on the map. In the old Lancashire part of Greater Manchester the rate is {{H2.L_L_GM.rate|f1}} ({{H2.L_L_GM.n|int}} names), about {{x.rrGM_pc|f0}}% of that (a rate ratio of {{H2.L_L_GM.rr|f2}}, 95% interval {{H2.L_L_GM.rr_lo|f2}} to {{H2.L_L_GM.rr_hi|f2}}). In the old Lancashire part of Merseyside it is {{H2.L_L_MS.rate|f1}} ({{H2.L_L_MS.n|int}} names), about {{x.rrMS_pc|f0}}%. But the parts of the same two counties that were never in Lancashire, Stockport, Sale, Altrincham and Hyde, and the Wirral, have none at all, where {{X_metro.expected_C_at_L_rate|f0}} would be expected at the rate of their old Lancashire neighbours (an exploratory comparison I had not planned).</p>
+<p>Further out, none were found. In Furness and Cartmel, now in Cumbria, there are no Lancashire-named businesses on the map, where about {{H2.L_L_CU.expected_at_ref|f0}} would be expected at Lancashire's rate. In Warrington and Widnes, now in Cheshire, none either, where about {{H2.L_L_CH.expected_at_ref|f0}} would be expected.</p>
+<div class="figure"><img src="img/rates.jpg" alt="Dot chart of county-named businesses per 1,000 points of interest by area: highest in today's Lancashire, lower but clearly present in the old Lancashire parts of Greater Manchester and Merseyside, and none in Furness, Warrington, or the parts of the metropolitan counties that were never Lancashire" loading="lazy"><p class="src">County-named businesses and clubs per 1,000 named points of interest, with 95% intervals.</p></div>
+<div class="figure"><img src="img/expected.jpg" alt="Bar chart of county-named businesses found in each moved area against the number expected at the old county's rate: well below in every case" loading="lazy"><p class="src">Found, and expected at the rate of the county each area left.</p></div>
+
+<h2><span class="n">03 · Moved out of Yorkshire</span>Too small to tell</h2>
+<p>This was the main test in my written plan, and it could not be carried out. The question was whether businesses in <a data-go="Barnoldswick">Barnoldswick</a>, Earby and the Forest of Bowland call themselves Yorkshire or Lancashire. The map cannot say. Those areas, with Saddleworth, Sedbergh and Dent and south Teesdale, hold {{x.TY_poi|int}} named businesses and venues between them on OpenStreetMap, and not one is named after either county. At the rate of the Yorkshire side of the old line, about {{x.TY_exp|f0}} Yorkshire names would be expected across all four, so finding none is not surprising. A building society branch in Barnoldswick carries the Yorkshire name, but it is a national chain whose name says where it began, not where the branch stands.</p>
+
+<h2><span class="n">04 · Both maps at once</span>Both maps go with Lancashire names</h2>
+<p>A model that puts every area on both maps at once, the historic county and the county today, gives a summary. For Lancashire names, places in historic Lancashire have a rate about {{M2.L.H.rr|f0}} times higher (95% interval {{M2.L.H.lo|f0}} to {{M2.L.H.hi|f0}}) even outside today's county, and places in today's Lancashire a further {{M2.L.M.rr|f1}} times higher ({{M2.L.M.lo|f1}} to {{M2.L.M.hi|f1}}). Both stay above 1 in every check I ran. For Yorkshire the same model puts more weight on the county today, but that rests on a handful of areas with no county names at all, and it reverses when chain branches are included, so I do not lean on it.</p>
+<div class="figure"><img src="img/robust.jpg" alt="Forest plot of rate ratios for the historic county and the county today: for Lancashire names both are above one in every row; for Yorkshire names the intervals are wide and the order changes in one row" loading="lazy"><p class="src">The pooled model under every planned check.</p></div>
+<div class="figure"><img src="img/map.jpg" alt="Map of northern England with red dots for Lancashire names west of the old border and white rose dots for Yorkshire names east of it, with the areas moved in 1974 shaded" loading="lazy"><p class="src">Every county-named business, club and venue in the region. Numbers mark the areas moved in 1974.</p></div>
+
+<h2><span class="n">05 · How I did this</span>Names, lines and a denominator</h2>
+<p><b>Names.</b> The names come from OpenStreetMap, queried for every UK feature whose name contains Lancashire, Lancs, Yorkshire, Yorks, Red Rose or White Rose. I dropped roads and bus stops, railway lines, routes, administrative areas, car parks, memorials, names taken from a street ("Yorkshire Street Dental"), products ("Yorkshire pudding") and one surname. I merged the same name mapped twice within 300 m, and set aside chain branches (the same name in three or more places, such as a building society) and public bodies (police, councils, NHS trusts, universities). I read every name within 40 km of the border, and in every moved area, by eye, and kept {{flow.overrides|int}} hand decisions in a file.</p>
+<p><b>Lines.</b> The historic counties come from the Historic County Borders Project. The counties since 1974 are today's ceremonial counties, built from 2023 district boundaries; for this part of England they follow the 1974 lines, apart from Cleveland and Humberside, which existed from 1974 to 1996.</p>
+<p><b>A fair comparison.</b> A rural valley has fewer businesses than a city, so I count named shops, cafés, pubs, offices and other venues in the OpenFreeMap tiles ({{poi.business_total|int}} in the region) and express county names per 1,000 of them. I wrote the analysis plan down before computing any share or rate by area.</p>
+<p><b>What this cannot say.</b> OpenStreetMap is mapped by volunteers, so coverage varies. A name says nothing about when it was chosen, so names coined before 1974 cannot be told apart from later ones. Someone may name a firm after where they grew up, a product or a market. And Companies House, which holds registered company names, was not available to this study.</p>
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Names: OpenStreetMap contributors, queried through QLever, 2026. Open Database Licence (ODbL).</li>
+<li>Points of interest for the denominator: OpenFreeMap vector tiles (OpenMapTiles schema, OpenStreetMap data, ODbL).</li>
+<li>Historic counties: this map made use of data provided by the <a href="https://www.county-borders.co.uk">Historic County Borders Project</a> (Historic Counties Trust, UK Definition A).</li>
+<li>Counties since 1974: ONS Local Authority Districts, December 2023 (Open Government Licence v3.0; contains OS data, Crown copyright and database right).</li>
+<li>Place search: Wikidata settlements (CC0). Base map: OpenFreeMap Positron (OpenStreetMap, ODbL). MapLibre GL JS 4.7.1 (BSD 3-Clause).</li>
+<li>Text and figures CC BY 4.0; code MIT; derived name data ODbL.</li>
+</ul></details>
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24104647">Read the paper</a><a href="{{REPO}}">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/rose-border/">Blog post</a></div>
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Does the 1974 border still show? Historic and modern county names in the business landscape of Lancashire and Yorkshire. Zenodo. <a href="https://doi.org/10.5281/zenodo.24104647">10.5281/zenodo.24104647</a></p>
+<p>Code: <a href="{{REPO}}">github.com/Tristan-Hotham/rose-border</a> (MIT). Text and figures CC BY 4.0; derived name data ODbL.</p>
+<p>{{AI}}</p>
+</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/page.js?v={{VERSION}}"></script>
+{{FULLSCREEN}}
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>

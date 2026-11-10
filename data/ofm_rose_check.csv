@@ -1,0 +1,544 @@
+name,cls,sub,lon,lat,zone
+Affinity Lancashire Car Park,parking,parking,-3.015296459197998,53.917350521956976,LL
+BBC Radio Lancashire Staff Car Park,parking,parking,-2.483687996864319,53.746721824636666,LL
+Barton Road/East Lancs Road,bus,bus_stop,-2.32685923576355,53.50272198195008,L_GM
+Belmont Road/Lancashire Boundary,bus,bus_stop,-2.458845376968384,53.61921256753415,L_GM
+Belmont Road/Lancashire Boundary,bus,bus_stop,-2.4577242136001587,53.61873846192904,L_GM
+Bentley (South Yorkshire),railway,station,-1.150715947151184,53.54370868403671,YY
+Bolton St/East Lancs Railway (Stop TT),bus,bus_stop,-2.3006218671798706,53.593736964933086,L_GM
+Bolton Street/East Lancs Railway (SS),bus,bus_stop,-2.3004287481307983,53.59359050900824,L_GM
+Bridge St/East Lancs Railway (Stop E),bus,bus_stop,-2.3155510425567627,53.64805934681408,L_GM
+Bridge Street/East Lancs Railway,bus,bus_stop,-2.314027547836304,53.64763962114108,L_GM
+CARR MILL RD/EAST LANCS ROAD,bus,bus_stop,-2.7191483974456787,53.47358112552575,L_MS
+CARR MILL ROAD/EAST LANCS ROAD,bus,bus_stop,-2.7193576097488403,53.474050474246006,L_MS
+CARR MILL ROAD/EAST LANCS ROAD,bus,bus_stop,-2.718890905380249,53.47739323640957,L_MS
+COOPERS LANE/EAST LANCS ROAD,bus,bus_stop,-2.851767539978028,53.46717894615024,L_MS
+COOPERS LANE/EAST LANCS ROAD,bus,bus_stop,-2.8522449731826782,53.46699692493805,L_MS
+Cafe@North Yorkshire Water Park,cafe,cafe,-0.4849004745483398,54.22625932409795,YY
+Camp Lion Yorkshire Wildlife Park,campsite,camp_site,-1.0426980257034302,53.49803781490543,YY
+Cancer support Yorkshire,shop,charity,-2.020336389541626,53.96022658931483,YY
+Chaddock Lane/East Lancs Road,bus,bus_stop,-2.43345558643341,53.504601246818055,L_GM
+Chaddock Lane/East Lancs Road,bus,bus_stop,-2.4328655004501343,53.50463953318201,L_GM
+Cowd Feet Club (Lancashire Ward No2 Conservative Club),bar,bar,-2.056535482406616,53.48463019638439,L_GM
+Created In Yorkshire,shop,gift,-1.4962810277938845,53.68170011887071,YY
+Cycle Works Yorkshire,bicycle,bicycle,-1.77129864692688,53.65670730949379,YY
+Cycle Works Yorkshire,bicycle,bicycle,-1.634318232536316,53.52657831114482,YY
+Data Yorkshire,office,taxi,-1.3141858577728271,53.6920914148761,YY
+Diggerland Yorkshire,theme_park,theme_park,-1.3836121559143066,53.71888537159965,YY
+Durham Lane/Yorkshire Way,bus,bus_stop,-1.040257215499878,53.53902904689355,YY
+Durham Lane/Yorkshire Way,bus,bus_stop,-1.0390233993530271,53.5388218302918,YY
+EAST LANCS RD/GILLMOSS,bus,bus_stop,-2.900841236114502,53.46102811279064,L_MS
+EAST LANCS RD/STONEBRIDGE LANE,bus,bus_stop,-2.911430597305298,53.45800346654806,L_MS
+EAST LANCS ROAD,bus,bus_stop,-2.9064685106277466,53.45941520787011,L_MS
+EAST LANCS ROAD,bus,bus_stop,-2.8702640533447266,53.46493396331563,L_MS
+EAST LANCS ROAD,bus,bus_stop,-2.9324162006378174,53.45163727166147,L_MS
+EAST LANCS ROAD,bus,bus_stop,-2.865913510322571,53.46485093180173,L_MS
+EAST LANCS ROAD/ SCARGREEN AVE,bus,bus_stop,-2.924230098724365,53.453605048451,L_MS
+EAST LANCS ROAD/LANDFORD AVE,bus,bus_stop,-2.928650379180908,53.452627560338144,L_MS
+EAST LANCS ROAD/LOWER HOUSE LANE,bus,bus_stop,-2.920812964439392,53.454071423740224,L_MS
+EAST LANCS ROAD/LOWER HOUSE LANE,bus,bus_stop,-2.921660542488098,53.45412572737936,L_MS
+EAST LANCS ROAD/M57,bus,bus_stop,-2.885938882827759,53.46385773456514,L_MS
+EAST LANCS ROAD/M57,bus,bus_stop,-2.880064845085144,53.464068511483774,L_MS
+EAST LANCS ROAD/MOORGAGE ROAD,bus,bus_stop,-2.875623106956482,53.46466570707012,L_MS
+EAST LANCS ROAD/NR FOOTBRIDGE,bus,bus_stop,-2.9059642553329468,53.45991345830658,L_MS
+EAST LANCS ROAD/NR SHOWCASE CINEMA,bus,bus_stop,-2.915984988212585,53.45669069664199,L_MS
+EAST LANCS ROAD/SCARGREEN AVE,bus,bus_stop,-2.9259413480758667,53.45293422569748,L_MS
+EAST LANCS ROAD/SCHOOL LANE,bus,bus_stop,-2.868558168411255,53.46476790012544,L_MS
+EAST LANCS ROAD/SHOWCASE CINEMA,bus,bus_stop,-2.9142415523529053,53.4575531048033,L_MS
+EAST LANCS ROAD/STONEBRIDGE LANE,bus,bus_stop,-2.909526228904724,53.45887862393814,L_MS
+EAST LANCS ROAD/STOPGATE LANE,bus,bus_stop,-2.9349589347839355,53.45087377527307,L_MS
+EAST LANCS ROAD/TOWNSEND AVENUE,bus,bus_stop,-2.929980754852295,53.45198227807943,L_MS
+EAST LANCS ROAD/WILLOW WAY,bus,bus_stop,-2.895171046257019,53.46201498875471,L_MS
+EAST LANCS ROAD/WILLOW WAY,bus,bus_stop,-2.897043228149414,53.46214912546438,L_MS
+EAST LANCS Road/Walkden Road,bus,bus_stop,-2.394225597381592,53.51104244102097,L_GM
+EAST LANCS Road/Walkden Road,bus,bus_stop,-2.3908191919326782,53.51237266971777,L_GM
+East Lancashire Club,sports_centre,sports_centre,-2.4981558322906494,53.75368440149868,LL
+East Lancashire Club Crown Green Bowls Club,pitch,bowls,-2.499116063117981,53.75366537097072,LL
+East Lancashire Club Crown Green Bowls Club,pitch,bowls,-2.4988049268722534,53.75399206050438,LL
+East Lancashire Hospice,shop,charity,-2.391698956489563,53.87088808616169,LL
+East Lancashire Hospice,shop,charity,-2.480265498161316,53.74807636621301,LL
+East Lancashire Paper Mill Cricket Club,sports_centre,sports_centre,-2.3140811920166016,53.564097956429706,L_GM
+East Lancashire Sailing Club,sailing,sailing,-2.432795763015747,53.76349666191958,LL
+East Lancs Road (alighting Only),bus,bus_stop,-2.9028958082199097,53.46080135164203,L_MS
+East Lancs Road/Barton Road,bus,bus_stop,-2.328559756278992,53.50222104329565,L_GM
+East Lancs Road/Barton Road,bus,bus_stop,-2.3264676332473755,53.50246034593909,L_GM
+East Lancs Road/Eccles Road,bus,bus_stop,-2.335367202758789,53.50304742936878,L_GM
+East Lancs Road/Eccles Road,bus,bus_stop,-2.3358768224716187,53.50282089270436,L_GM
+East Lancs Road/Homebase,bus,bus_stop,-2.3600059747695923,53.51052884035138,L_GM
+East Lancs Road/Lancaster Road,bus,bus_stop,-2.323554754257202,53.50258797346324,L_GM
+East Lancs Road/Moorside High School,bus,bus_stop,-2.349974513053894,53.5068090373058,L_GM
+East Lancs Road/Moorside High School,bus,bus_stop,-2.350752353668213,53.506710135857,L_GM
+East Lancs Road/Moorside Road,bus,bus_stop,-2.354781031608581,53.50826062879412,L_GM
+East Lancs Road/Moorside Road,bus,bus_stop,-2.3577314615249634,53.509096467711565,L_GM
+East Lancs Road/New Ellesmere,bus,bus_stop,-2.3477858304977417,53.50586148813327,L_GM
+East Lancs Road/New Ellesmere,bus,bus_stop,-2.3461121320724487,53.50572110867656,L_GM
+East Lancs Road/Old Clough Lane,bus,bus_stop,-2.379194498062134,53.51346042761896,L_GM
+East Lancs Road/Old Clough Lane,bus,bus_stop,-2.380857467651367,53.51360716115161,L_GM
+East Lancs Road/gilmoss Lane (alighting Only),bus,bus_stop,-2.9020535945892334,53.461238903758094,L_MS
+East Riding of Yorkshire Council,town_hall,townhall,-0.4290944337844848,53.8411304560813,YY
+East Yorkshire Motor Services Depot,bus,bus_stop,-0.3642761707305908,53.74343204185435,YY
+Elite Training Systems Yorkshire,office,company,-1.516038179397583,53.68877511964874,YY
+Forest of Bowland - Keeping Lancashire on Tap,information,board,-2.529580593109131,53.974912666629166,T_YL
+Great North Road/Yorkshire Caravans,bus,bus_stop,-1.026948094367981,53.452582838121565,YY
+Great North Road/Yorkshire Caravans,bus,bus_stop,-1.0269802808761597,53.45197908358841,Not>Yorksh
+Great Yorkshire Showground,attraction,attraction,-1.5040218830108645,53.98422841608768,YY
+Greater Lancashire Hospital,hospital,hospital,-2.7111607789993286,53.80378089754339,LL
+Greater Lancashire Hospital,hospital,hospital,-2.6478660106658936,53.78647704381975,LL
+Groundwork Yorkshire,office,association,-1.6015362739562988,53.74453923955005,YY
+Hull & East Yorkshire Credit Union,bank,bank,-0.3450340032577514,53.746023917317096,YY
+Hull and East Yorkshire Eye Hospital,hospital,hospital,-0.3541105985641479,53.74395867820727,YY
+ITV Yorkshire,parking,parking,-1.5697520971298218,53.804142044571066,YY
+Iport Avenue/Great Yorkshire Way/LBA2,bus,bus_stop,-1.0970771312713623,53.48444505796564,YY
+JR's Yorkshire Fish & Chips,fast_food,fast_food,-1.4216244220733645,53.69950448647856,YY
+Jubilee Outreach Yorkshire,shop,charity,-1.7774248123168943,53.83424569466533,YY
+Kings Own Yorkshire Light Infantry Museum,museum,museum,-1.1299717426300049,53.52090491834783,YY
+Kirkstall Road Yorkshire TV,bus,bus_stop,-1.5715545415878296,53.802668925319246,YY
+Kitsons Yorkshire Butcher,butcher,butcher,-1.434048414230347,54.33853371613597,YY
+LIVERPOOL RD/EAST LANCASHIRE RD,bus,bus_stop,-2.687830924987793,53.473261837715306,L_MS
+LOWER HOUSE LANE/EAST LANCS ROAD,bus,bus_stop,-2.91961133480072,53.45371365685254,L_MS
+LOWER HOUSE LANE/EAST LANCS ROAD,bus,bus_stop,-2.9192090034484863,53.45380309885702,L_MS
+LOWER LANE/EAST LANCS,bus,bus_stop,-2.9210060834884644,53.45620199090907,L_MS
+LOWER LANE/EAST LANCS,bus,bus_stop,-2.920984625816345,53.45589854334263,L_MS
+Lancashire & Williams,car,car,-2.1578210592269897,53.44320610499916,L_GM
+Lancashire & Williams Car Sales,car,car,-2.1578317880630493,53.443199714696746,L_GM
+Lancashire Bottle Shop,alcohol_shop,alcohol,-2.6276421546936035,53.65157279558779,LL
+Lancashire Boys and Girls Clubs,shop,charity,-2.804614305496216,54.04835363675116,LL
+Lancashire Cargo & Travel,shop,travel_agency,-2.447403073310852,53.58485954530058,L_GM
+Lancashire College,bus,bus_stop,-2.6500385999679565,53.65564866523297,LL
+Lancashire College,bus,bus_stop,-2.6485687494277954,53.65562959031778,LL
+Lancashire Community Finance,bank,bank,-2.7037954330444336,53.75899358204066,LL
+Lancashire Constabulary Headquarters,police,police,-2.7568602561950684,53.73000693177711,LL
+Lancashire Constabulary Headquarters Crown Green Bowls Club,pitch,bowls,-2.756903171539306,53.72963879934927,LL
+Lancashire County Council,fuel,charging_station,-2.769772410392761,54.12892053220026,LL
+Lancashire County Council,office,government,-2.3667222261428837,53.75468349210868,LL
+Lancashire County Council,fuel,charging_station,-2.7701371908187866,54.128722500509205,LL
+Lancashire County Council,fuel,charging_station,-2.7697187662124634,54.12897082581235,LL
+Lancashire County Council Cuerden Mill Depot Staff Parking,parking,parking,-2.6693183183670044,53.72336735870361,LL
+Lancashire County Council Staff,parking,parking,-2.710055708885193,53.75819122205677,LL
+Lancashire County Council Staff,parking,parking,-2.7096962928771973,53.75891112678065,LL
+Lancashire County Council Visitors,parking,parking,-2.7092456817626958,53.75837199224464,LL
+Lancashire County Cricket Club,cricket,cricket,-2.2868192195892334,53.45635211679807,L_GM
+Lancashire Dialect Poets Monument,monument,monument,-2.161468863487244,53.6147258516001,L_GM
+Lancashire Drive,bus,bus_stop,-2.653096318244934,53.6829392035153,LL
+Lancashire Drive,bus,bus_stop,-2.652849555015564,53.68288519289327,LL
+Lancashire Eccles Cakes,bakery,bakery,-2.218583822250366,53.46983253518449,L_GM
+Lancashire Fire & Rescue Service Headquarters,fire_station,fire_station,-2.7164822816848755,53.79835381369351,LL
+Lancashire Floristry,shop,florist,-2.4063116312026978,53.580611225027376,L_GM
+Lancashire Fold,beer,pub,-2.1929365396499634,53.54351742835293,L_GM
+Lancashire Football Club,sports_centre,sports_centre,-2.6938873529434204,53.69315867272036,LL
+Lancashire Hill Service Station,fuel,fuel,-2.159484028816223,53.42069989325807,L_GM
+"Lancashire Hill, Lancashire Hill / near The Bentleys",bus,bus_stop,-2.1603208780288696,53.41805282457244,L_GM
+"Lancashire Hill, Lancashire Hill / opposite Gordon Street",bus,bus_stop,-2.15955913066864,53.41599707664176,L_GM
+"Lancashire Hill, Lancashire Hill / outside Gordon Street",bus,bus_stop,-2.15981662273407,53.41603224579335,L_GM
+"Lancashire Hill, Manchester Road / at Retail Park",bus,bus_stop,-2.163110375404358,53.42024274220167,L_GM
+"Lancashire Hill, Manchester Road / opposite Retail Park",bus,bus_stop,-2.1622949838638306,53.41947228769109,L_GM
+"Lancashire Hill, Sandy Lane / near Bankfield Street",bus,bus_stop,-2.160176038742065,53.419932643932086,L_GM
+"Lancashire Hill, Sandy Lane / near Jersey Road",bus,bus_stop,-2.158888578414917,53.42072546799717,L_GM
+Lancashire Hospitals Services Pharmacy,pharmacy,pharmacy,-2.731545567512512,54.30632423125667,W_CU
+Lancashire Infantry Museum,museum,museum,-2.686243057250977,53.77827098248991,LL
+Lancashire Jackets,fast_food,fast_food,-3.050256371498108,53.81849670308093,LL
+Lancashire Law,office,lawyer,-2.0957010984420776,53.71366954027776,YY
+Lancashire Law,office,lawyer,-2.093710899353028,53.57681476351619,L_GM
+Lancashire Light Services,car,car_repair,-2.098554968833924,53.547600549479625,L_GM
+Lancashire Mind,office,ngo,-2.6360857486724854,53.649601484813424,LL
+Lancashire Mining Museum,museum,museum,-2.447226047515869,53.49515622073044,L_GM
+Lancashire Oral Surgery Clinic,dentist,dentist,-3.047531247138977,53.81891155943119,LL
+Lancashire Police Museum,museum,museum,-2.805418968200684,54.05024956968535,LL
+Lancashire Windscreens,car,car_repair,-2.4959778785705566,53.74395550571888,LL
+Lancashire Witches Walk Waymarker,art_gallery,artwork,-2.804329991340637,54.04953466825693,LL
+Lancashire Young People's & Community Services,town_hall,community_centre,-2.2445422410964966,53.786179130695416,LL
+Lancastrian Antiques,shop,antiques,-2.799963355064392,54.04672218335524,LL
+Lancastrian Estates,office,estate_agent,-2.7424299716949463,54.31366627044234,W_CU
+Lancastrian Estates,office,estate_agent,-2.8045767545700078,54.055190556461774,LL
+Lancs Transmissions Ltd,car,car_repair,-2.357023358345032,53.57809515189282,L_GM
+Life Church Lancashire,place_of_worship,christian,-2.275092601776123,53.79063176063202,LL
+Little Yorkshire,cafe,cafe,-1.471545696258545,53.41615054181707,YY
+Little Yorkshire Coffee Co.,fast_food,fast_food,-1.0953551530838013,53.941459127861336,YY
+Mid Lancs BMX,bmx,bmx,-2.6792800426483154,53.61372025268974,LL
+Mid Yorkshire Golf Club,golf,golf_course,-1.2472164630889893,53.67896129475564,YY
+Mid Yorkshire Skin Care,shop,beauty,-1.3584744930267334,53.67716602919175,YY
+Mosley Common Road/East Lancs Road,bus,bus_stop,-2.4239927530288696,53.506639947592056,L_GM
+Mosley Common Road/East Lancs Road,bus,bus_stop,-2.424185872077942,53.50671970697504,L_GM
+Museum of Lancashire,museum,museum,-2.6880884170532227,53.76134666007333,LL
+Newearth Road/East Lancs Road,bus,bus_stop,-2.4092352390289307,53.50890505567422,L_GM
+Newearth Road/East Lancs Road,bus,bus_stop,-2.4090367555618286,53.508688120986825,L_GM
+Newton-le-Willows CC (Yorks),pitch,cricket,-1.672335863113403,54.298874447252125,YY
+North Lancs Training Group,college,college,-3.0118149518966675,53.92150806279624,LL
+North West Ambulance Service Lancashire Office,office,government,-2.722468972206116,53.80351478721671,LL
+North Yorkshire Classic,car,car,-1.188122034072876,54.57130289687853,YY
+North Yorkshire Council,office,government,-1.733865737915039,54.40393245418052,YY
+North Yorkshire Council film-date-area;lack-view-pair,fuel,charging_station,-1.0646867752075195,54.24650954118763,YY
+North Yorkshire Council lack-room-skin;help-pair-rock,fuel,charging_station,-1.0645955801010132,54.246528347731285,YY
+North Yorkshire County Archive,office,government,-1.440330147743225,54.335237274389456,YY
+North Yorkshire County Council,office,government,-0.399901270866394,54.28424641243191,YY
+North Yorkshire Cycles,bicycle,bicycle,-1.4160990715026855,54.23163715051215,YY
+North Yorkshire Dental Care,dentist,dentist,-1.0773682594299316,53.96446191095773,YY
+North Yorkshire Dental Care Service,dentist,dentist,-1.4313393831253052,54.34182989359352,YY
+North Yorkshire Moors Caravan Club Site,campsite,caravan_site,-0.6249010562896729,54.42316848805927,YY
+North Yorkshire Motors,car,car_repair,-1.0931235551834106,53.98889970250463,YY
+North Yorkshire Off Road Centre,sports_centre,sports_centre,-0.528293251991272,54.44320656565749,YY
+North Yorkshire Orthopaedic Centre,hospital,clinic,-1.1097532510757446,53.97709904211391,YY
+ORMSKIRK ROAD/EAST LANCS RD,bus,bus_stop,-2.850882411003113,53.46438148134144,L_MS
+ORMSKIRK ROAD/EAST LANCS RD,bus,bus_stop,-2.8506141901016235,53.46399825262717,L_MS
+Old Yorkshire Bank Clinic,hospital,clinic,-2.1879422664642334,53.91629843421016,T_YL
+Oldham - Yorkshire Street,office,taxi,-2.11061954498291,53.54202879207588,L_GM
+Oldham - Yorkshire Street,office,taxi,-2.10887610912323,53.54229974690136,L_GM
+"Oldham Mumps, Yorkshire Street / near Scholes Street",bus,bus_stop,-2.106349468231201,53.54222324218517,L_GM
+"Oldham Mumps, Yorkshire Street / near Wright Street",bus,bus_stop,-2.105780839920044,53.542204115984525,L_GM
+"Oldham Mumps, Yorkshire Street / outside Fairbottom Street",bus,bus_stop,-2.108479142189026,53.54230930998117,L_GM
+"Oldham, Yorkshire Street / St Marys Way (Stop YC)",bus,bus_stop,-2.1102601289749146,53.542188177477385,L_GM
+"Oldham, Yorkshire Street / St Marys Way (Stop YZ)",bus,bus_stop,-2.10988998413086,53.54224555607502,L_GM
+"Oldham, Yorkshire Street / near St. Mary's Way",bus,bus_stop,-2.108945846557617,53.5423156853665,L_GM
+PARTHENON DRIVE/EAST LANCS ROAD,bus,bus_stop,-2.935624122619629,53.449548006259285,L_MS
+PARTHENON DRIVE/EAST LANCS ROAD,bus,bus_stop,-2.9337894916534424,53.44713276405878,L_MS
+Pit-Tub - Lancashire Mining,monument,monument,-2.661067843437195,53.58501876939275,L_GM
+Raw Feeding Lancs Ltd,shop,pet,-2.204856276512146,53.78809968242028,LL
+Richmond (Yorks) Golf Club,restaurant,restaurant,-1.7335116863250732,54.414722227257855,YY
+Richmond (Yorks) Golf Club,golf,golf_course,-1.7349064350128174,54.41590218644735,YY
+Rochdale - Yorkshire Street,office,taxi,-2.1557021141052246,53.61923484082089,L_GM
+STONEBRIDGE LANE/EAST LANCS ROAD,bus,bus_stop,-2.91013777256012,53.45780543573097,L_MS
+STOPGATE LANE/EAST LANCS ROAD,bus,bus_stop,-2.9369384050369263,53.45133379147694,L_MS
+South Yorkshire Air Museum,museum,museum,-1.1096566915512085,53.513964423280456,YY
+South Yorkshire Aquatics,shop,pet,-1.02572500705719,53.41930924366055,Not>Nottin
+South Yorkshire Boat Club,harbor,marina,-1.1154556274414062,53.68056267061815,YY
+South Yorkshire Credit Union,bank,bank,-1.4801019430160522,53.550717608654274,YY
+South Yorkshire Passenger Transport Executive,office,government,-1.4615517854690552,53.383773116940645,YY
+South Yorkshire Pensions Authority,office,government,-1.4659398794174194,53.55138688589828,YY
+South Yorkshire Police,parking,parking,-1.478261947631836,53.384649803531,YY
+South Yorkshire Police,police,police,-1.3615429401397705,53.42986105919161,YY
+South Yorkshire Police,police,police,-1.425803303718567,53.3979034887756,YY
+South Yorkshire Police,parking,parking,-1.478562355041504,53.384656202636826,YY
+South Yorkshire Police,police,police,-1.2828683853149414,53.31710812696248,YY
+South Yorkshire Police Command Centre,police,police,-1.3995927572250366,53.39600670217312,YY
+South Yorkshire Police Mexborough,police,police,-1.2803685665130615,53.49374247668113,YY
+South Yorkshire Sustainability Centre,office,research,-1.4774411916732788,53.38190129865945,YY
+South Yorkshire Transport Museum,museum,museum,-1.3377785682678225,53.44517746740514,YY
+South Yorkshire Transport Trust,museum,museum,-1.3391518592834473,53.44179062954255,YY
+Spirit of Yorkshire,art_gallery,artwork,-0.9840488433837892,54.128266709687374,YY
+Stacey moore Yorkshire pencil Artist,art_gallery,gallery,-1.738312840461731,54.40345783879432,YY
+Swinton (South Yorkshire),railway,station,-1.3056188821792605,53.48559737188378,YY
+TOWNSEND AVENUE/EAST LANCS ROAD,bus,bus_stop,-2.929401397705078,53.45080988373958,L_MS
+TOWNSEND AVENUE/EAST LANCS ROAD,bus,bus_stop,-2.9296696186065674,53.45125392791008,L_MS
+Talbot Road/Lancashire Cricket Ground,bus,bus_stop,-2.288181781768799,53.45758185144037,L_GM
+The Church of Our Lady & The Lancashire Martyrs,place_of_worship,christian,-2.4348020553588867,53.53019434373537,L_GM
+The Great Yorkshire Shop,shop,gift,-1.5398722887039185,53.79580319017969,YY
+The Great Yorkshire Sweet Shop,shop,confectionery,-1.0807102918624878,53.96028339975485,YY
+The Lancashire Bread House,bakery,bakery,-2.8409206867218018,53.60419451571221,LL
+The Lancastrian Hotel,bus,bus_stop,-3.0971628427505493,54.1781884092465,L_CU
+The Mid Yorkshire Hospitals NHS Trust HQ,office,company,-1.486126184463501,53.69305385395168,YY
+The Mount. Lancashire Care NHS,hospital,hospital,-2.3688197135925293,53.75962150524856,LL
+"The Sessions House, The Crown Court and Designated Family Centre for Lancashire",town_hall,courthouse,-2.6986563205718994,53.75958344956382,LL
+The West Lancashire Golf Club,golf,golf,-3.052101731300354,53.49788783642951,L_MS
+The West Lancashire Golf Club,golf,golf_course,-3.0560392141342163,53.50416733227649,L_MS
+The Wildlife of the Yorkshire Wolds Dew Ponds,information,board,-0.7110214233398438,54.0231849657184,YY
+The Yorkshire,lodging,hotel,-1.5413635969161987,53.992217543134856,YY
+The Yorkshire Arboretum,garden,garden,-0.928494930267334,54.11892346486219,YY
+The Yorkshire Chocolate Co.,shop,chocolate,-2.01350212097168,53.74139840217923,YY
+The Yorkshire Coble,beer,pub,-1.066805720329285,54.60597369120714,YY
+The Yorkshire Coffee Roasters,cafe,cafe,-1.4377820491790771,53.5009415489094,YY
+The Yorkshire Deli,grocery,deli,-0.6150788068771362,54.48877523028078,YY
+The Yorkshire Fleabag,shop,second_hand,-1.7870968580245972,53.83390063545821,YY
+The Yorkshire Grey,beer,pub,-1.130459904670715,53.52261754025273,YY
+The Yorkshire Lass,beer,pub,-1.039280891418457,54.58275429857121,YY
+The Yorkshire Linen Co.,shop,interior_decoration,-1.8318414688110352,54.852396149054606,DD
+The Yorkshire Meat Company,butcher,butcher,-1.3125604391098022,53.91076584894246,YY
+The Yorkshire Rose,beer,pub,-1.7760944366455078,53.65492699159439,YY
+The Yorkshire Soap Co.,shop,cosmetics,-1.0847657918930054,53.96086728034615,YY
+The Yorkshire Soap Co.,shop,chemist,-1.824283003807068,53.92463542323605,YY
+The Yorkshire Soap Company,shop,beauty,-1.5385258197784424,53.99218915968781,YY
+The Yorkshire Store,shop,gift,-1.1924511194229126,54.46956376270783,YY
+The Yorkshire Tap,beer,pub,-1.9061493873596191,53.86820586312006,YY
+The Yorkshire Wrap Company,fast_food,fast_food,-1.5379947423934937,53.79711495879001,YY
+Triumph West Yorkshire,shop,motorcycle,-1.7799514532089231,53.83473320466276,YY
+USAR Base (Lancashire),fire_station,fire_station,-2.656293511390686,53.662667648025625,LL
+Union Street/Yorkshire Street,bus,bus_stop,-2.155095934867859,53.61925393220015,L_GM
+University of Lancashire,college,university,-2.708655595779419,53.76439087806056,LL
+University of Lancashire Burnley Campus,college,university,-2.2532325983047485,53.78930394393255,LL
+University of Lancashire Pre-School Centre,school,kindergarten,-2.7097713947296143,53.76091537801115,LL
+University of Lancashire Westlakes Campus,college,university,-3.551464676856994,54.52018479002436,U_CU
+Utterly Yorkshire,shop,gift,-1.6568595170974731,53.572664382404746,YY
+VL Lancs,office,educational_institution,-2.699155211448669,53.761467164563705,LL
+Van Bodies (Lancs),car,car_repair,-2.8357601165771484,54.05826066331434,LL
+WILLOW WAY/E.LANCS RD/CROXTETH TERMINUS,bus,bus_stop,-2.895793318748474,53.4619319515316,L_MS
+Warrington Road/East Lancs Road,bus,bus_stop,-2.5006502866744995,53.48128481207609,L_GM
+Warrington Road/East Lancs Road,bus,bus_stop,-2.500451803207397,53.48102304377852,L_GM
+"West Ayton in the Borough of Scarborough, North Yorkshire",information,board,-0.4858821630477905,54.24920505832246,YY
+West Lancashire Borough Council,office,government,-2.880343794822693,53.56775857166309,LL
+West Lancashire Borough Council Customer Service Point,office,government,-2.773425579071045,53.55051044926689,LL
+West Lancashire College,college,college,-2.780367136001587,53.55300904253604,LL
+West Lancashire Community High School,school,school,-2.804480195045471,53.5540989438955,LL
+West Lancashire Light Railway,attraction,attraction,-2.8384369611740112,53.70031431879515,LL
+West Lancashire Registry Office,office,government,-2.8802579641342163,53.56808033383239,LL
+West Lancs Butchers + Diner,butcher,butcher,-2.8056979179382324,53.55084190379994,LL
+West Lancs Youth Zone,town_hall,community_centre,-2.7759093046188354,53.54991127486894,LL
+West Yorkshire Accountancy Services Ltd,office,accountant,-1.7844092845916748,53.64722307107759,YY
+West Yorkshire Combined Authority,office,government,-1.5501290559768677,53.79635768674808,YY
+West Yorkshire Fire and Rescue Service,fire_station,fire_station,-1.6959500312805176,53.74696291719849,YY
+West Yorkshire History Centre,museum,museum,-1.4916086196899414,53.67962536475428,YY
+West Yorkshire Jewellers,shop,jewelry,-1.4498251676559448,53.80743657557544,YY
+West Yorkshire Police,police,police,-1.5230923891067505,53.65717780952054,YY
+West Yorkshire Police - Wakefield Divisional HQ,police,police,-1.38752281665802,53.69908527304095,YY
+West Yorkshire Police Bishopgarth House,police,police,-1.5358972549438477,53.712564704200055,YY
+West Yorkshire Police Carr Gate Complex,police,police,-1.540532112121582,53.71111059410329,YY
+West Yorkshire Police Data Centre,police,police,-1.7257976531982422,53.77565890594755,YY
+West Yorkshire Police Force HQ,police,police,-1.5015435218811035,53.685976395258535,YY
+West Yorkshire Police Learning & Development Centre,police,police,-1.5390032529830933,53.71268534863129,YY
+West Yorkshire Police Leeds District Headquarters,police,police,-1.575191617012024,53.77517387869415,YY
+West Yorkshire Police Occupational Health,hospital,clinic,-1.503925323486328,53.691074953679696,YY
+West Yorkshire Police Staff Mutilstorey Car Park,parking,parking,-1.5761840343475342,53.77474907897919,YY
+West Yorkshire Police and Crime Commissioner,office,government,-1.5007925033569336,53.68035614738896,YY
+West Yorkshire Probation Board,office,government,-1.5599995851516724,53.79011204740701,YY
+West Yorkshire Probation Service,office,government,-1.5111511945724487,53.679012133020336,YY
+West Yorkshire Sports & Social Club,beer,pub,-1.477484107017517,53.65943168613676,YY
+Woodlesford Detatchment Yorkshire ACF,stadium,soccer,-1.4497876167297363,53.75443292875966,YY
+Worsley Road/East Lancs Road,bus,bus_stop,-2.342813014984131,53.50513087178322,L_GM
+Yorks of Thirsk Tea Room,cafe,cafe,-1.3428211212158203,54.23278474753472,YY
+Yorkshire 20220826,bus,bus_stop,-1.5502846240997314,53.79627213632723,YY
+Yorkshire Accommodation Bureau,office,estate_agent,-1.3572406768798828,53.429030050892514,YY
+Yorkshire Accountants Ripon,office,accountant,-1.5260696411132812,54.13341213966353,YY
+Yorkshire Air Ambulance,shop,charity,-1.8341535329818728,53.68247852245606,YY
+Yorkshire Air Museum,bus,bus_stop,-0.9630900621414183,53.928128944802125,YY
+Yorkshire Air Museum,attraction,attraction,-0.9668880701065063,53.9254251236695,YY
+Yorkshire Air Museum,bus,bus_stop,-0.962950587272644,53.92815421333241,YY
+Yorkshire Amateur FC,beer,pub,-1.5221858024597168,53.82324988741287,YY
+Yorkshire Ambulance Service,fuel,fuel,-1.7845702171325684,53.7916299722414,YY
+Yorkshire Ambulance Service,office,company,-1.1765563488006592,54.08218712284502,YY
+Yorkshire Artspace- Exchange Place Studios,art_gallery,arts_centre,-1.46193265914917,53.38481617996997,YY
+Yorkshire Bank,atm,atm,-1.5446358919143677,53.77794131189063,YY
+Yorkshire Bank,atm,atm,-1.533418893814087,53.84243131143128,YY
+Yorkshire Bank,atm,atm,-1.5739041566848757,53.790530353679095,YY
+Yorkshire Bank,atm,atm,-1.5444159507751465,53.58198703966016,YY
+Yorkshire Bank,atm,atm,-3.0494463443756104,53.81211816559966,LL
+Yorkshire Bank,atm,atm,-1.5423399209976196,53.80149356079608,YY
+Yorkshire Bank,atm,atm,-1.5433913469314575,53.79824292024462,YY
+Yorkshire Bank,atm,atm,-1.726398468017578,53.87947763349378,YY
+Yorkshire Bank,atm,atm,-2.220885157585144,53.83307754697205,LL
+Yorkshire Bank,atm,atm,-1.7786478996276855,53.64565858676361,YY
+Yorkshire Bank,atm,atm,-1.059708595275879,53.95410954571111,YY
+Yorkshire Bank,atm,atm,-1.239234209060669,54.57508411190901,YY
+Yorkshire Bank,atm,atm,-1.7247354984283447,53.87771306195148,YY
+Yorkshire Bank,atm,atm,-1.478213667869568,53.34486078009497,Der>Yorksh
+Yorkshire Bank,atm,atm,-1.1420631408691406,54.55975495993523,YY
+Yorkshire Bank,atm,atm,-1.8618232011795044,53.7238974204918,YY
+Yorkshire Bank,atm,atm,-0.6362307071685791,54.48633222197461,YY
+Yorkshire Bank ATM,atm,atm,-1.544255018234253,53.8018642318709,YY
+Yorkshire Bank ATM,atm,atm,-1.5442496538162231,53.801876904328346,YY
+Yorkshire Bank ATM,atm,atm,-1.5442442893981934,53.80188957678197,YY
+Yorkshire Bar and Grill,restaurant,restaurant,-1.0778027772903442,53.96307648424753,YY
+Yorkshire Barber,hairdresser,hairdresser,-1.49913489818573,53.68278987986188,YY
+Yorkshire Battery Specialists,car,car_parts,-1.4682143926620483,53.37149440860061,YY
+Yorkshire Beauty School,shop,beauty,-1.7786800861358645,53.82467478765663,YY
+Yorkshire Beers Limited,office,company,-1.6366195678710938,53.69101460052433,YY
+Yorkshire Bicycle Company,bicycle,bicycle,-1.9969207048416135,54.07330877623679,YY
+Yorkshire Bike Shack,bicycle,bicycle,-1.1461830139160156,53.49497751076684,YY
+Yorkshire Building Society,atm,atm,-1.5423506498336792,53.79610737206208,YY
+Yorkshire Building Society,bank,bank,-1.5422219038009644,53.79621193407464,YY
+Yorkshire Building Society,bank,bank,-1.3118255138397217,53.69070648043552,YY
+Yorkshire Building Society,bank,bank,-0.3410321474075317,53.744212476502405,YY
+Yorkshire Building Society,bank,bank,-1.312544345855713,54.564834215831695,DD
+Yorkshire Building Society,bank,bank,-1.495771408081055,53.68258972179381,YY
+Yorkshire Building Society,bank,bank,-0.4039835929870605,54.281139791088194,YY
+Yorkshire Building Society,bank,bank,-1.5243637561798096,54.136234468179474,YY
+Yorkshire Building Society,bank,bank,-1.0823678970336914,53.95918820707731,YY
+Yorkshire Building Society,bank,bank,-0.4330372810363769,53.843577043495245,YY
+Yorkshire Building Society,bank,bank,-1.4339679479599,54.33706692602196,YY
+Yorkshire Building Society,bank,bank,-1.470794677734375,53.38103735477535,YY
+Yorkshire Building Society,bank,bank,-0.796283483505249,54.1349019005048,YY
+Yorkshire Building Society,bank,bank,-1.4799946546554563,53.55203384383922,YY
+Yorkshire Building Society,bank,bank,-1.4783960580825806,53.74859342794431,YY
+Yorkshire Building Society,bank,bank,-0.616334080696106,54.48641947478476,YY
+Yorkshire Building Society,bank,bank,-1.5016669034957886,53.58609829291756,YY
+Yorkshire Building Society,bank,bank,-1.1354166269302368,53.522132782790926,YY
+Yorkshire Building Society,bank,bank,-1.353169083595276,53.725687519899786,YY
+Yorkshire Building Society,atm,atm,-1.782848238945007,53.64574762401386,YY
+Yorkshire Building Society,bank,bank,-2.4281179904937744,53.57934683737325,L_GM
+Yorkshire Building Society,bank,bank,-2.8790295124053955,54.06581373464828,LL
+Yorkshire Building Society,bank,bank,-1.6637098789215088,53.79688049108362,YY
+Yorkshire Building Society,bank,bank,-2.2321397066116333,53.32643897976989,CC
+Yorkshire Building Society,bank,bank,-2.187507748603821,53.91699666957732,T_YL
+Yorkshire Building Society,bank,bank,-1.713915467262268,53.72371650194988,YY
+Yorkshire Building Society,bank,bank,-2.522757053375244,53.067536389096986,CC
+Yorkshire Building Society,bank,bank,-2.1584540605545044,53.411178627933694,C_GM
+Yorkshire Building Society,bank,bank,-2.017638087272644,53.95969004245183,YY
+Yorkshire Building Society,bank,bank,-2.891598343849182,53.18978795720613,CC
+Yorkshire Building Society,bank,bank,-2.1146857738494877,53.5420638569157,L_GM
+Yorkshire Building Society,atm,atm,-2.891603708267212,53.18981367062671,CC
+Yorkshire Building Society,bank,bank,-2.891474962234497,53.18853440925366,CC
+Yorkshire Building Society,bank,bank,-2.6315367221832275,53.546140743449136,L_GM
+Yorkshire Building Society,bank,bank,-2.093716263771057,53.48808064559677,L_GM
+Yorkshire Building Society,atm,atm,-2.093700170516968,53.48816043989903,L_GM
+Yorkshire Building Society,bank,bank,-2.593722939491272,53.3887354368604,L_CH
+Yorkshire Building Society,bank,bank,-2.775716185569763,53.90150004996875,LL
+Yorkshire Building Society,bank,bank,-1.8604660034179688,53.722980123712745,YY
+Yorkshire Building Society,bank,bank,-2.799668312072754,54.04929531525056,LL
+Yorkshire Building Society,atm,atm,-2.799711227416992,54.04929216585971,LL
+Yorkshire Building Society,bank,bank,-1.7378300428390503,54.4035452683571,YY
+Yorkshire Building Society,bank,bank,-1.7377334833145142,53.64516569858481,YY
+Yorkshire Building Society,bank,bank,-1.908547282218933,53.86574489870842,YY
+Yorkshire Building Society,bank,bank,-2.484063506126404,53.7485426737002,LL
+Yorkshire Building Society,bank,bank,-1.540934443473816,53.99386690355056,YY
+Yorkshire Building Society,bank,bank,-2.7371996641159058,53.45268506026169,L_MS
+Yorkshire Building Society,bank,bank,-1.8285691738128664,54.31044607435669,YY
+Yorkshire Building Society,bank,bank,-2.295166254043579,53.594306864679005,L_GM
+Yorkshire Building Society,bank,bank,-2.745911478996277,54.32780523700213,W_CU
+Yorkshire Building Society,bank,bank,-3.0530887842178345,53.81831619178364,LL
+Yorkshire Building Society,bank,bank,-1.5805184841156006,53.67868486061733,YY
+Yorkshire Building Society,bank,bank,-3.0460667610168457,53.420108473125445,C_MS
+Yorkshire Building Society,bank,bank,-1.629855036735535,53.6905063599947,YY
+Yorkshire Building Society,bank,bank,-2.6049935817718506,53.83226393976403,LL
+Yorkshire Building Society,bank,bank,-1.822459101676941,53.92462594674013,YY
+Yorkshire Building Society,bank,bank,-1.7829877138137815,53.6458080420409,YY
+Yorkshire Building Society,bank,bank,-2.7041280269622803,53.75756010600254,LL
+Yorkshire Building Society,bank,bank,-3.0035269260406494,53.6482819269152,L_MS
+Yorkshire Building Society,bank,bank,-2.986741662025452,53.40522435605679,L_MS
+Yorkshire Building Society,bank,bank,-1.79152250289917,53.604127672011074,YY
+Yorkshire Building Society,bank,bank,-1.779409646987915,53.70161954514372,YY
+Yorkshire Burrito,fast_food,fast_food,-1.0842347145080566,53.95915033246427,YY
+Yorkshire Cancer Research,shop,charity,-1.8260961771011357,53.92469228216636,YY
+Yorkshire Cancer Research,shop,charity,-1.2605470418930054,53.88431875469078,YY
+Yorkshire Cancer Research,shop,charity,-1.4334261417388916,54.33808961889565,YY
+Yorkshire Cancer Research,shop,charity,-0.77828049659729,54.24594534089117,YY
+Yorkshire Cancer Research,shop,charity,-2.0152240991592407,53.96122076083815,YY
+Yorkshire Cancer Research,shop,charity,-2.0176327228546143,53.960056157530246,YY
+Yorkshire Cancer Research,shop,charity,-1.069520115852356,53.783031897949776,YY
+Yorkshire Cancer Research,shop,charity,-1.5416693687438965,53.99380383169594,YY
+Yorkshire Cancer Research,shop,charity,-1.5218102931976318,54.13643246396354,YY
+Yorkshire Cancer Research,shop,charity,-1.466374397277832,54.00773408400973,YY
+Yorkshire Cancer Research,shop,charity,-1.857413649559021,53.72287855328876,YY
+Yorkshire Cancer Research Shop,shop,charity,-1.0698312520980835,53.95911245781682,YY
+Yorkshire Carpets Ltd,shop,carpet,-1.778438687324524,53.66281386440527,YY
+Yorkshire Cat Rescue,shop,charity,-1.8601709604263303,53.72162159898936,YY
+Yorkshire Children's Centre,town_hall,community_centre,-1.633250713348389,53.714406081542656,YY
+Yorkshire Children's Trust,shop,charity,-1.860830783843994,53.720469357877626,YY
+Yorkshire Classic Porsche Specialist,car,car_repair,-1.4118075370788574,53.90808618382896,YY
+Yorkshire Clinic,hospital,hospital,-1.818135380744934,53.832232281576566,YY
+Yorkshire Coast College,bus,bus_stop,-0.4335200786590576,54.284835140878144,YY
+Yorkshire Coast Locksmiths,shop,hardware,-0.2889811992645263,54.20861576272247,YY
+Yorkshire Contemporary,art_gallery,arts_centre,-1.550268530845642,53.79780884878148,YY
+Yorkshire Corner,shop,convenience,-1.6117554903030396,53.88262078972457,YY
+Yorkshire Cottages,office,estate_agent,-1.828773021697998,54.30952910168448,YY
+Yorkshire Craft Beers,alcohol_shop,alcohol,-1.3532495498657229,53.728004379387805,YY
+Yorkshire Craft Shop,parking,parking,-1.924581527709961,54.013603699421466,YY
+Yorkshire Cricket Centre,sports_centre,sports_centre,-1.5794241428375244,53.81688157435444,YY
+Yorkshire Cricket Museum,museum,museum,-1.5805989503860474,53.81764480960826,YY
+Yorkshire Crust,cafe,cafe,-1.6289162635803225,53.84910903224781,YY
+Yorkshire Cycle Hub,cafe,cafe,-0.8907938003540039,54.43270511437802,YY
+Yorkshire Dales Guides,office,company,-2.277286648750305,54.09402091587085,YY
+Yorkshire Dales Ice Cream,ice_cream,ice_cream,-2.019461989402771,53.96067160235637,YY
+Yorkshire Dales National Park,information,board,-2.592151165008545,54.36277977084035,W_CU
+Yorkshire Dales National Park,fuel,charging_station,-1.9981437921524048,54.06460168359104,YY
+Yorkshire Dales National Park Authority,office,government,-2.105952501296997,54.30610513920467,YY
+Yorkshire Dales National Park Authority,fuel,charging_station,-1.9833165407180784,54.2947013531708,YY
+Yorkshire Dales National Park Demi-Fern,fuel,charging_station,-1.997725367546081,54.06996906971586,YY
+Yorkshire Dales National Park Free Tramper Hire,shop,charity,-1.9834184646606443,54.29456046864643,YY
+Yorkshire Dales National Park Rhys-Zara,fuel,charging_station,-2.3906636238098145,54.11782615556773,YY
+Yorkshire Dales Sailing Club,harbor,marina,-1.9019114971160889,54.07359520415564,YY
+Yorkshire Dance Centre,bar,bar,-1.5332365036010742,53.79713080115532,YY
+Yorkshire Deli and Pizza Bar,restaurant,restaurant,-1.5003257989883425,53.68518852555499,YY
+Yorkshire Dental Suite,dentist,dentist,-1.0739028453826904,53.97438261893027,YY
+Yorkshire Dental Suite,dentist,dentist,-1.4944356679916382,53.82097311289629,YY
+Yorkshire Dental Suite,dentist,dentist,-1.707258224487305,53.87124232917654,YY
+Yorkshire Dental Suite,dentist,dentist,-1.4983302354812622,53.68264373279479,YY
+Yorkshire Egg Man,shop,convenience,-1.7820006608963013,53.649178594850845,YY
+Yorkshire Evening Post,office,newspaper,-1.5595489740371704,53.79342986203098,YY
+Yorkshire Farmer's Meat Company,butcher,butcher,-1.5391695499420166,53.99444716013026,YY
+Yorkshire Field Sports-Apparel,shop,outdoor,-1.4648830890655518,53.43932062376429,YY
+Yorkshire Fish and Chips,fast_food,fast_food,-1.4680588245391846,54.013663589188965,YY
+Yorkshire Fisheries,fast_food,fast_food,-3.050132989883423,53.819522752525664,LL
+Yorkshire Fisheries,fast_food,fast_food,-1.4204764366149902,53.68611300019957,YY
+Yorkshire Florist,shop,florist,-1.1485487222671509,53.53960287218987,YY
+Yorkshire Flower and Plant Warehouse,office,company,-1.0939282178878784,53.989051092623626,YY
+Yorkshire Fonefix & Vapes,shop,mobile_phone,-1.500009298324585,53.377978212552,YY
+Yorkshire Fried Chicken,fast_food,fast_food,-1.517309546470642,53.81621650325639,YY
+Yorkshire Fruit And Vegetables,grocery,greengrocer,-1.2930446863174438,53.59463160858209,YY
+Yorkshire Furniture,shop,furniture,-1.4658164978027344,53.3687642590405,YY
+Yorkshire Gentlemen's Cricket Club,cricket,cricket,-1.0377413034439087,53.87295024446416,YY
+Yorkshire Gliding Club & Cafe,cafe,cafe,-1.209627985954285,54.22884327682803,YY
+Yorkshire Handlers Ltd,office,company,-1.0077273845672607,53.96196242891402,YY
+Yorkshire Heart,cafe,cafe,-1.240983009338379,54.01288186333741,YY
+Yorkshire Hussar Inn,beer,pub,-1.562252640724182,54.07979226494668,YY
+Yorkshire Ice Cream,ice_cream,ice_cream,-2.27692186832428,54.06858085630064,YY
+Yorkshire Jewellery,shop,jewelry,-1.7820113897323608,53.64534695490736,YY
+Yorkshire Jewellery Company,shop,jewelry,-0.9735292196273804,54.58290352177209,YY
+Yorkshire Jewellery Ltd,shop,jewelry,-1.541556715965271,53.79832846664533,YY
+Yorkshire Lavender,garden,garden,-0.9826916456222534,54.12782034416089,YY
+Yorkshire Lavender Gift Shop,shop,gift,-0.9811627864837646,54.12845217000613,YY
+Yorkshire Lean Meat,butcher,butcher,-1.3182199001312256,53.90786497737613,YY
+Yorkshire Lounge,bar,bar,-1.6582703590393066,53.86923702110307,YY
+Yorkshire Main Community Centre,town_hall,community_centre,-1.1886906623840332,53.48415138847167,YY
+Yorkshire Main/Edlington Crown Green Bowls Club,pitch,bowls,-1.1801612377166748,53.48881793923509,YY
+Yorkshire Main/Edlington Crown Green Bowls Club,pitch,bowls,-1.180880069732666,53.48875729651913,YY
+Yorkshire Martyrs School Stand 1,bus,bus_stop,-1.6988897323608398,53.76442258750316,YY
+Yorkshire Martyrs School Stand 2,bus,bus_stop,-1.6985732316970823,53.764397219950986,YY
+Yorkshire Martyrs School Stand 3,bus,bus_stop,-1.6984069347381592,53.76437819427681,YY
+Yorkshire Martyrs School Stand 4,bus,bus_stop,-1.6981923580169678,53.76436868143648,YY
+Yorkshire Martyrs School Stand 5,bus,bus_stop,-1.698288917541504,53.764007191907055,YY
+Yorkshire Martyrs School Stand 6,bus,bus_stop,-1.6984552145004272,53.76405475649663,YY
+Yorkshire Martyrs School Stand 7,bus,bus_stop,-1.6986483335494995,53.764118175865576,YY
+Yorkshire Martyrs School Stand 8,bus,bus_stop,-1.6988468170166016,53.76418159513873,YY
+Yorkshire Martyrs School Stand 9,bus,bus_stop,-1.699238419532776,53.76434648480067,YY
+Yorkshire Meat and Game Larder,butcher,butcher,-0.6018179655075073,53.76857631744657,YY
+Yorkshire Menswear,clothing_store,clothes,-1.6629159450531006,53.82311372774192,YY
+Yorkshire Miners Welfare Crown Green Bowls Club,pitch,bowls,-1.323675513267517,53.69077636353998,YY
+Yorkshire Mountaineering Club Hut,lodging,hostel,-3.0913424491882324,54.37673938092254,L_CU
+Yorkshire Museum,museum,museum,-1.087571382522583,53.96180778431896,YY
+Yorkshire Museum of Farming,museum,museum,-1.011015772819519,53.962543130026646,YY
+Yorkshire Muslim Academy,place_of_worship,muslim,-1.4381468296051023,53.40454317516237,YY
+Yorkshire Natural History Museum,museum,museum,-1.5052717924118042,53.40103156259745,YY
+Yorkshire Orthodontics,dentist,dentist,-1.6933321952819824,53.90499866783399,YY
+Yorkshire Outdoors,attraction,attraction,-1.2882649898529053,54.25577386000271,YY
+Yorkshire Paintball and Outdoor Activity Centre,pitch,paintball;airsoft;lasertag,-0.9931576251983644,53.85299491213004,YY
+Yorkshire Payments,office,financial_advisor,-1.780836582183838,53.701321029792425,YY
+Yorkshire Pet Co.,shop,pet,-1.6565698385238647,54.22244895309032,YY
+Yorkshire Pet Shop,shop,pet,-1.6618269681930542,53.79684246916988,YY
+Yorkshire Pianos,music,musical_instrument,-1.8746870756149288,53.97362224111171,YY
+Yorkshire Property management,office,property_management,-1.3775557279586792,53.7952993840841,YY
+Yorkshire Quality Books,library,books,-0.778382420539856,54.246534616577264,YY
+Yorkshire Removals & Storage,office,moving_company,-1.4387744665145874,54.004149491714834,YY
+Yorkshire Rose,beer,pub,-0.2744275331497192,53.97373267028687,YY
+Yorkshire Rose,beer,pub,-2.019188404083252,53.960539045776926,YY
+Yorkshire Sculpture Park,attraction,attraction,-1.5693175792694092,53.61406712337429,YY
+Yorkshire Sculpture Park,bus,bus_stop,-1.5682661533355713,53.61385072731829,YY
+Yorkshire Sitting Pretty,shop,gift,-1.3438457250595093,54.23292270786977,YY
+Yorkshire Smiles,dentist,dentist,-1.5032386779785156,53.80024212569749,YY
+Yorkshire Smiles,dentist,dentist,-1.4836853742599487,53.556699296899446,YY
+Yorkshire Street,bus,bus_stop,-2.879962921142578,54.06569725335588,LL
+Yorkshire Street Fish & Chips,fast_food,fast_food,-2.880724668502808,54.06558391989293,LL
+Yorkshire Street Grill,cafe,cafe,-3.0554062128067017,53.8096665727042,LL
+Yorkshire Street/Elliot Street,bus,bus_stop,-2.15058982372284,53.62122347976716,L_GM
+Yorkshire Street/Regent Street,bus,bus_stop,-2.149946093559265,53.62156074364024,L_GM
+Yorkshire Street/Rugby Road,bus,bus_stop,-2.147698402404785,53.62222889995923,L_GM
+Yorkshire Street/Rugby Road,bus,bus_stop,-2.147199511528015,53.62228298834134,L_GM
+Yorkshire Street/St James' Church,bus,bus_stop,-2.1534544229507446,53.62075894209589,L_GM
+Yorkshire Street/Town Head,bus,bus_stop,-2.1530091762542725,53.62060939805912,L_GM
+Yorkshire Subterranean Society (YSS),lodging,hostel,-2.291797399520874,54.12106769315449,YY
+Yorkshire Subterranean Society Ford-Jude,fuel,charging_station,-2.2918081283569336,54.12097337459447,YY
+Yorkshire Tea Room,cafe,cafe,-1.5227115154266355,54.135602761017694,YY
+Yorkshire Terrier,beer,pub,-1.3632380962371826,53.40199104835852,YY
+Yorkshire Trading,shop,general,-1.4663958549499512,54.00842763702013,YY
+Yorkshire Trading,shop,general,-0.7783985137939453,54.2461898286337,YY
+Yorkshire Trading Co,shop,general,-0.7967609167098999,54.135546189757065,YY
+Yorkshire Trading Co.,shop,general,-1.4663797616958618,54.00841817955682,YY
+Yorkshire Trading Company,shop,hardware,-2.017096281051636,53.96033074172907,YY
+Yorkshire Trading Company,clothing_store,clothes,-1.7385971546173096,54.4027302927045,YY
+Yorkshire Travel,shop,travel_agency,-1.151767373085022,53.61621193018722,YY
+Yorkshire Vehicle Solutions,car,car,-1.2767153978347778,53.9991645982642,YY
+Yorkshire Vets,veterinary,veterinary,-1.6940134763717651,53.7521904788269,YY
+Yorkshire Vets,veterinary,veterinary,-1.633840799331665,53.84658364980864,YY
+Yorkshire Vets,veterinary,veterinary,-1.5255868434906006,53.85039698191824,YY
+Yorkshire Vets,veterinary,veterinary,-1.5672844648361206,53.82922781069928,YY
+Yorkshire Way/West Moor Park,bus,bus_stop,-1.0364538431167605,53.5396443148268,YY
+Yorkshire Way/West Moor Park,bus,bus_stop,-1.0369205474853516,53.539577369008526,YY
+Yorkshire Wildlife Park,zoo,zoo,-1.0370439291000366,53.5010021742032,YY
+Yorkshire Wildlife Park,shop,ticket,-1.0291528701782229,53.4978654991643,YY
+Yorkshire Wolds Dew Ponds,information,board,-0.7110804319381714,54.02312508965695,YY
+Yorkshire Wolds Railway Visitor Centre,museum,museum,-0.6099879741668701,54.03503557732456,YY
+Yorkshire Wolds Way Caravan & Camping,campsite,caravan_site,-0.6254696846008301,54.157939225604814,YY
+Yorkshire Wood Co.,art_gallery,arts_centre,-1.892818808555603,53.79541662252084,YY
+Yorkshire cat rescue,shop,charity,-2.016077041625977,53.96115132740663,YY
+Yorkshire to Ukraine,office,ngo,-1.3563823699951172,54.218986385101765,YY
+Yorkshire's Brain Tumour Charity,shop,charity,-1.5770262479782104,53.82034927408588,YY
+Yummy Yorkshire Ice Cream Company,ice_cream,ice_cream,-1.673290729522705,53.55560627582936,YY
+Yummy Yorkshire Ice Cream Company,ice_cream,ice_cream,-1.6728025674819946,53.55567319629819,YY
+west yorkshire police Inner East,police,police,-1.4644861221313477,53.809416337458025,YY
+yorkshire dales ice cream,ice_cream,ice_cream,-1.9978702068328855,54.07167830275058,YY

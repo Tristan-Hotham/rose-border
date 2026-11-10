@@ -1,0 +1,43 @@
+historic,modern,zone,area_km2,sliver_km2,n_parts
+Yorkshire,Yorkshire,YY,14597.9,0.76,1
+Cumberland,Cumbria,U_CU,3936.7,0.2,1
+Lancashire,Lancashire,LL,2679.2,1.49,1
+Derbyshire,Derbyshire,Der>Derbys,2535.0,0.0,1
+Durham,Durham,DD,2289.5,0.01,1
+Cheshire,Cheshire,CC,2193.0,0.29,1
+Lincolnshire,Lincolnshire,Lin>Lincol,2156.4,1.23,2
+Westmorland,Cumbria,W_CU,2031.7,0.0,1
+Lancashire,Greater Manchester,L_GM,928.8,0.31,1
+Nottinghamshire,Nottinghamshire,Not>Nottin,633.5,0.01,1
+Lancashire,Cumbria,L_CU,620.8,0.43,3
+Lancashire,Merseyside,L_MS,488.8,0.29,1
+Yorkshire,Durham,T_YD,392.0,0.12,1
+Yorkshire,Lancashire,T_YL,385.0,0.15,1
+Cheshire,Greater Manchester,C_GM,254.4,0.03,1
+Yorkshire,Cumbria,T_YC,212.9,3.48,1
+Cheshire,Merseyside,C_MS,156.9,0.09,1
+Lancashire,Cheshire,L_CH,146.9,0.69,1
+Yorkshire,Greater Manchester,T_YG,75.9,0.02,1
+Cheshire,Derbyshire,Che>Derbys,69.4,0.2,2
+Derbyshire,Yorkshire,Der>Yorksh,62.2,0.08,1
+Lancashire,Yorkshire,L_YO,28.7,0.12,1
+Yorkshire,Lincolnshire,Yor>Lincol,28.6,4.26,1
+Nottinghamshire,Yorkshire,Not>Yorksh,19.2,0.81,2
+Derbyshire,Greater Manchester,Der>Greate,16.4,0.05,1
+Cheshire,Yorkshire,Che>Yorksh,0.0,0.06,0
+Durham,Cumbria,Dur>Cumbri,0.0,0.08,0
+Cumberland,Durham,Cum>Durham,0.0,0.03,0
+Westmorland,Durham,Wes>Durham,0.0,0.12,0
+Westmorland,Yorkshire,Wes>Yorksh,0.0,0.09,0
+Westmorland,Lancashire,Wes>Lancas,0.0,0.08,0
+Yorkshire,Derbyshire,Yor>Derbys,0.0,0.57,0
+Yorkshire,Nottinghamshire,Yor>Nottin,0.0,2.86,0
+Derbyshire,Cheshire,Der>Cheshi,0.0,0.04,0
+Lincolnshire,Yorkshire,Lin>Yorksh,0.0,1.66,0
+Derbyshire,Nottinghamshire,Der>Nottin,0.0,0.56,0
+Durham,Yorkshire,Dur>Yorksh,0.0,0.9,0
+Lincolnshire,Nottinghamshire,Lin>Nottin,0.0,0.94,0
+Nottinghamshire,Derbyshire,Not>Derbys,0.0,2.65,0
+Nottinghamshire,Lincolnshire,Not>Lincol,0.0,3.54,0
+Northumberland,Cumbria,Nor>Cumbri,0.0,0.33,0
+Northumberland,Durham,Nor>Durham,0.0,0.2,0

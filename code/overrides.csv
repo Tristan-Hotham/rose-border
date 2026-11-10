@@ -1,0 +1,76 @@
+osm,name,set,value,why
+relation/191018,12 White Rose Centre - Roundhay,dropped,route or stop,bus route relation
+relation/244882,Bowling Back Lane near West Yorkshire Waste,dropped,route or stop,bus stop relation
+relation/12428981,First 9A: White Rose Centre > Rothwell > Seacroft,dropped,route or stop,bus route
+relation/250947,Grosvenor Road at White Rose Avenue,dropped,route or stop,bus stop relation
+relation/249179,Kirkstall Road at Yorkshire Television Studios,dropped,route or stop,bus stop relation
+node/8520750644,Kirkstall Road Yorkshire TV,dropped,route or stop,bus stop name
+relation/248434,White Rose Access Road,dropped,route or stop,road relation
+node/496741787,White Rose Avenue Grosvenor Road,dropped,route or stop,bus stop name
+relation/250948,White Rose Avenue at Dalton Green Lane,dropped,route or stop,bus stop relation
+relation/246300,White Rose Avenue at Tolson Crescent,dropped,route or stop,bus stop relation
+relation/248354,Wellington Road-Yorks. Post,dropped,route or stop,bus stop relation
+relation/245025,Yorkshire Martyrs and Tong Schools,dropped,route or stop,bus stop relation
+relation/15406213,Yorkshire Buses: 29 - Horsforth > White Rose,dropped,route or stop,bus route
+relation/15070755,Yorkshire Buses: 61: John Chales => St James (H),dropped,route or stop,bus route
+relation/20814209,Yorkshire Buses: 61: St James (H) => John Chales,dropped,route or stop,bus route
+relation/1861083,East Lancashire Line,dropped,route or stop,railway line relation
+node/9397637862,East Lancashire Junction,dropped,route or stop,railway junction
+way/1111645582,White Rose Station,dropped,route or stop,railway station
+way/734600771,White Rose,dropped,route or stop,bus station at a shopping centre
+relation/1974548,West Lancashire Light Railway,dropped,route or stop,railway line relation
+relation/38386,Lancashire Coastal Way,dropped,route or stop,long-distance path
+relation/34789,Lancashire Cycleway (Northern Loop),dropped,route or stop,cycle route
+relation/9994182,Great North Trail (Yorkshire Dales),dropped,route or stop,cycle route
+relation/1192046,Yorkshire Dales Cycleway,dropped,route or stop,cycle route
+relation/17330897,Yorkshire Heritage Way,dropped,route or stop,long-distance path
+relation/1548002,West Yorkshire Cycle Route,dropped,route or stop,cycle route
+way/118917432,White Rose Ring,dropped,route or stop,walking route
+node/6537649274,Lancashire Witches Walk Waymarker,dropped,route or stop,waymarker on a walking route
+relation/118082,Lancashire,dropped,administrative area,boundary relation
+relation/8766446,Lancashire,dropped,administrative area,boundary relation
+relation/88081,Lancashire,dropped,administrative area,boundary relation
+relation/148586,West Lancashire,dropped,administrative area,district boundary
+relation/13390974,West Riding of Yorkshire,dropped,administrative area,historic boundary relation
+relation/14212258,West Yorkshire,dropped,administrative area,county boundary
+relation/307985,Yorkshire Dales National Park,dropped,administrative area,national park boundary
+node/1284497883,Walshaw and Lancashire Moor,dropped,landmark or natural feature,moorland name
+node/4907490838,White Rose Forest,dropped,landmark or natural feature,community forest
+node/8033553288,Lancashire Dialect Poets Monument,dropped,landmark or natural feature,monument
+node/12412269164,Lancashire Fusiliers War Memorial,dropped,landmark or natural feature,war memorial
+node/4438213390,"Lancashire Fusiliers, Boer War Memorial",dropped,landmark or natural feature,war memorial
+node/1900815467,North Lancs Regiment - South African War Memorial,dropped,landmark or natural feature,war memorial
+node/1700801440,The Lancashire Fusiliers,dropped,landmark or natural feature,memorial or regimental landmark
+way/1353417570,White Rose View,dropped,route or stop,street or housing name
+way/156492525,Affinity Lancashire Car Park,dropped,car park,car park of a shopping centre
+way/1217640134,BBC Radio Lancashire Staff Car Park,dropped,car park,car park
+way/902731527,Lancashire County Council Cuerden Mill Depot Staff Parking,dropped,car park,car park
+way/1268131662,Lancashire County Council Staff,dropped,car park,car park
+way/1268131663,Lancashire County Council Visitors,dropped,car park,car park
+way/1206491254,South Yorkshire Police,dropped,car park,car park
+way/456606985,West Yorkshire Police Staff Mutilstorey Car Park,dropped,car park,car park
+way/239968265,BBC Radio Lancashire,type,public,public broadcaster named for its area
+way/84962945,BBC Yorkshire,type,public,public broadcaster named for its area
+relation/6968765,ITV Yorkshire,type,public,regional broadcast franchise named for its area
+way/200183769,Craven DC & N Yorks Offices,type,public,council offices
+way/394188779,Girl Guiding North Yorkshire,type,public,unit of a national organisation named for its administrative area
+way/506835639,Cumbria & Lancashire CRC,type,public,probation company
+way/479911212,AREA 5: Lancs Women & Newborn Centre,type,public,NHS hospital unit
+way/530000812,B&FC Lancashire Energy HQ,type,public,further education college
+way/147090600,North East and Yorkshire Genomics Laboratory Hub,type,public,NHS laboratory
+node/14040063806,Forest of Bowland - Keeping Lancashire on Tap,type,public,water utility sign
+way/56684420,Yorkshire Clinic,type,private,private hospital
+way/1496204770,Greater Lancashire Hospital,type,private,private hospital
+node/12097233410,Greater Lancashire Hospital,type,private,private hospital
+node/11146956344,Yorkshire Beauty School,type,private,private beauty school
+node/12344565635,Yorkshire English School,type,private,private language school
+way/232520747,Yorkshire College of Music & Drama,type,private,private college
+node/9590925143,The West Yorkshire School of Performing Arts,type,private,private dance school
+way/272159098,East Lancashire Hospice,type,private,charity hospice and shop
+node/11510447943,East Lancashire Hospice,type,private,charity shop
+node/12812054823,East Lancashire Hospice,type,private,charity hospice
+way/913591632,White Rose Water Ski Club,type,private,club (matched the water utility rule)
+way/122476512,Yorkshire Natural History Museum,type,private,private museum
+node/105850416,The West Lancashire Golf Club,dropped,duplicate,same golf club as way/25720491 (node more than 300 m from the course centre)
+way/466221632,Lancashire & Williams,dropped,surname,Lancashire is the founder's surname here (car dealer)
+way/466221631,Lancashire & Williams Car Sales,dropped,surname,Lancashire is the founder's surname here (car dealer)

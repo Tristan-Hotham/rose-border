@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Does the 1974 border still show? | Lancashire and Yorkshire in business names</title>
+<meta name="description" content="Every business, club and venue in OpenStreetMap named after Lancashire or Yorkshire, mapped against the historic county border and the lines moved in 1974.">
+<meta property="og:title" content="Does the 1974 border still show?">
+<meta property="og:description" content="Cross the old Lancashire and Yorkshire line and business names flip from one rose to the other. In the old Lancashire parts of Greater Manchester and Merseyside the Lancashire name lives on, at about a quarter of the rate.">
+<meta property="og:image" content="https://maps.tristanhotham.com/rose-border/header.png">
+<meta property="og:url" content="https://maps.tristanhotham.com/rose-border/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+:root{--bg:#F6EED8;--panel:#EFE3C4;--fg:#2B2119;--muted:#6E604E;--rule:#E2D3AE;--card:#FBF5E4;--border:#D3C29A;--hot:#B4442E;--cool:#2F6A9E;
+  --display:"Fraunces",Georgia,serif;--body:"Source Serif 4",Georgia,serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1A1612;--panel:#241E18;--fg:#EFE6D4;--muted:#ADA08B;--rule:#3A3128;--card:#211B15;--border:#4D4234;--hot:#E07A6C;--cool:#8FB4DA;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#1A1612;--panel:#241E18;--fg:#EFE6D4;--muted:#ADA08B;--rule:#3A3128;--card:#211B15;--border:#4D4234;--hot:#E07A6C;--cool:#8FB4DA;color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 64px}
+a{color:inherit;text-decoration-color:var(--hot);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--hot);color:#fff;padding:5px 8px;font-weight:500}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:54px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--hot);display:block;letter-spacing:.1em;margin-bottom:10px}
+p{margin:0 0 16px}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+ul.plain{padding-left:20px} ul.plain li{margin:4px 0}
+details{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0;margin:18px 0;font-size:16px}
+summary{font:500 13px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;cursor:pointer;color:var(--muted)}
+.cta{display:flex;flex-wrap:wrap;gap:10px;margin:30px 0 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--hot);border-color:var(--hot);color:#fff}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:4px 8px;cursor:pointer;min-height:28px}
+.figure{margin:22px 0}.figure img{width:100%;display:block;border:1px solid var(--border);background:#F6EED8}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:22px 0}
+.stat b{display:block;font:900 40px/1 var(--display);color:var(--hot)}
+.stat span{font:400 13px/1.35 var(--mono);color:var(--muted)}
+table.t{width:100%;border-collapse:collapse;font:400 13.5px/1.4 var(--mono);margin:12px 0 4px}
+table.t th{text-align:left;font-weight:500;border-bottom:2px solid var(--fg);padding:5px 6px 5px 0}
+table.t td{border-bottom:1px solid var(--rule);padding:5px 6px 5px 0;vertical-align:top}
+table.t td.r,table.t th.r{text-align:right}
+.tscroll{overflow-x:auto}
+.topbar{height:40px;display:flex;align-items:center;gap:14px;margin:0 calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:0 max(14px,env(safe-area-inset-left,0px));border-bottom:3px double var(--fg);background:var(--bg);overflow:hidden;white-space:nowrap}
+.tb-name{font:800 18px/1 var(--display);color:var(--hot);text-decoration:none}
+.tb-k{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.tb-links{margin-left:auto;display:flex;gap:16px;align-items:center;font:500 12px/1 var(--mono)}
+.tb-links a{text-decoration:none}
+.mapband{width:100vw;margin-left:calc(50% - 50vw)}
+.pane{position:relative;height:calc(100vh - 43px);height:calc(100svh - 43px);min-height:480px;border-bottom:1px solid #BCA676;background:#EEF1F2;overflow:hidden}
+#map{position:absolute;inset:0}
+.cartouche{position:absolute;left:14px;top:14px;z-index:5;max-width:min(340px,calc(100% - 28px));background:rgba(251,243,220,.96);color:#2B2119;border:2px solid #2B2119;padding:10px 14px;box-shadow:0 3px 14px rgba(60,40,10,.22)}
+.cartouche h1{font:900 clamp(22px,2.3vw,30px)/1 var(--display);letter-spacing:-.015em;margin:6px 0 0;color:#2B2119}
+.cartouche h1 .a{color:#B4442E}
+.cartouche .dek{font-size:13.5px;line-height:1.36;margin:6px 0 0}
+.cartouche .byline{font-size:11px;color:#6E604E;margin-top:6px}.cartouche .kicker{color:#6E604E}
+.ct-fold{position:absolute;right:6px;top:5px;width:26px;height:26px;border:0;background:none;color:#B4442E;font:700 16px/1 var(--mono);cursor:pointer;padding:0}
+.ct-toggle{display:none;font:800 16px/1 var(--display);color:#B4442E;background:none;border:0;padding:2px 0;cursor:pointer;min-height:30px}
+.cartouche.folded .ct-body,.cartouche.folded .ct-fold{display:none}.cartouche.folded .ct-toggle{display:block}.cartouche.folded{padding:4px 11px}
+.ov-top{position:absolute;z-index:6;right:54px;top:10px;max-width:calc(100% - 480px);display:flex;flex-direction:column;gap:6px;align-items:flex-end;pointer-events:none;font:400 13px/1.3 var(--mono);color:#2B2119}
+.ov-top>*{pointer-events:auto}
+.srch{position:relative;width:min(340px,100%)}
+.srch input{width:100%;font:400 15px/1 var(--mono);background:rgba(251,245,228,.97);color:#2B2119;border:1px solid #9C8656;border-radius:3px;padding:9px 10px;min-height:40px}
+.sug{position:absolute;left:0;right:0;top:100%;margin:2px 0 0;padding:0;list-style:none;background:#FBF5E4;border:1px solid #9C8656;max-height:300px;overflow:auto;display:none;z-index:12}
+.sug li{padding:8px 10px;cursor:pointer;border-bottom:1px solid #E7D9B6}.sug li span{color:#7A6A52;font-size:12px}
+.sug li[aria-selected="true"],.sug li:hover{background:#EFE1BC}
+.chips{display:flex;gap:6px;overflow-x:auto;max-width:100%;scrollbar-width:none;padding-bottom:2px}.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;font:500 12px/1 var(--mono);background:rgba(251,245,228,.95);color:#2B2119;border:1px solid #9C8656;border-radius:999px;padding:8px 11px;cursor:pointer;min-height:34px;white-space:nowrap}
+.chip[aria-pressed="true"]{background:#B4442E;color:#fff;border-color:#2B2119}
+.chip.lyr{background:#2B2119;color:#F6EED8;border-color:#2B2119}
+.lp{position:absolute;right:54px;top:60px;z-index:9;background:rgba(251,245,228,.98);border:1px solid #9C8656;border-radius:4px;padding:10px 12px 8px;font:400 13px/1.3 var(--mono);color:#2B2119;box-shadow:0 3px 12px rgba(60,40,10,.25);display:none;min-width:250px}
+.lp.open{display:block}.lp h4{margin:0 0 6px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#7A6A52}
+.lp label{display:flex;gap:8px;align-items:center;padding:5px 0;cursor:pointer;min-height:30px}.lp input{accent-color:#B4442E;width:16px;height:16px;flex:none}
+.keys{position:absolute;left:12px;bottom:12px;z-index:4;background:rgba(251,243,220,.96);border:1px solid #9C8656;border-radius:3px;padding:8px 10px;font:400 11.5px/1.25 var(--mono);color:#2B2119;max-width:270px}
+.keys b{display:block;font:800 14px/1.1 var(--display);margin-bottom:5px}
+.keys .bar{height:10px;border:1px solid rgba(43,33,25,.4)}
+.keys .ends{display:flex;justify-content:space-between;font-size:10.5px;color:#6E604E;margin-top:2px}
+.keys .row{display:flex;align-items:center;gap:6px;margin-top:5px}.keys .dot{width:10px;height:10px;border-radius:50%;background:#B9B4AA;border:1px solid #fff;box-shadow:0 0 0 1px #888}
+.maplibregl-popup-content{background:#FBF5E4;color:#2B2119;font:400 13px/1.45 var(--mono);border:1px solid #9C8656;border-radius:4px;padding:10px 12px;max-width:320px;max-height:44vh;overflow:auto}
+.maplibregl-popup-content b.t{display:block;font:800 19px/1.15 var(--display);color:#B4442E;margin-bottom:3px;padding-right:14px}
+.maplibregl-popup-content table{border-collapse:collapse;margin:5px 0}.maplibregl-popup-content td{padding:1px 8px 1px 0;vertical-align:top}
+.maplibregl-popup-content td:first-child{color:#7A6A52}.maplibregl-popup-content .nt{color:#7A6A52;font-size:11.5px;margin:5px 0 0}
+.maplibregl-popup-content a{color:#B4442E}
+.maplibregl-ctrl-attrib{font:400 11px/1.3 var(--mono)!important}
+.nojs{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:400 14px var(--mono);color:#6E604E;padding:20px;text-align:center}
+@media (max-width:1000px){.ov-top{left:10px;right:54px;max-width:none;align-items:flex-start}.lp{left:10px;right:auto;top:100px}.cartouche{top:100px}}
+@media (max-width:600px){.tb-k,.tb-links a.x{display:none}.topbar{gap:10px}.tb-name{font-size:15px}.tb-links{gap:10px}
+  .lp{left:8px;right:8px;min-width:0}.ov-top{left:8px;top:8px}.cartouche{left:8px;top:100px;max-width:calc(100% - 16px)}.cartouche h1{font-size:23px}
+  .ct-toggle{display:block}.ct-fold{display:none}.keys{max-width:200px;font-size:10.5px;padding:6px 8px}.chip{padding:8px 8px;font-size:11.5px}.keys .kx{display:none}.chips{flex-wrap:wrap}.cartouche{top:150px}}
+.maplibregl-popup{z-index:7}
+.keys .rowk{display:flex;align-items:center;gap:7px;margin-top:4px}
+.keys .sw{width:12px;height:12px;border-radius:50%;flex:none}
+.keys .ln{width:22px;height:0;border-top:3px solid #5B2A86;flex:none}.keys .ln.h{border-top:3px dashed #2B2119}
+.keys .bx{width:14px;height:10px;flex:none;border:1px solid #8C7E66}
+.chip.on{background:#B4442E;color:#fff}
+figure.tbl{margin:18px 0}
+@media (max-width:600px){.keys .kx{display:none}}
+
+</style></head>
+<body>
+<div class="topbar">
+  <a class="tb-name" href="#mapWrap">Does the 1974 border still show?</a>
+  <span class="tb-k">Data study · 2026</span>
+  <nav class="tb-links"><a href="#essay">About</a><button class="theme" id="theme" aria-label="Toggle dark mode">◐</button><a href="https://doi.org/10.5281/zenodo.24104647">Paper</a><a class="x" href="https://github.com/Tristan-Hotham/rose-border">Data and code</a></nav>
+</div>
+<div class="mapband">
+  <div class="pane" id="mapWrap" data-fullscreen-map role="application" aria-label="Map of businesses named after Lancashire or Yorkshire, with the historic county border and the areas moved in 1974">
+    <div id="map"></div>
+    <div class="nojs" id="nojs">Loading the map. It needs JavaScript and WebGL.</div>
+    <div class="cartouche" id="cartouche">
+      <button class="ct-toggle" id="ctToggle" aria-expanded="true">Does the 1974 border still show? ▾</button>
+      <button class="ct-fold" id="ctFold" title="Fold the title" aria-label="Fold the title">▴</button>
+      <div class="ct-body">
+        <div class="kicker"><b>Data study</b><span>2026</span></div>
+        <h1>Does the 1974 border <span class="a">still show?</span></h1>
+        <p class="dek">Every shop, club and venue in OpenStreetMap in and around Lancashire and Yorkshire whose name says Lancashire (red) or Yorkshire (white rose). Shaded: areas that changed county in 1974. Showing <b id="nShown">0</b> county names. Tap a dot.</p>
+        <div class="byline">Dr Tristan Hotham · Independent researcher · 2026</div>
+      </div>
+    </div>
+    <div class="ov-top">
+      <div class="srch"><input type="search" id="q" placeholder="Find a town or a business" aria-label="Find a town or a business" autocomplete="off"><ul class="sug" id="sug" role="listbox"></ul></div>
+      <div class="chips"><button class="chip" data-t="private" aria-pressed="true">Businesses and clubs</button><button class="chip" data-t="chain" aria-pressed="false">Chains</button><button class="chip" data-t="public" aria-pressed="false">Public bodies</button><button class="chip lyr" id="lyrBtn" aria-expanded="false" aria-controls="lp">Layers</button></div>
+    </div>
+    <div class="lp" id="lp" role="dialog" aria-label="Map layers">
+      <h4>Layers</h4>
+      <label><input type="checkbox" id="lyM" checked> Areas moved in 1974</label>
+      <label><input type="checkbox" id="lyH" checked> Historic county border</label>
+      <label><input type="checkbox" id="lyN" checked> County borders since 1974</label>
+      <label><input type="checkbox" id="lyR" checked> Red Rose and White Rose names (rings)</label>
+      <label><input type="checkbox" id="lyL" checked> Business names (close in)</label>
+      <label><input type="checkbox" id="lyB" checked> Base map labels</label>
+    </div>
+    <div class="keys" id="keys"><b>What the name says</b>
+      <div class="rowk"><span class="sw" style="background:#C0392B;border:1px solid #fff;box-shadow:0 0 0 1px #C0392B"></span>Lancashire, Lancs</div>
+      <div class="rowk"><span class="sw" style="background:#fff;border:2px solid #1F3A68"></span>Yorkshire, Yorks</div>
+      <div class="rowk kx"><span class="ln h"></span>historic Lancashire and Yorkshire border</div>
+      <div class="rowk kx"><span class="ln"></span>Yorkshire counties' border since 1974</div>
+      <div class="rowk kx"><span class="bx" style="background:#BFCDE6"></span>left Yorkshire in 1974</div>
+      <div class="rowk kx"><span class="bx" style="background:#F1C6BF"></span>left Lancashire in 1974</div>
+      <div class="rowk kx" style="color:#6E604E">Names: OpenStreetMap, 2026. Mapped area: historic Lancashire and Yorkshire and the counties around them.</div></div>
+  </div>
+</div>
+<div class="wrap" id="essay">
+<p style="margin-top:6px">In 1974 the map of England was redrawn. Bowland, Barnoldswick and Earby went from Yorkshire into Lancashire. Saddleworth went into Greater Manchester, Sedbergh and Dent into Cumbria. Lancashire lost Furness and Cartmel to Cumbria, Warrington and Widnes to Cheshire, and Manchester and Liverpool to two new metropolitan counties. Half a century on, which county do local businesses, clubs and societies put in their names? I took every feature in OpenStreetMap whose name says Lancashire, Lancs, Yorkshire or Yorks, cleaned out the roads, bus stops, railways and branch names of big chains, and mapped the 389 businesses, clubs and venues left in and around the two counties against both the historic border and the new one. The main test I set in a plan written before looking, in the places that moved from Yorkshire to Lancashire, could not be answered: there are no county-named businesses there on the map. What the map does show is a sharp line where the old border did not move, and the Lancashire name thinning in Greater Manchester and Merseyside.</p>
+<div class="byline">Dr Tristan Hotham · Independent researcher · 2026 · Data: OpenStreetMap contributors (ODbL); OpenFreeMap; Historic County Borders Project; ONS district boundaries (OGL v3.0) · Base map: OpenFreeMap Positron</div>
+<div class="stats">
+<div class="stat"><b>98%</b><span>of county-named businesses within 25 km of the old line on the Yorkshire side say Yorkshire</span></div>
+<div class="stat"><b>3%</b><span>on the Lancashire side (1 of 36)</span></div>
+<div class="stat"><b>27%</b><span>the Lancashire name in the old Lancashire part of Greater Manchester, relative to today's Lancashire</span></div>
+<div class="stat"><b>0</b><span>Lancashire names in the old Cheshire parts of Greater Manchester and Merseyside</span></div>
+</div>
+
+<h2><span class="n">01 · The line</span>Cross it and the rose changes</h2>
+<p>Where the old border between Lancashire and Yorkshire did not move, it still shows sharply in names. Within 25 km of the line on the Yorkshire side, 59 of 60 county-named businesses and clubs say Yorkshire. On the Lancashire side, 1 of 36 does. Within 10 km either side of the line the share saying Yorkshire jumps by 86 percentage points (95% interval 50 to 100). At false borders drawn 10 km into either county there is no comparable jump (-8 and 14 points, neither distinguishable from zero).</p>
+<div class="figure"><img src="img/profile.jpg" alt="Two dot charts of the share of county-named businesses saying Yorkshire against distance from the border: close to zero on the Lancashire side and close to 100% on the Yorkshire side, with the switch at the line" loading="lazy"><p class="src">Share saying Yorkshire in 5 km bands from each border. Along most of its length the 1974 border follows the old one, so the two pictures are nearly the same.</p></div>
+
+<h2><span class="n">02 · Moved out of Lancashire</span>The name thins, it does not vanish</h2>
+<p>The places that left Lancashire in 1974 are larger, and there the map says more (these comparisons were secondary in the plan). Inside today's Lancashire there are 4.1 Lancashire-named businesses and clubs for every 1,000 named shops, cafés, pubs and offices on the map. In the old Lancashire part of Greater Manchester the rate is 1.1 (17 names), about 27% of that (a rate ratio of 0.27, 95% interval 0.15 to 0.48). In the old Lancashire part of Merseyside it is 0.9 (6 names), about 21%. But the parts of the same two counties that were never in Lancashire, Stockport, Sale, Altrincham and Hyde, and the Wirral, have none at all, where 5 would be expected at the rate of their old Lancashire neighbours (an exploratory comparison I had not planned).</p>
+<p>Further out, none were found. In Furness and Cartmel, now in Cumbria, there are no Lancashire-named businesses on the map, where about 5 would be expected at Lancashire's rate. In Warrington and Widnes, now in Cheshire, none either, where about 6 would be expected.</p>
+<div class="figure"><img src="img/rates.jpg" alt="Dot chart of county-named businesses per 1,000 points of interest by area: highest in today's Lancashire, lower but clearly present in the old Lancashire parts of Greater Manchester and Merseyside, and none in Furness, Warrington, or the parts of the metropolitan counties that were never Lancashire" loading="lazy"><p class="src">County-named businesses and clubs per 1,000 named points of interest, with 95% intervals.</p></div>
+<div class="figure"><img src="img/expected.jpg" alt="Bar chart of county-named businesses found in each moved area against the number expected at the old county's rate: well below in every case" loading="lazy"><p class="src">Found, and expected at the rate of the county each area left.</p></div>
+
+<h2><span class="n">03 · Moved out of Yorkshire</span>Too small to tell</h2>
+<p>This was the main test in my written plan, and it could not be carried out. The question was whether businesses in <a data-go="Barnoldswick">Barnoldswick</a>, Earby and the Forest of Bowland call themselves Yorkshire or Lancashire. The map cannot say. Those areas, with Saddleworth, Sedbergh and Dent and south Teesdale, hold 534 named businesses and venues between them on OpenStreetMap, and not one is named after either county. At the rate of the Yorkshire side of the old line, about 4 Yorkshire names would be expected across all four, so finding none is not surprising. A building society branch in Barnoldswick carries the Yorkshire name, but it is a national chain whose name says where it began, not where the branch stands.</p>
+
+<h2><span class="n">04 · Both maps at once</span>Both maps go with Lancashire names</h2>
+<p>A model that puts every area on both maps at once, the historic county and the county today, gives a summary. For Lancashire names, places in historic Lancashire have a rate about 16 times higher (95% interval 6 to 45) even outside today's county, and places in today's Lancashire a further 4.5 times higher (2.1 to 9.3). Both stay above 1 in every check I ran. For Yorkshire the same model puts more weight on the county today, but that rests on a handful of areas with no county names at all, and it reverses when chain branches are included, so I do not lean on it.</p>
+<div class="figure"><img src="img/robust.jpg" alt="Forest plot of rate ratios for the historic county and the county today: for Lancashire names both are above one in every row; for Yorkshire names the intervals are wide and the order changes in one row" loading="lazy"><p class="src">The pooled model under every planned check.</p></div>
+<div class="figure"><img src="img/map.jpg" alt="Map of northern England with red dots for Lancashire names west of the old border and white rose dots for Yorkshire names east of it, with the areas moved in 1974 shaded" loading="lazy"><p class="src">Every county-named business, club and venue in the region. Numbers mark the areas moved in 1974.</p></div>
+
+<h2><span class="n">05 · How I did this</span>Names, lines and a denominator</h2>
+<p><b>Names.</b> The names come from OpenStreetMap, queried for every UK feature whose name contains Lancashire, Lancs, Yorkshire, Yorks, Red Rose or White Rose. I dropped roads and bus stops, railway lines, routes, administrative areas, car parks, memorials, names taken from a street ("Yorkshire Street Dental"), products ("Yorkshire pudding") and one surname. I merged the same name mapped twice within 300 m, and set aside chain branches (the same name in three or more places, such as a building society) and public bodies (police, councils, NHS trusts, universities). I read every name within 40 km of the border, and in every moved area, by eye, and kept 75 hand decisions in a file.</p>
+<p><b>Lines.</b> The historic counties come from the Historic County Borders Project. The counties since 1974 are today's ceremonial counties, built from 2023 district boundaries; for this part of England they follow the 1974 lines, apart from Cleveland and Humberside, which existed from 1974 to 1996.</p>
+<p><b>A fair comparison.</b> A rural valley has fewer businesses than a city, so I count named shops, cafés, pubs, offices and other venues in the OpenFreeMap tiles (106,414 in the region) and express county names per 1,000 of them. I wrote the analysis plan down before computing any share or rate by area.</p>
+<p><b>What this cannot say.</b> OpenStreetMap is mapped by volunteers, so coverage varies. A name says nothing about when it was chosen, so names coined before 1974 cannot be told apart from later ones. Someone may name a firm after where they grew up, a product or a market. And Companies House, which holds registered company names, was not available to this study.</p>
+<details><summary>Sources and licences</summary>
+<ul class="plain">
+<li>Names: OpenStreetMap contributors, queried through QLever, 2026. Open Database Licence (ODbL).</li>
+<li>Points of interest for the denominator: OpenFreeMap vector tiles (OpenMapTiles schema, OpenStreetMap data, ODbL).</li>
+<li>Historic counties: this map made use of data provided by the <a href="https://www.county-borders.co.uk">Historic County Borders Project</a> (Historic Counties Trust, UK Definition A).</li>
+<li>Counties since 1974: ONS Local Authority Districts, December 2023 (Open Government Licence v3.0; contains OS data, Crown copyright and database right).</li>
+<li>Place search: Wikidata settlements (CC0). Base map: OpenFreeMap Positron (OpenStreetMap, ODbL). MapLibre GL JS 4.7.1 (BSD 3-Clause).</li>
+<li>Text and figures CC BY 4.0; code MIT; derived name data ODbL.</li>
+</ul></details>
+<div class="cta"><a class="p" href="https://doi.org/10.5281/zenodo.24104647">Read the paper</a><a href="https://github.com/Tristan-Hotham/rose-border">Data and code</a><a href="https://blog.tristanhotham.com/2026/10/31/rose-border/">Blog post</a></div>
+<footer>
+<p>Dr Tristan Hotham, Independent researcher. ORCID <a href="https://orcid.org/0000-0003-4931-9349">0000-0003-4931-9349</a>.</p>
+<p>Cite as: Hotham, T. (2026) Does the 1974 border still show? Historic and modern county names in the business landscape of Lancashire and Yorkshire. Zenodo. <a href="https://doi.org/10.5281/zenodo.24104647">10.5281/zenodo.24104647</a></p>
+<p>Code: <a href="https://github.com/Tristan-Hotham/rose-border">github.com/Tristan-Hotham/rose-border</a> (MIT). Text and figures CC BY 4.0; derived name data ODbL.</p>
+<p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/page.js?v=2026a"></script>
+<!-- map-fullscreen v1 -->
+<style id="mfs-style">
+.mfs-btn{position:absolute;top:10px;right:10px;z-index:1001;width:34px;height:34px;border:2px solid rgba(0,0,0,.25);border-radius:4px;background:#fff;color:#222;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;box-shadow:0 1px 4px rgba(0,0,0,.2)}
+.mfs-btn:hover{background:#f2f2f2}
+.mfs-btn svg{width:18px;height:18px}
+.mfs-host.mfs-btn-left .mfs-btn{right:auto;left:54px}
+.mfs-fake{position:fixed!important;inset:0!important;width:100vw!important;height:100vh!important;height:100dvh!important;max-width:none!important;max-height:none!important;margin:0!important;z-index:100000!important;border-radius:0!important}
+html.mfs-lock,html.mfs-lock body{overflow:hidden!important}
+:fullscreen.mfs-host{width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;margin:0!important;border-radius:0!important}
+</style>
+<script id="mfs-script">
+(function(){
+  var ICON_OPEN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>';
+  var ICON_CLOSE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>';
+  function poke(){setTimeout(function(){window.dispatchEvent(new Event('resize'));},60);setTimeout(function(){window.dispatchEvent(new Event('resize'));},400);}
+  function realFS(){return document.fullscreenElement||document.webkitFullscreenElement;}
+  function add(el){
+    if(el.__mfs)return; el.__mfs=1;
+    var cs=getComputedStyle(el); if(cs.position==='static')el.style.position='relative';
+    el.classList.add('mfs-host');
+    // avoid clashing with a top-right Leaflet control (e.g. "Map layers")
+    var tr=el.querySelector('.leaflet-top.leaflet-right');
+    if(tr&&tr.children.length){ el.classList.add('mfs-btn-left'); }
+    var b=document.createElement('button'); b.type='button'; b.className='mfs-btn';
+    b.title='Full screen map'; b.setAttribute('aria-label','Full screen map'); b.innerHTML=ICON_OPEN;
+    ['click','dblclick','mousedown','touchstart','wheel'].forEach(function(t){b.addEventListener(t,function(e){e.stopPropagation();},{passive:t!=='click'});});
+    function setIcon(on){b.innerHTML=on?ICON_CLOSE:ICON_OPEN;b.title=on?'Exit full screen':'Full screen map';b.setAttribute('aria-label',b.title);}
+    function exitFake(){el.classList.remove('mfs-fake');document.documentElement.classList.remove('mfs-lock');setIcon(false);poke();}
+    b.addEventListener('click',function(e){
+      e.preventDefault();
+      if(el.classList.contains('mfs-fake')){exitFake();return;}
+      if(realFS()){(document.exitFullscreen||document.webkitExitFullscreen).call(document);return;}
+      var req=el.requestFullscreen||el.webkitRequestFullscreen;
+      if(req){ try{ var p=req.call(el); if(p&&p.catch)p.catch(function(){el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke();}); }catch(err){el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke();} }
+      else { el.classList.add('mfs-fake');document.documentElement.classList.add('mfs-lock');setIcon(true);poke(); }
+    });
+    document.addEventListener('keydown',function(e){if(e.key==='Escape'&&el.classList.contains('mfs-fake'))exitFake();});
+    ['fullscreenchange','webkitfullscreenchange'].forEach(function(t){document.addEventListener(t,function(){setIcon(realFS()===el);poke();});});
+    el.appendChild(b);
+  }
+  function scan(){
+    var els=document.querySelectorAll('[data-fullscreen-map], .leaflet-container, .maplibregl-map, .mapboxgl-map');
+    els.forEach(function(el){
+      if(el.closest('.mfs-host')&&!el.classList.contains('mfs-host'))return;
+      var r=el.getBoundingClientRect(); if(r.width<200||r.height<150)return;
+      add(el);
+    });
+  }
+  function start(){scan(); var n=0; var t=setInterval(function(){scan(); if(++n>20)clearInterval(t);},500);}
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start); else start();
+})();
+</script>
+<!-- /map-fullscreen -->
+
+<script src="https://maps.tristanhotham.com/assets/site-nav.js" defer></script>
+</body>
+</html>
