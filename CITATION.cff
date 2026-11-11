@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Does the 1974 Border Still Show? Historic and Modern County Names in the Business Landscape of Lancashire and Yorkshire"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24104647"
+url: "https://maps.tristanhotham.com/rose-border/"
+repository-code: "https://github.com/Tristan-Hotham/rose-border"
+license: CC-BY-4.0
+keywords:
+  - "historic counties"
+  - "Local Government Act 1972"
+  - "regional identity"
+  - "place branding"
+  - "business names"
+  - "OpenStreetMap"
+  - "Lancashire"
+  - "Yorkshire"
